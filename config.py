@@ -25,8 +25,8 @@ HEADERS = {
 
 DATA_PATH = 'data'
 
-URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={code}'
-ITEM_URL = 'https://www.yad2.co.il/item/{item_code}'
+URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
+ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'
 
 NEIGBORHOODS = {
     'newNorth': [204, 1516, 1519],
