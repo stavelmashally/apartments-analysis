@@ -12,9 +12,14 @@ def to_html_file(html, area, code):
         file.write(html)
 
 
-def extract_info():
+def extract_items():
+    items = []
     for file in os.listdir(config.DATA_PATH):
-        print(file)
+        items.append(file)
+
+
+def extract_info(item_list):
+    pass
 
 
 def scrape_apartments():
@@ -30,4 +35,3 @@ def scrape_apartments():
 
 if __name__ == "__main__":
     scrape_apartments()
-    extract_info()
