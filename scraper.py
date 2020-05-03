@@ -19,8 +19,9 @@ def generate_headers():
     return headers
 
 
+# Last call was: [25:45]
 def extract_info(id_list):
-    for item_id in id_list[15:30]:
+    for item_id in id_list[45:46]:
         url = config.ITEM_URL.format(item_id=item_id)
         res = requests.get(url, headers=generate_headers())
         to_html_file(res.text, item_id, config.ITEMS_PATH)
