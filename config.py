@@ -23,7 +23,8 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
 }
 
-DATA_PATH = 'data'
+SEARCH_RESULTS_PATH = 'data/search-results'
+ITEMS_PATH = 'data/items'
 
 URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
 ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'
