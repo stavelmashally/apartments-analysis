@@ -19,7 +19,7 @@ def generate_headers():
     return headers
 
 
-# Last call was: [180-190]
+# Last call was: [0:0]
 def extract_info(id_list):
     for item_id in id_list[0:0]:
         url = config.ITEM_URL.format(item_id=item_id)
