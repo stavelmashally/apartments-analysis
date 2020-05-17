@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)https://dfpads.yad2.co.il/_2603920244/22092019-56558-120x600/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>120x600</title>
+
+<script src="./easeljs-0.8.1.min.js.הורדה"></script>
+<script src="./tweenjs-0.6.1.min.js.הורדה"></script>
+<script src="./movieclip-0.8.1.min.js.הורדה"></script>
+<script src="./preloadjs-0.6.1.min.js.הורדה"></script>
+<script src="./120x600.js.הורדה"></script>
+
+<script>
+var canvas, stage, exportRoot;
+
+function init() {
+	canvas = document.getElementById("canvas");
+	images = images||{};
+
+	var loader = new createjs.LoadQueue(false);
+	loader.addEventListener("fileload", handleFileLoad);
+	loader.addEventListener("complete", handleComplete);
+	loader.loadManifest(lib.properties.manifest);
+}
+
+function handleFileLoad(evt) {
+	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
+}
+
+function handleComplete(evt) {
+	exportRoot = new lib._120x600();
+
+	stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);
+	stage.update();
+
+	createjs.Ticker.setFPS(lib.properties.fps);
+	createjs.Ticker.addEventListener("tick", stage);
+}
+</script>
+</head>
+
+<body onload="init();" style="background-color: rgb(212, 212, 212); margin: 0px;">
+	<canvas id="canvas" width="120" height="600" style="background-color:#FFFFFF"></canvas>
+
+</body></html>
