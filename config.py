@@ -1,3 +1,4 @@
+import os
 AGENTS = [
     'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
     'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
@@ -23,8 +24,10 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
 }
 
-SEARCH_RESULTS_PATH = 'data/search-results'
-ITEMS_PATH = 'data/items'
+SEARCH_RESULTS_PATH = os.path.join('data', 'search-results')
+ITEMS_PATH = os.path.join('data', 'items')
+SOUT_EAST_PATH = os.path.join('data', 'soutEast')
+NORTH_PATH = os.path.join('data', 'north')
 
 URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
 ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'
@@ -36,5 +39,5 @@ NEIGBORHOODS = {
     # 'centerKerem': [1521],
     # 'centerEast': [485, 486, 206, 317, 318],
     # 'soutWest': [4958, 3078, 2158, 2058, 8478, 4908, 2128],
-    'soutEast': [487, 1649, 2078, 2098, 3088, 2088, 1650, 2108, 4898, 4888, 3198, 2108],
+    #'soutEast': [487, 1649, 2078, 2098, 3088, 2088, 1650, 2108, 4898, 4888, 3198, 2108],
 }
