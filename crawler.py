@@ -1,18 +1,44 @@
 import os
-import requests
-import time
-import config
-from Apartment import Apartment
+from csv import DictWriter
 
 
-def crawler_apartments():
-    apartments = []
-    f_path = os.path.join(config.NORTH_PATH, 'tb2y4n.html')
-    apartments.append(Apartment(f_path))
-    # with open(f_name, 'r', encoding="utf8") as file_apartment:
-    #     apartments.append(Apartment(file_apartment))
+def to_csv(data):
+    # Save data to csv file
+    with open(f'apartments.csv', 'w') as file:
+        headers = list(data[0].keys())
+        csv_writer = DictWriter(file, fieldnames=headers)
+        csv_writer.writeheader()
+        csv_writer.writerows(data)
 
-    #
-    # for file_name in os.listdir(config.NORTH_PATH)[:1]:
-    #     with open(os.path.join(config.NORTH_PATH, file_name), 'r', encoding="utf8") as file_apartment:
-    #         apartments.append(Apartment(file_apartment))
+
+def read_from_folder(folder_path):
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
