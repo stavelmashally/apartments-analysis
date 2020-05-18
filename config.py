@@ -1,3 +1,6 @@
+import os
+
+
 AGENTS = [
     'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
     'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
@@ -23,8 +26,29 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
 }
 
-SEARCH_RESULTS_PATH = 'data/search-results'
-ITEMS_PATH = 'data/items'
+SEARCH_RESULTS_PATH = os.path.join('data', 'search-results')
+ITEMS_PATH = os.path.join('data', 'items')
+SOUTH_PATH = os.path.join('data', 'south')
+NORTH_PATH = os.path.join('data', 'north')
+CENTER_LEV_TLV_PATH = os.path.join('data', 'center-lev-tlv')
+CENTER_EAST_PATH = os.path.join('data', 'center-east')
+CENTER_KEREM_PATH = os.path.join('data', 'center-kerem')
+
+ROOM = 0
+FLOOR = 1
+SQUARE_METER = 2
+
+ELEVATOR = 'מעלית'
+AIR_CONDITION = 'מיזוג'
+REFURBISHED = 'משופצת'
+FURNITURE = 'ריהוט'
+
+FEATURES = {ELEVATOR: 'elevator',
+            AIR_CONDITION: 'air-condition',
+            REFURBISHED: 'refurbished',
+            FURNITURE: 'furniture'}
+
+
 
 URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
 ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'

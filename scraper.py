@@ -37,15 +37,16 @@ def scrape_items(id_list):
     browser = initialize_selenium()
     for item_id in id_list[0:100]:
         url = config.ITEM_URL.format(item_id=item_id)
-        print('scraping ', url)
+        print('scraping: ', url)
+        # Open website
         browser.get(url)
+        # Wait until page has loaded
         wait = WebDriverWait(browser, 30)
         time.sleep(5)
+        # Get the content
         html = browser.page_source
         print(html)
         to_html_file(html, item_id, config.ITEMS_PATH)
-        soup = BeautifulSoup(html, 'html.parser')
-        print(soup.prettify())
     browser.close()
 
 
