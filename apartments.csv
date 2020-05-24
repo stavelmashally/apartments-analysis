@@ -1,0 +1,365 @@
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+ישראל מסלנט ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,700 ₪",3,3,70 ," שפירא, תל אביב יפו ",False,False,False,False
+לבנדה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ₪",1,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
+מטלון 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ₪",1,1,15 ," נווה שאנן, תל אביב יפו ",False,False,True,True
+גבעת בן יהודה 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,לא צוין מחיר,7,קרקע,300 ," שפירא, תל אביב יפו ",False,True,True,False
+מבשר 53,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ₪",2,3,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+איתיאל 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",4,2,100 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False
+שיבת ציון 20,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,900 ₪",2.5,3,63 ," נווה שאנן, תל אביב יפו ",False,True,False,False
+נתן הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ₪",1.5,קרקע,25 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+י.ל. פרץ 38,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,300 ₪",3,5,100 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+גולומב 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",3,1,60 ," שפירא, תל אביב יפו ",False,True,True,True
+נווה שאנן ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",2,4,50 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+ידעיה הפניני ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",1,1,27 ," שפירא, תל אביב יפו ",False,True,True,False
+נתן הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ₪",2,2,45 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+דרך ההגנה 100,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ₪",2.5,קרקע,75 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+לבנדה 23,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,500 ₪",1,2,24 ," נווה שאנן, תל אביב יפו ",False,True,False,True
+בר יוחאי 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",1,קרקע,31 ," שפירא, תל אביב יפו ",False,True,False,True
+חזנוביץ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ₪",3,3,75 ," נווה שאנן, תל אביב יפו ",True,True,False,True
+ראש פינה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ₪",3,4,55 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+יאיר ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,300 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+ראש פינה 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,400 ₪",3,1,71 ," נווה שאנן, תל אביב יפו ",True,True,False,True
+גולומב 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,500 ₪",4,1,130 ," שפירא, תל אביב יפו ",False,False,True,False
+חזנוביץ' 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"8,000 ₪",4,4,90 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+שדרות הר ציון 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",3,2,70 ," נווה שאנן, תל אביב יפו ",False,True,True,True
+חכמי אתונה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,800 ₪",1,קרקע,29 ," שפירא, תל אביב יפו ",False,True,True,True
+חזקיהו המלך 19,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",3,2,50 ," שפירא, תל אביב יפו ",False,True,True,False
+השכל 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",2,1,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,True
+ישראל מסלנט 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,000 ₪",4,1,90 ," שפירא, תל אביב יפו ",False,True,True,False
+מבשר 42,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,200 ₪",1.5,1,93 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+הקונגרס ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ₪",3.5,3,80 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+י.ל. פרץ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,600 ₪",3,3,60 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+קמואל ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",2,1,35 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+י.ל. פרץ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,499 ₪",4,2,95 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+חזנוביץ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"9,000 ₪",4,3,117 ," נווה שאנן, תל אביב יפו ",True,True,False,True
+הקונגרס 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ₪",4,קרקע,92 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+עבאס 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,700 ₪",1,קרקע,15 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True
+הונא ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+דרך מנחם בגין 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ₪",1,2,36 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+יסוד המעלה 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,600 ₪",2,4,50 ," נווה שאנן, תל אביב יפו ",True,True,False,False
+נתן הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ₪",1,קרקע,30 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False
+לוינסקי 63,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ₪",1,קרקע,20 ," נווה שאנן, תל אביב יפו ",False,True,True,True
+לבנדה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ₪",2,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
+לוינסקי ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ₪",4,2,80 ," נווה שאנן, תל אביב יפו ",False,True,True,True
+חזקיהו המלך 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,קרקע,20 ," שפירא, תל אביב יפו ",False,True,False,True
+דרך מנחם בגין 36,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",False,True,False,False
+מטלון 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,700 ₪",2,3,40 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+"יש""ר מקנדיאה 27",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",2.5,קרקע,80 ," שפירא, תל אביב יפו ",False,True,True,False
+דרך מנחם בגין 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ₪",2,3,60 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+בעל העקידה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"14,000 ₪",6,קרקע,330 ," שפירא, תל אביב יפו ",False,True,True,False
+האקליפטוס ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ₪",2,1,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+י.ל. פרץ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ₪",4,1,100 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+"ראב""ד 31",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",2.5,קרקע,80 ," נווה שאנן, תל אביב יפו ",False,True,False,True
+י.ל. פרץ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,800 ₪",3,1,70 ," נווה שאנן, תל אביב יפו ",True,True,True,True
+אחימעץ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,לא צוין מחיר,4,1,100 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+גולומב 11,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,950 ₪",1,1,40 ," שפירא, תל אביב יפו ",False,True,True,True
+ישראל מסלנט 21,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,350 ₪",3,3,55 ," שפירא, תל אביב יפו ",False,True,False,False
+חכמי אתונה 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",3,קרקע,100 ," שפירא, תל אביב יפו ",False,True,True,False
+ישראל מסלנט ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,800 ₪",4,קרקע,100 ," שפירא, תל אביב יפו ",False,True,True,False
+שפירא ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"10,000 ₪",5,קרקע,170 ,  תל אביב יפו ,False,True,True,False
+בעל העקידה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,900 ₪",4,2,82 ," שפירא, תל אביב יפו ",True,True,True,False
+מקור חיים ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ₪",2,קרקע,40 ," שפירא, תל אביב יפו ",False,True,True,False
+סמטת עובד 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ₪",3,קרקע,70 ," שפירא, תל אביב יפו ",False,True,True,True
+הרב יצחק ידידיה פרנקל 69,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,100 ₪",2,3,35 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+נווה שאנן ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,700 ₪",3,4,57 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+י.ל. פרץ 40,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ₪",3.5,5,84 ," נווה שאנן, תל אביב יפו ",True,True,True,True
+נווה שאנן ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ₪",2.5,4,52 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+יקותיאל 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ₪",3,קרקע,120 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
+דרך קיבוץ גלויות 113,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,200 ₪",1,קרקע,25 ," שפירא, תל אביב יפו ",False,True,True,False
+דרך קיבוץ גלויות 109,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,1,22 ," שפירא, תל אביב יפו ",False,True,True,True
+הרטוב 18,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,000 ₪",4,1,90 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False
+האסיף ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",3,1,70 ," שפירא, תל אביב יפו ",True,False,True,False
+שלמון 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,1,30 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+הקונגרס 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ₪",2.5,קרקע,62 ," נווה שאנן, תל אביב יפו ",False,True,True,False
+בעל העקידה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ₪",2.5,-1,46 ," שפירא, תל אביב יפו ",True,True,True,False
+לבנדה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",1,2,25 ," שפירא, תל אביב יפו ",False,True,True,False
+דרך קיבוץ גלויות 79,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,3,30 ," שפירא, תל אביב יפו ",False,True,True,True
+מטלון 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ₪",1.5,4,45 ," נווה שאנן, תל אביב יפו ",False,True,False,False
+כוכבי יצחק 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,200 ₪",4,4,80 ," שפירא, תל אביב יפו ",True,True,True,True
+יסוד המעלה 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",True,True,True,False
+חפר ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,1,24 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+לוינסקי 61,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",2,3,50 ," נווה שאנן, תל אביב יפו ",True,True,True,True
+הונא 34,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
+לבנדה ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ₪",1,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
+עבאס 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ₪",2,2,35 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True
+בר יוחאי 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ₪",2,קרקע,30 ," שפירא, תל אביב יפו ",False,True,True,True
+ידעיה הפניני 26,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ₪",1,1,27 ," שפירא, תל אביב יפו ",False,True,True,True
+מקור חיים 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ₪",1,3,23 ," שפירא, תל אביב יפו ",False,True,True,True
+כרם חמד 6,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ₪",4,2,75 ," שפירא, תל אביב יפו ",False,True,False,True
+יסוד המעלה 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,900 ₪",4,קרקע,130 ," נווה שאנן, תל אביב יפו ",True,True,True,True
+ורדיאל 9,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ₪",2,1,42 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False
+חזקיהו המלך ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,900 ₪",4,1,100 ," שפירא, תל אביב יפו ",False,True,True,False
+אייגר ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",True,True,True,True
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+בארי 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,6,104 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
+אבן גבירול 137,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ₪",3,3,70 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+בזל 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ₪",3,3,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+פנקס 53,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ₪",2.5,3,65 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+מרים החשמונאית 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ₪",4,3,100 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+שדרות בן גוריון ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ₪",1,קרקע,30 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
+דיזנגוף 280,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,800 ₪",2,קרקע,40 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+ברנדייס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ₪",2,3,95 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True
+קצנלסון ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,250 ₪",3,2,80 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
+אנטיגונוס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ₪",3,2,90 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+גרץ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ₪",4,3,100 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+לסר אורי ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ₪",3,12,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+ארלוזורוב ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+מנדלשטם ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ₪",5,3,165 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+יהודה המכבי 37,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ₪",2,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+וייצמן ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ₪",2.5,1,70 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+עמוס 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",2,3,68 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+נמל תל אביב ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ₪",2,קרקע,45 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+שדרות נורדאו 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,200 ₪",1,קרקע,25 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
+בצלאל ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ₪",1,קרקע,14 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
+בלוך 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ₪",3,קרקע,75 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
+בצלאל 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ₪",2,2,58 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
+הרב פרידמן ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,730 ₪,לא צוין,קרקע,18 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
+הצפון החדש - צפון ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"23,000 ₪",4.5,קרקע,270 ,  תל אביב יפו ,True,True,True,False
+שדרות נורדאו ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ₪",3,1,70 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+זנגביל ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+פנקס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,800 ₪,לא צוין,קרקע,18 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
+גרץ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ₪",1,קרקע,21 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+הדסה ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ₪",4,1,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+שלומציון המלכה ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ₪",2,קרקע,67 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+אבן גבירול 90,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",3,4,66 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
+שדרות שאול המלך 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"43,000 ₪",2,7,220 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
+נהרדעא ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+שדרות דוד המלך 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",3.5,3,120 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
+שדרות היוצר 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,800 ₪",2.5,3,62 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+דרך נמיר 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",4.5,1,96 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
+הלפרין 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ₪",3,1,80 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
+יהודה המכבי 70,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ₪",2,3,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
+שלומציון המלכה ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,400 ₪",3,3,60 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+יהודה המכבי 32,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ₪",2.5,1,64 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
+שלומציון המלכה 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ₪",2,קרקע,40 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
+בן יהודה 117,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ₪",2,2,48 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+עין גדי ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,1,60 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+הרב צירלסון 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",2.5,4,65 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True
+שדרות שאול המלך 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ₪",3,2,80 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
+צייטלין 33,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ₪",4,3,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+ז'בוטינסקי ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ₪",3,4,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+צייטלין 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ₪",2,קרקע,40 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
+דיזנגוף 240,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,000 ₪",1,2,25 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
+אנטיגונוס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ₪",2,1,65 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+שילה 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ₪",2.5,1,50 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
+דיזנגוף 216,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,200 ₪",3,2,100 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+בצלאל 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ₪",4,קרקע,82 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
+לסר אורי 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,750 ₪,לא צוין,קרקע,15 ," הצפון החדש - דרום, תל אביב יפו ",False,False,False,False
+יוחנן הגדי 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,3,70 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+אבן גבירול ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ₪",2,2,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
+הירקון 196,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"14,000 ₪",3,3,98 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
+אריסטובולוס 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,650 ₪",2.5,1,54 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
+בצלאל ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ₪",3,2,75 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
+בצלאל 29,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,קרקע,65 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
+וייצמן 123,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,2,98 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+אנטיגונוס 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ₪",2,1,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
+באר טוביה ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,600 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False
+זכריה ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ₪",3,1,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+בלוך 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ₪",4.5,2,120 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
+מודיליאני 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ₪",4.5,1,110 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+שטריקר 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,900 ₪",1,קרקע,30 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+ארלוזורוב 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ₪",3,2,80 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+ארלוזורוב 132,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,900 ₪",3,3,85 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
+אבן גבירול ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ₪",2,2,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+בארי 38,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ₪",4,4,90 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
+פקיעין ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"25,000 ₪",4.5,6,180 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+בני דן ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ₪",3,3,80 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+"מהר""ל ",ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ₪",3.5,1,115 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
+יהודה המכבי 30,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,900 ₪",3,3,75 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+פינלס 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ₪",1,קרקע,15 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+בצלאל ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
+פנקס 19,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ₪",4,2,90 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+אשתורי הפרחי 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ₪",2,3,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
+הצפון החדש - צפון ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,500 ₪",3,2,100 ,  תל אביב יפו ,True,True,False,False
+יוחנן הורקנוס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ₪",2,1,65 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
+אבן גבירול 88,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,000 ₪",5,1,102 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
+יהודה המכבי 63,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ₪",1,1,20 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
+יהודה המכבי ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,000 ₪",2,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+מאנה 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,550 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+דה האז 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ₪",3,2,56 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+ברנדייס ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"1,800 ₪",לא צוין,קרקע,15 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
+בזל ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",2.5,4,60 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+אנטוקולסקי 3,ers\sara levi\PycharmProjects\apartments-analysis\data\north,לא צוין מחיר,3.5,3,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
+עמוס 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,500 ₪",3,3,90 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
+מרים החשמונאית ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,300 ₪",3,2,82 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
+פקיעין 10,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ₪",5,3,180 ," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False
+ארלוזורוב 75,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,200 ₪",3,2,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+לסר אורי 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ₪",4,10,115 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
+רב צעיר ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,400 ₪",1,3,31 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
+אבן גבירול 178,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",3.5,3,85 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
+בן יהודה 165,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ₪",3,2,87 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
+שדרות סמאטס 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ₪",2,3,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
+שמעון התרסי 12,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ₪",3,2,80 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
+דיזנגוף 190,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ₪",2,2,40 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ₪",3,17,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
+"ד""ר שמעון ברנפלד 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ₪",3,2,70 ," תל חיים, תל אביב יפו ",False,True,True,False
+דרך מנחם בגין 72,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,200 ₪",1,1,22 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,True
+יצחק שדה 68,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,400 ₪",3,2,70 ," יד אליהו, תל אביב יפו ",False,True,True,True
+עמישב 30,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ₪",2.5,2,60 ," תל חיים, תל אביב יפו ",False,True,True,True
+המסגר 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,100 ₪",2,3,35 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ₪",2,16,68 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+שלמה בובר ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ₪",2,קרקע,48 ," תל חיים, תל אביב יפו ",False,True,False,False
+עמישב 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ₪",2,3,50 ," תל חיים, תל אביב יפו ",False,True,False,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ₪",3.5,18,76 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
+עמישב 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ₪",2.5,2,60 ," תל חיים, תל אביב יפו ",False,True,False,False
+עמישב 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ₪",2.5,2,55 ," תל חיים, תל אביב יפו ",False,True,False,False
+"ד""ר שמעון ברנפלד 11",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ₪",4,1,85 ," תל חיים, תל אביב יפו ",False,False,False,False
+דרך השלום 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,800 ₪",2,3,55 ," תל חיים, תל אביב יפו ",False,True,False,False
+דרך השלום 79,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ₪",2.5,קרקע,65 ," תל חיים, תל אביב יפו ",False,True,True,False
+לה גווארדיה 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,100 ₪",3,1,70 ," יד אליהו, תל אביב יפו ",False,False,False,False
+שונצינו ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,400 ₪",1,4,35 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ₪",4,40,148 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"11,000 ₪",4,42,134 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+"ד""ר אברהם אליהו הרכבי 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,500 ₪",2.5,קרקע,32 ," תל חיים, תל אביב יפו ",False,True,True,True
+בן אביגדור ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ₪",3,2,55 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+דרך השלום 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ₪",2.5,4,55 ," תל חיים, תל אביב יפו ",False,True,False,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ₪",3.5,40,147 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+המערכה 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,800 ₪",3,3,64 ," יד אליהו, תל אביב יפו ",False,True,True,True
+בן אביגדור 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ₪",2,2,50 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+דרך השלום 101,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,380 ₪",4,2,90 ," תל חיים, תל אביב יפו ",False,True,True,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,800 ₪",4,41,120 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
+שונצינו ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,900 ₪",2,3,40 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+בנימין זאב באכר 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,430 ₪,לא צוין,2,1 ," תל חיים, תל אביב יפו ",False,False,False,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,800 ₪",3,16,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+בן אביגדור ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ₪",3,2,50 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+"ד""ר אברהם אליהו הרכבי ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ₪",2,קרקע,40 ," תל חיים, תל אביב יפו ",False,True,False,True
+יצחק שדה 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,300 ₪",1,3,30 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
+דרך מנחם בגין 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,000 ₪",3,27,100 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
+דרך משה דיין 51,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ₪",4,3,80 ," יד אליהו, תל אביב יפו ",False,True,False,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ₪",3,15,71 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
+נגבה 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ₪",3,4,68 ," יד אליהו, תל אביב יפו ",True,True,True,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ₪",3,30,73 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
+"ד""ר אברהם אליהו הרכבי 13",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,300 ₪",4,3,96 ," תל חיים, תל אביב יפו ",True,True,True,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ₪",3,20,12 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
+שדרות יהודית ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ₪",2,3,43 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+"ד""ר אברהם אליהו הרכבי ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ₪",4,5,95 ," תל חיים, תל אביב יפו ",True,True,True,False
+בן אביגדור ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ₪",2,2,55 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
+נתן ילין מור 18,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,500 ₪",3,1,60 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
+שדרות יהודית 34,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ₪",2,2,46 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
+הגיבור האלמוני 74,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ₪",4,2,105 ," יד אליהו, תל אביב יפו ",False,True,True,True
+"ד""ר אברהם אליהו הרכבי ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ₪",4,3,100 ," תל חיים, תל אביב יפו ",False,True,False,False
+דרך מנחם בגין 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ₪",3,21,81 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
+דרך הטייסים 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ₪",3,3,78 ," תל חיים, תל אביב יפו ",False,True,True,False
+דרך משה דיין 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ₪",4,7,80 ," יד אליהו, תל אביב יפו ",True,True,True,True
+דרך השלום 93,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ₪",2,1,49 ," תל חיים, תל אביב יפו ",False,True,False,True
+הגיבור האלמוני 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ₪",4,4,110 ," יד אליהו, תל אביב יפו ",False,True,False,False
+פרזון 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ₪",3,1,55 ," יד אליהו, תל אביב יפו ",False,True,True,True
+"ד""ר שמעון ברנפלד 20",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ₪",3,4,65 ," תל חיים, תל אביב יפו ",False,True,False,False
+עמישב 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,700 ₪",2,3,45 ," תל חיים, תל אביב יפו ",False,True,True,False
+יפתח 16,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,500 ₪",4,6,115 ," יד אליהו, תל אביב יפו ",True,True,True,False
+דרך השלום 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ₪",2,3,50 ," תל חיים, תל אביב יפו ",False,True,False,False
+דרך השלום 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ₪",1.5,3,25 ," תל חיים, תל אביב יפו ",False,True,True,True
+לה גווארדיה 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ₪",3.5,4,74 ," יד אליהו, תל אביב יפו ",False,True,True,True
+לה גווארדיה 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ₪",2,4,65 ," יד אליהו, תל אביב יפו ",False,True,True,True
+שלמה בובר 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,000 ₪",4,קרקע,185 ," תל חיים, תל אביב יפו ",False,True,False,False
+בנימין זאב באכר 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ₪",4,2,100 ," תל חיים, תל אביב יפו ",False,True,True,True
+נתן ילין מור ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,700 ₪",4,4,90 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
+דרך מנחם בגין 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,900 ₪",3,28,72 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
+רחבת הגייסות 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ₪",2.5,3,60 ," יד אליהו, תל אביב יפו ",False,True,False,True
+דרך השלום 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ₪",2,2,60 ," תל חיים, תל אביב יפו ",False,True,False,True
+הגיבור האלמוני 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ₪",3,4,80 ," יד אליהו, תל אביב יפו ",False,True,False,True
+דרך השלום 89,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,לא צוין מחיר,3,2,55 ," תל חיים, תל אביב יפו ",False,True,True,False
+"ד""ר שמעון ברנפלד ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ₪",3,קרקע,75 ," תל חיים, תל אביב יפו ",False,True,True,False
+סר ג'ון מונש 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ₪",3,4,75 ," יד אליהו, תל אביב יפו ",False,True,False,False
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+"מיכ""ל ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ₪",4,1,95 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ₪",3,2,85 ,  תל אביב יפו ,True,True,True,True
+אילת 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,000 ₪",לא צוין,קרקע,1 ," נווה צדק, תל אביב יפו ",False,False,False,False
+בורוכוב 12,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ₪",2.5,3,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True
+"מזא""ה 56",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,לא צוין מחיר,לא צוין,קרקע,9 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,False,False,False
+הירקון 78,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ₪",3,29,98 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"24,500 ₪",4,3,130 ,  תל אביב יפו ,False,True,True,False
+לונץ 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,500 ₪",2.5,2,72 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+דרך מנחם בגין 19,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ₪",1,3,25 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+יצחק אלחנן ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,234 ₪",4,5,200 ," נווה צדק, תל אביב יפו ",True,True,True,True
+המגיד 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ₪",2.5,4,50 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
+"רש""י 39",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ₪",5,1,145 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+קלישר 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ₪",3,קרקע,140 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+מחנה יוסף 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,000 ₪",3,קרקע,80 ," נווה צדק, תל אביב יפו ",False,True,True,True
+שדרות רוטשילד 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"14,000 ₪",3.5,2,120 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+שלוש ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ₪",5,קרקע,20 ," נווה צדק, תל אביב יפו ",False,True,True,True
+צבי ברוק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ₪",3,1,66 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+נחמני ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ₪",2,1,55 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+יצחק אלחנן 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,לא צוין מחיר,2,3,50 ," נווה צדק, תל אביב יפו ",False,True,False,False
+שדרות רוטשילד ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ₪",3,2,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
+פינס ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ₪",3,קרקע,65 ," נווה צדק, תל אביב יפו ",False,True,False,True
+שביל האטד 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,900 ₪",2.5,קרקע,55 ," נווה צדק, תל אביב יפו ",False,True,True,False
+שיינקין ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,900 ₪",4,3,95 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+אחווה 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,800 ₪",2.5,1,80 ," נווה צדק, תל אביב יפו ",False,True,True,False
+שדרות רוטשילד ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ₪",3,1,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,500 ₪",5,2,104 ,  תל אביב יפו ,True,True,False,False
+בלפור ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,800 ₪",4,2,100 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
+מקווה ישראל 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ₪",2,5,45 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"30,000 $",לא צוין,קרקע,1000 ,  תל אביב יפו ,False,True,True,False
+יוסף הנשיא 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ₪",3.5,3,71 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+שבזי ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ₪",3.5,2,85 ," נווה צדק, תל אביב יפו ",False,True,True,True
+"מזא""ה 48",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,200 ₪",3,3,180 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+אלנבי 136,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ₪",1,קרקע,23 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+שדרות בן ציון 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ₪",3,1,70 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+מנחם שטיין 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ₪",4,קרקע,100 ," נווה צדק, תל אביב יפו ",False,True,False,True
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ₪",4,קרקע,200 ,  תל אביב יפו ,True,True,True,False
+אלנבי 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ₪",3,4,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+יבנאל 31,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ₪",4,2,140 ," נווה צדק, תל אביב יפו ",False,True,False,True
+עין יעקב 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ₪",2.5,1,60 ," נווה צדק, תל אביב יפו ",False,True,False,False
+המלך ג'ורג' 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,000 ₪",2,2,45 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
+אידלסון 7,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ₪",5.5,קרקע,125 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+פינס 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,100 ₪",3,1,65 ," נווה צדק, תל אביב יפו ",False,True,True,False
+שלוש ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,500 ₪",5,2,160 ," נווה צדק, תל אביב יפו ",False,True,True,True
+פיארברג 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ₪",4,קרקע,340 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True
+יצחק אלחנן ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ₪",2,20,63 ," נווה צדק, תל אביב יפו ",True,True,True,True
+עין ורד ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ₪",2,1,53 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+נס ציונה 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,000 ₪",2.5,4,55 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+לבונטין ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ₪",3,5,80 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+מחנה יוסף 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,300 ₪",2,קרקע,37 ," נווה צדק, תל אביב יפו ",False,True,True,False
+אחווה 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,200 ₪",2.5,1,80 ," נווה צדק, תל אביב יפו ",False,True,True,False
+סמטת שבזי 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,500 ₪",1,1,14 ," נווה צדק, תל אביב יפו ",False,False,False,False
+אחווה 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ₪",4,3,150 ," נווה צדק, תל אביב יפו ",False,True,False,True
+נס ציונה 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ₪",3,2,80 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+מקווה ישראל ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,650 ₪",1,1,27 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+יהודה הלוי 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ₪",4,קרקע,110 ," נווה צדק, תל אביב יפו ",True,True,False,False
+לילינבלום ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,000 ₪",2,1,50 ," נווה צדק, תל אביב יפו ",False,True,True,True
+"לב תל אביב, לב העיר צפון ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,600 ₪",1,1,34 ,  תל אביב יפו ,False,True,True,True
+החשמונאים 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ₪",1,4,25 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+בר אילן ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ₪",5,3,165 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+אילת 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ₪",3,28,87 ," נווה צדק, תל אביב יפו ",True,True,True,True
+ברנט 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ₪",4,קרקע,10 ," נווה צדק, תל אביב יפו ",False,True,True,True
+יצחק אלחנן 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"18,100 ₪",3.5,14,130 ," נווה צדק, תל אביב יפו ",True,True,True,True
+יהודה הלוי 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,850 ₪,לא צוין,קרקע,10 ," נווה צדק, תל אביב יפו ",False,False,False,False
+נווה צדק ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"27,000 ₪",5.5,2,260 ,  תל אביב יפו ,True,True,True,False
+שיינקין ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ₪",5,6,150 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+יבנה ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ₪",3,4,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
+שבזי 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,800 ₪",2,קרקע,55 ," נווה צדק, תל אביב יפו ",False,True,False,True
+אילת 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ₪",3,26,90 ," נווה צדק, תל אביב יפו ",True,True,True,True
+פינס ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ₪",3,3,80 ," נווה צדק, תל אביב יפו ",True,True,True,True
+שדרות רוטשילד 84,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ₪",2,קרקע,52 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
+שביל האטד ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,800 ₪",2,קרקע,38 ," נווה צדק, תל אביב יפו ",False,True,True,False
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+גאולה 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,לא צוין מחיר,2,קרקע,40 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+הכובשים ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,000 ₪",2,3,40 ," כרם התימנים, תל אביב יפו ",True,False,False,False
+אלשיך ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,850 ₪",1,קרקע,20 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+גאולה ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,לא צוין מחיר,2,6,60 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+כרמלית ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"12,000 ₪",4,3,110 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+יונה הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ₪",4,קרקע,100 ," כרם התימנים, תל אביב יפו ",False,True,False,False
+בית יוסף ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"13,000 ₪",4,1,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+רציף הרברט סמואל 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ₪",3,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+בית יוסף 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,200 ₪",2.5,קרקע,70 ," כרם התימנים, תל אביב יפו ",False,True,False,False
+יונה הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,550 ₪",1.5,2,27 ," כרם התימנים, תל אביב יפו ",False,True,False,True
+יונה הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,900 ₪",1,-1,35 ," כרם התימנים, תל אביב יפו ",True,True,True,False
+הכובשים ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"8,250 ₪",4,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,False
+רציף הרברט סמואל 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ₪",3,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+גאולה 39,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,490 ₪",1,קרקע,18 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+רציף הרברט סמואל ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"22,000 ₪",2,20,94 ," כרם התימנים, תל אביב יפו ",True,True,True,True
+אלנבי 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,500 ₪",2,4,42 ," כרם התימנים, תל אביב יפו ",True,True,False,True
+אלנבי 38,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"9,900 ₪",4,1,100 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+"מל""ן 3",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ₪",1,קרקע,30 ," כרם התימנים, תל אביב יפו ",False,True,True,False
+יונה הנביא ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,900 ₪",4,2,85 ," כרם התימנים, תל אביב יפו ",True,True,True,False
+גדרה 13,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,700 ₪,לא צוין,קרקע,10 ," כרם התימנים, תל אביב יפו ",False,False,False,False
+הכובשים 45,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"6,000 ₪",3,2,60 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+אלישיב 26,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,200 ₪",1,קרקע,20 ," כרם התימנים, תל אביב יפו ",False,True,False,False
+ישכון 17,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,000 ₪",1,קרקע,25 ," כרם התימנים, תל אביב יפו ",True,True,False,True
+גאולה ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ₪",3,3,80 ," כרם התימנים, תל אביב יפו ",False,True,True,False
+עזרא הסופר 11,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"14,000 ₪",4,4,115 ," כרם התימנים, תל אביב יפו ",True,True,True,False
+גדרה ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"17,000 ₪",4,קרקע,180 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+"תרמ""ב 25",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ₪",1,1,24 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+אלשיך ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,250 ₪",1,1,26 ," כרם התימנים, תל אביב יפו ",False,True,True,True

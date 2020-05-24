@@ -1,361 +1,361 @@
-Title,Area,Price,Rooms,Floor,Square-meter,Elevator,Air-condition,Refurbished,Furniture
-Χ™.Χ. Χ¤Χ¨Χ¥ 38,south,"6,300 β‚ª",3,5,100 ,True,True,True,False
-Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"5,700 β‚ª",3,4,57 ,True,True,True,False
-Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 113,south,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ,False,True,True,False
-Χ”Χ©Χ›Χ 5,south,"3,500 β‚ª",2,1,40 ,False,True,False,True
-Χ”Χ¨ΧΧ•Χ‘ 18,south,"6,000 β‚ª",4,1,90 ,True,True,True,False
-Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"2,900 β‚ª",1.5,Χ§Χ¨Χ§ΧΆ,25 ,False,True,True,False
-Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,500 β‚ª",4,1,100 ,False,True,True,False
-Χ—Χ›ΧΧ™ ΧΧªΧ•Χ Χ” 35,south,"4,500 β‚ª",3,Χ§Χ¨Χ§ΧΆ,100 ,False,True,True,False
-Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"5,200 β‚ª",2.5,4,52 ,True,True,True,False
-Χ™ΧΧ™Χ¨ ,south,"2,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,False
-Χ•Χ¨Χ“Χ™ΧΧ 9,south,"3,500 β‚ª",2,1,42 ,False,True,False,False
-Χ—Χ¤Χ¨ ,south,"3,000 β‚ª",1,1,24 ,False,True,True,True
-Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' 12,south,"8,000 β‚ª",4,4,90 ,True,True,True,False
-Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ ,south,"7,900 β‚ª",4,1,100 ,False,True,True,False
-Χ’Χ•ΧΧ•ΧΧ‘ 27,south,"4,500 β‚ª",3,1,60 ,False,True,True,True
-Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 31,south,"4,400 β‚ª",2,1,50 ,True,True,True,False
-ΧΧ‘Χ©Χ¨ 42,south,"2,200 β‚ª",1.5,1,93 ,False,True,True,True
-ΧΧ§Χ•Χ¨ Χ—Χ™Χ™Χ 24,south,"3,000 β‚ª",1,3,23 ,False,True,True,True
-ΧΆΧ‘ΧΧ΅ 33,south,"1,700 β‚ª",1,Χ§Χ¨Χ§ΧΆ,15 ,False,False,True,True
-Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"4,500 β‚ª",2,4,50 ,True,True,True,False
-Χ“Χ¨Χ Χ”Χ”Χ’Χ Χ” 100,south,"4,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,75 ,False,True,True,False
-Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 109,south,"3,000 β‚ª",1,1,22 ,False,True,True,True
-Χ’Χ•ΧΧ•ΧΧ‘ 5,south,"7,500 β‚ª",4,1,130 ,False,False,True,False
-Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"6,900 β‚ª",4,2,82 ,True,True,True,False
-ΧΧ•Χ™Χ Χ΅Χ§Χ™ ,south,"6,500 β‚ª",4,2,80 ,False,True,True,True
-Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ ,south,"3,500 β‚ª",1,1,27 ,False,True,True,False
-Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 5,south,"7,200 β‚ª",4,Χ§Χ¨Χ§ΧΆ,92 ,False,True,True,False
-Χ”Χ•Χ Χ 34,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,True
-Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 31,south,"4,600 β‚ª",2,4,50 ,True,True,False,False
-Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' ,south,"6,500 β‚ª",3,3,75 ,True,True,False,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 36,south,"3,800 β‚ª",2,1,50 ,False,True,False,False
-ΧΧ™Χ™Χ’Χ¨ ,south,"4,200 β‚ª",2,1,50 ,True,True,True,True
-Χ’Χ•ΧΧ•ΧΧ‘ 11,south,"2,950 β‚ª",1,1,40 ,False,True,True,True
-ΧΧ‘Χ Χ“Χ” ,south,"3,500 β‚ª",1,2,25 ,False,True,True,False
-ΧΧ™ΧªΧ™ΧΧ 27,south,"5,000 β‚ª",4,2,100 ,True,True,True,False
-Χ‘Χ¨ Χ™Χ•Χ—ΧΧ™ 47,south,"3,600 β‚ª",2,Χ§Χ¨Χ§ΧΆ,30 ,False,True,True,True
-Χ”ΧΧ΅Χ™Χ£ ,south,"5,000 β‚ª",3,1,70 ,True,False,True,False
-Χ—Χ›ΧΧ™ ΧΧªΧ•Χ Χ” ,south,"2,800 β‚ª",1,Χ§Χ¨Χ§ΧΆ,29 ,False,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 4,south,"5,500 β‚ª",2,3,60 ,True,True,True,False
-Χ©Χ“Χ¨Χ•Χª Χ”Χ¨ Χ¦Χ™Χ•Χ 30,south,"4,500 β‚ª",3,2,70 ,False,True,True,True
-Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"2,900 β‚ª",2,2,45 ,False,True,True,False
-"Χ™Χ©""Χ¨ ΧΧ§Χ Χ“Χ™ΧΧ” 27",south,"4,500 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,80 ,False,True,True,False
-Χ›Χ•Χ›Χ‘Χ™ Χ™Χ¦Χ—Χ§ 5,south,"6,200 β‚ª",4,4,80 ,True,True,True,True
-ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",2,2,30 ,False,True,True,True
-Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ 47,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,False,True
-Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 10,south,"4,500 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,62 ,False,True,True,False
-ΧΧ‘Χ Χ“Χ” 23,south,"2,500 β‚ª",1,2,24 ,False,True,False,True
-Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 35,south,"5,900 β‚ª",4,Χ§Χ¨Χ§ΧΆ,130 ,True,True,True,True
-Χ™Χ§Χ•ΧªΧ™ΧΧ 28,south,"5,200 β‚ª",3,Χ§Χ¨Χ§ΧΆ,120 ,False,True,True,False
-ΧΧΧΧ•Χ 75,south,"3,700 β‚ª",2,3,40 ,False,True,True,False
-ΧΆΧ‘ΧΧ΅ 33,south,"2,900 β‚ª",2,2,35 ,False,False,True,True
-ΧΧ§Χ•Χ¨ Χ—Χ™Χ™Χ ,south,"3,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,True,False
-ΧΧΧΧ•Χ 75,south,"2,400 β‚ª",1,1,15 ,False,False,True,True
-Χ”ΧΧ§ΧΧ™Χ¤ΧΧ•Χ΅ ,south,"3,600 β‚ª",2,1,40 ,False,True,True,False
-Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,800 β‚ª",3,1,70 ,True,True,True,True
-Χ¨ΧΧ© Χ¤Χ™Χ Χ” ,south,"5,200 β‚ª",3,4,55 ,True,True,True,False
-Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ 26,south,"2,900 β‚ª",1,1,27 ,False,True,True,True
-Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 21,south,"4,350 β‚ª",3,3,55 ,False,True,False,False
-ΧΧΧΧ•Χ 75,south,"4,000 β‚ª",1.5,4,45 ,False,True,False,False
-Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' ,south,"9,000 β‚ª",4,3,117 ,True,True,False,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 12,south,"2,400 β‚ª",1,2,36 ,False,True,True,False
-Χ‘Χ¨ Χ™Χ•Χ—ΧΧ™ 47,south,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,31 ,False,True,False,True
-Χ™.Χ. Χ¤Χ¨Χ¥ 40,south,"6,500 β‚ª",3.5,5,84 ,True,True,True,True
-Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ 19,south,"5,000 β‚ª",3,2,50 ,False,True,True,False
-Χ©Χ¤Χ™Χ¨Χ ,south,"10,000 β‚ª",5,Χ§Χ¨Χ§ΧΆ,170 ,False,True,True,False
-Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ ,south,"7,200 β‚ª",3.5,3,80 ,True,True,True,False
-Χ”Χ¨Χ‘ Χ™Χ¦Χ—Χ§ Χ™Χ“Χ™Χ“Χ™Χ” Χ¤Χ¨Χ Χ§Χ 69,south,"4,100 β‚ª",2,3,35 ,True,True,True,False
-Χ”Χ•Χ Χ ,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,True
-Χ΅ΧΧΧª ΧΆΧ•Χ‘Χ“ 30,south,"3,800 β‚ª",3,Χ§Χ¨Χ§ΧΆ,70 ,False,True,True,True
-Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ ,south,"6,800 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ,False,True,True,False
-Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ ,south,"4,700 β‚ª",3,3,70 ,False,False,False,False
-ΧΧ•Χ™Χ Χ΅Χ§Χ™ 61,south,"5,000 β‚ª",2,3,50 ,True,True,True,True
-"Χ¨ΧΧ‘""Χ“ 31",south,"5,000 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,80 ,False,True,False,True
-Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"4,400 β‚ª",2.5,-1,46 ,True,True,True,False
-ΧΧ‘Χ©Χ¨ 53,south,"3,600 β‚ª",2,3,40 ,False,True,True,True
-Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 30,south,"7,000 β‚ª",4,1,90 ,False,True,True,False
-Χ©Χ™Χ‘Χª Χ¦Χ™Χ•Χ 20,south,"3,900 β‚ª",2.5,3,63 ,False,True,False,False
-Χ§ΧΧ•ΧΧ ,south,"3,500 β‚ª",2,1,35 ,False,True,True,False
-Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"6,499 β‚ª",4,2,95 ,False,True,True,False
-Χ©ΧΧΧ•Χ 28,south,"3,000 β‚ª",1,1,30 ,False,True,True,True
-Χ’Χ‘ΧΆΧª Χ‘Χ Χ™Χ”Χ•Χ“Χ” 10,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,7,Χ§Χ¨Χ§ΧΆ,300 ,False,True,True,False
-ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",1,2,30 ,False,True,True,True
-Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,600 β‚ª",3,3,60 ,True,True,True,False
-ΧΧ—Χ™ΧΧΆΧ¥ 4,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,4,1,100 ,False,True,True,False
-ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",1,2,30 ,False,True,True,True
-Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 79,south,"3,000 β‚ª",1,3,30 ,False,True,True,True
-Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"1,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ,False,True,False,False
-Χ›Χ¨Χ Χ—ΧΧ“ 6,south,"5,000 β‚ª",4,2,75 ,False,True,False,True
-ΧΧ•Χ™Χ Χ΅Χ§Χ™ 63,south,"4,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,True
-Χ¨ΧΧ© Χ¤Χ™Χ Χ” 24,south,"5,400 β‚ª",3,1,71 ,True,True,False,True
-Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"14,000 β‚ª",6,Χ§Χ¨Χ§ΧΆ,330 ,False,True,True,False
-Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 46,center-kerem,"10,000 β‚ª",3,4,100 ,True,True,True,True
-Χ’Χ“Χ¨Χ” 13,center-kerem,700 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,10 ,False,False,False,False
-Χ™Χ©Χ›Χ•Χ 17,center-kerem,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ,True,True,False,True
-Χ’ΧΧ•ΧΧ” 5,center-kerem,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,True,True
-Χ’ΧΧ•ΧΧ” 39,center-kerem,"3,490 β‚ª",1,Χ§Χ¨Χ§ΧΆ,18 ,False,True,True,True
-Χ’ΧΧ•ΧΧ” ,center-kerem,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,6,60 ,True,True,True,True
-ΧΧΧ©Χ™Χ ,center-kerem,"3,250 β‚ª",1,1,26 ,False,True,True,True
-Χ’Χ“Χ¨Χ” ,center-kerem,"17,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,180 ,False,True,True,True
-Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"2,900 β‚ª",1,-1,35 ,True,True,True,False
-Χ›Χ¨ΧΧΧ™Χª ,center-kerem,"12,000 β‚ª",4,3,110 ,True,True,True,True
-Χ”Χ›Χ•Χ‘Χ©Χ™Χ ,center-kerem,"5,000 β‚ª",2,3,40 ,True,False,False,False
-Χ‘Χ™Χª Χ™Χ•Χ΅Χ£ 23,center-kerem,"5,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,70 ,False,True,False,False
-Χ’ΧΧ•ΧΧ” ,center-kerem,"7,500 β‚ª",3,3,80 ,False,True,True,False
-"ΧªΧ¨Χ""Χ‘ 25",center-kerem,"3,650 β‚ª",1,1,24 ,False,True,True,True
-ΧΧΧ©Χ™Χ ,center-kerem,"2,850 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,True
-ΧΧΧ Χ‘Χ™ 20,center-kerem,"5,500 β‚ª",2,4,42 ,True,True,False,True
-Χ”Χ›Χ•Χ‘Χ©Χ™Χ ,center-kerem,"8,250 β‚ª",4,4,100 ,True,True,True,False
-Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"7,500 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ,False,True,False,False
-"ΧΧ""Χ 3",center-kerem,"3,650 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ,False,True,True,False
-ΧΆΧ–Χ¨Χ Χ”Χ΅Χ•Χ¤Χ¨ 11,center-kerem,"14,000 β‚ª",4,4,115 ,True,True,True,False
-Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 46,center-kerem,"10,000 β‚ª",3,4,100 ,True,True,True,True
-Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ ,center-kerem,"22,000 β‚ª",2,20,94 ,True,True,True,True
-Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"7,900 β‚ª",4,2,85 ,True,True,True,False
-ΧΧΧ Χ‘Χ™ 38,center-kerem,"9,900 β‚ª",4,1,100 ,False,True,True,True
-ΧΧΧ™Χ©Χ™Χ‘ 26,center-kerem,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ,False,True,False,False
-Χ‘Χ™Χª Χ™Χ•Χ΅Χ£ ,center-kerem,"13,000 β‚ª",4,1,100 ,True,True,True,True
-Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"3,550 β‚ª",1.5,2,27 ,False,True,False,True
-Χ”Χ›Χ•Χ‘Χ©Χ™Χ 45,center-kerem,"6,000 β‚ª",3,2,60 ,False,True,True,True
-Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 6,center-east,"5,500 β‚ª",4,4,110 ,False,True,False,False
-"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 10",center-east,"5,000 β‚ª",3,2,70 ,False,True,True,False
-Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,500 β‚ª",3,2,50 ,True,True,True,True
-Χ”ΧΧ΅Χ’Χ¨ 8,center-east,"3,100 β‚ª",2,3,35 ,False,True,True,True
-ΧΆΧΧ™Χ©Χ‘ 20,center-east,"4,200 β‚ª",2.5,2,60 ,False,True,False,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"11,000 β‚ª",4,42,134 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,000 β‚ª",3,20,12 ,True,True,False,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 72,center-east,"3,200 β‚ª",1,1,22 ,False,True,False,True
-Χ¤Χ¨Χ–Χ•Χ 15,center-east,"4,600 β‚ª",3,1,55 ,False,True,True,True
-Χ©ΧΧΧ” Χ‘Χ•Χ‘Χ¨ ,center-east,"4,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,48 ,False,True,False,False
-ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 28,center-east,"4,500 β‚ª",3.5,4,74 ,False,True,True,True
-Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 74,center-east,"6,000 β‚ª",4,2,105 ,False,True,True,True
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 99,center-east,"4,300 β‚ª",2,3,50 ,False,True,False,False
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 91,center-east,"4,000 β‚ª",2.5,4,55 ,False,True,False,False
-ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 24,center-east,"4,000 β‚ª",2,4,65 ,False,True,True,True
-Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 36,center-east,"3,300 β‚ª",1,3,30 ,False,True,True,True
-Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,500 β‚ª",3,2,55 ,True,True,True,True
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 101,center-east,"6,380 β‚ª",4,2,90 ,False,True,True,False
-Χ”ΧΧΆΧ¨Χ›Χ” 22,center-east,"4,800 β‚ª",3,3,64 ,False,True,True,True
-Χ©Χ•Χ Χ¦Χ™Χ Χ• ,center-east,"3,900 β‚ª",2,3,40 ,True,True,True,True
-Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 36,center-east,"5,500 β‚ª",3,4,80 ,False,True,False,True
-"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"3,000 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,False,True
-Χ‘Χ Χ™ΧΧ™Χ Χ–ΧΧ‘ Χ‘ΧΧ›Χ¨ 10,center-east,"6,200 β‚ª",4,2,100 ,False,True,True,True
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 99,center-east,"4,000 β‚ª",2,2,60 ,False,True,False,True
-ΧΆΧΧ™Χ©Χ‘ 30,center-east,"4,400 β‚ª",2.5,2,60 ,False,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,900 β‚ª",3,28,72 ,True,True,True,False
-ΧΆΧΧ™Χ©Χ‘ 32,center-east,"3,700 β‚ª",2,3,45 ,False,True,True,False
-Χ‘Χ Χ™ΧΧ™Χ Χ–ΧΧ‘ Χ‘ΧΧ›Χ¨ 8,center-east,430 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,2,1 ,False,False,False,False
-Χ“Χ¨Χ ΧΧ©Χ” Χ“Χ™Χ™Χ 61,center-east,"5,700 β‚ª",4,7,80 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ™Χ”Χ•Χ“Χ™Χª ,center-east,"5,500 β‚ª",2,3,43 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,500 β‚ª",2,16,68 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"18,000 β‚ª",4,40,148 ,True,True,True,False
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 89,center-east,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,3,2,55 ,False,True,True,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"8,500 β‚ª",3,30,73 ,True,True,False,True
-"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"6,200 β‚ª",4,5,95 ,True,True,True,False
-Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,490 β‚ª",2,2,55 ,True,True,True,True
-Χ ΧªΧ Χ™ΧΧ™Χ ΧΧ•Χ¨ ,center-east,"7,700 β‚ª",4,4,90 ,True,True,False,False
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 91,center-east,"3,000 β‚ª",1.5,3,25 ,False,True,True,True
-ΧΆΧΧ™Χ©Χ‘ 4,center-east,"4,000 β‚ª",2.5,2,55 ,False,True,False,False
-Χ©ΧΧΧ” Χ‘Χ•Χ‘Χ¨ 22,center-east,"8,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,185 ,False,True,False,False
-Χ“Χ¨Χ ΧΧ©Χ” Χ“Χ™Χ™Χ 51,center-east,"4,500 β‚ª",4,3,80 ,False,True,False,False
-Χ ΧªΧ Χ™ΧΧ™Χ ΧΧ•Χ¨ 18,center-east,"6,500 β‚ª",3,1,60 ,True,True,True,False
-ΧΆΧΧ™Χ©Χ‘ 10,center-east,"4,400 β‚ª",2,3,50 ,False,True,False,False
-Χ“Χ¨Χ Χ”ΧΧ™Χ™Χ΅Χ™Χ 10,center-east,"5,700 β‚ª",3,3,78 ,False,True,True,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,500 β‚ª",3.5,18,76 ,True,True,True,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"18,000 β‚ª",3.5,40,147 ,True,True,True,True
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 95,center-east,"3,800 β‚ª",2,3,55 ,False,True,False,False
-Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 68,center-east,"5,400 β‚ª",3,2,70 ,False,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,800 β‚ª",3,16,70 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"7,500 β‚ª",3,21,81 ,True,True,False,False
-"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 20",center-east,"4,400 β‚ª",3,4,65 ,False,True,False,False
-Χ Χ’Χ‘Χ” 24,center-east,"5,000 β‚ª",3,4,68 ,True,True,True,False
-ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 62,center-east,"5,100 β‚ª",3,1,70 ,False,False,False,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"9,000 β‚ª",3,27,100 ,True,True,False,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"8,500 β‚ª",3,15,71 ,True,True,False,True
-Χ©Χ“Χ¨Χ•Χª Χ™Χ”Χ•Χ“Χ™Χª 34,center-east,"5,500 β‚ª",2,2,46 ,True,True,False,False
-"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 10",center-east,"3,500 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,32 ,False,True,True,True
-Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ 2,center-east,"4,490 β‚ª",2,2,50 ,True,True,True,True
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 79,center-east,"4,600 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,65 ,False,True,True,False
-"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 13",center-east,"6,300 β‚ª",4,3,96 ,True,True,True,False
-Χ΅Χ¨ Χ’'Χ•Χ ΧΧ•Χ Χ© 9,center-east,"4,200 β‚ª",3,4,75 ,False,True,False,False
-"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"6,000 β‚ª",4,3,100 ,False,True,False,False
-Χ©Χ•Χ Χ¦Χ™Χ Χ• ,center-east,"3,400 β‚ª",1,4,35 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,000 β‚ª",3,17,70 ,True,True,False,True
-"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 11",center-east,"6,000 β‚ª",4,1,85 ,False,False,False,False
-Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 93,center-east,"4,000 β‚ª",2,1,49 ,False,True,False,True
-Χ¨Χ—Χ‘Χª Χ”Χ’Χ™Χ™Χ΅Χ•Χª 6,center-east,"4,400 β‚ª",2.5,3,60 ,False,True,False,True
-"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ ",center-east,"4,300 β‚ª",3,Χ§Χ¨Χ§ΧΆ,75 ,False,True,True,False
-Χ™Χ¤ΧªΧ— 16,center-east,"9,500 β‚ª",4,6,115 ,True,True,True,False
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"9,800 β‚ª",4,41,120 ,True,True,True,False
-Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 3,center-lev-tlv,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,3,50 ,False,True,False,False
-ΧΧΧ Χ‘Χ™ 136,center-lev-tlv,"3,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,23 ,False,True,True,True
-Χ©ΧΧ•Χ© ,center-lev-tlv,"12,500 β‚ª",5,2,160 ,False,True,True,True
-Χ™Χ‘Χ ΧΧ 31,center-lev-tlv,"16,000 β‚ª",4,2,140 ,False,True,False,True
-ΧΧ§Χ•Χ•Χ” Χ™Χ©Χ¨ΧΧ 10,center-lev-tlv,"4,200 β‚ª",2,5,45 ,True,True,True,True
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"30,000 $",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,1000 ,False,True,True,False
-Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χ 3,center-lev-tlv,"4,200 β‚ª",1,4,25 ,False,True,True,True
-Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ ,center-lev-tlv,"1,234 β‚ª",4,5,200 ,True,True,True,True
-ΧΧ—Χ Χ” Χ™Χ•Χ΅Χ£ 25,center-lev-tlv,"9,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,80 ,False,True,True,True
-ΧΧ™Χ“ΧΧ΅Χ•Χ 7,center-lev-tlv,"8,000 β‚ª",5.5,Χ§Χ¨Χ§ΧΆ,125 ,False,True,True,True
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"16,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,200 ,True,True,True,False
-Χ©ΧΧ•Χ© ,center-lev-tlv,"16,000 β‚ª",5,Χ§Χ¨Χ§ΧΆ,20 ,False,True,True,True
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"27,000 β‚ª",5.5,2,260 ,True,True,True,False
-Χ‘Χ•Χ¨Χ•Χ›Χ•Χ‘ 12,center-lev-tlv,"6,500 β‚ª",2.5,3,75 ,False,True,False,True
-Χ©Χ“Χ¨Χ•Χª Χ‘Χ Χ¦Χ™Χ•Χ 4,center-lev-tlv,"8,500 β‚ª",3,1,70 ,True,True,True,True
-Χ”Χ™Χ¨Χ§Χ•Χ 78,center-lev-tlv,"15,000 β‚ª",3,29,98 ,True,True,True,True
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ•Χ™ 20,center-lev-tlv,850 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,10 ,False,False,False,False
-ΧΧ™ΧΧ™Χ Χ‘ΧΧ•Χ ,center-lev-tlv,"5,000 β‚ª",2,1,50 ,False,True,True,True
-ΧΧ—Χ•Χ•Χ” 28,center-lev-tlv,"11,200 β‚ª",2.5,1,80 ,False,True,True,False
-ΧΧ•Χ Χ¥ 3,center-lev-tlv,"7,500 β‚ª",2.5,2,72 ,False,True,True,False
-"ΧΧ–Χ""Χ” 48",center-lev-tlv,"9,200 β‚ª",3,3,180 ,False,True,True,False
-Χ¤Χ™ΧΧ¨Χ‘Χ¨Χ’ 6,center-lev-tlv,"11,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,340 ,False,True,False,True
-ΧΧ™ΧΧª 61,center-lev-tlv,"10,500 β‚ª",3,26,90 ,True,True,True,True
-Χ©Χ‘Χ–Χ™ ,center-lev-tlv,"10,000 β‚ª",3.5,2,85 ,False,True,True,True
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"11,000 β‚ª",3,2,85 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ ,center-lev-tlv,"8,500 β‚ª",3,2,90 ,True,True,True,False
-Χ‘ΧΧ¤Χ•Χ¨ ,center-lev-tlv,"9,800 β‚ª",4,2,100 ,True,True,True,False
-Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 15,center-lev-tlv,"18,100 β‚ª",3.5,14,130 ,True,True,True,True
-Χ΅ΧΧΧª Χ©Χ‘Χ–Χ™ 6,center-lev-tlv,"2,500 β‚ª",1,1,14 ,False,False,False,False
-"ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ ",center-lev-tlv,"3,600 β‚ª",1,1,34 ,False,True,True,True
-ΧΧ‘Χ•Χ ΧΧ™Χ ,center-lev-tlv,"12,000 β‚ª",3,5,80 ,True,True,True,True
-Χ”ΧΧΧ Χ’'Χ•Χ¨Χ’' 2,center-lev-tlv,"4,000 β‚ª",2,2,45 ,False,True,True,False
-ΧΆΧ™Χ Χ™ΧΆΧ§Χ‘ 22,center-lev-tlv,"6,000 β‚ª",2.5,1,60 ,False,True,False,False
-"ΧΧ–Χ""Χ” 56",center-lev-tlv,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,9 ,False,False,False,False
-ΧΧ™ΧΧª 61,center-lev-tlv,"11,000 β‚ª",3,28,87 ,True,True,True,True
-"ΧΧ™Χ›""Χ ",center-lev-tlv,"9,500 β‚ª",4,1,95 ,True,True,True,False
-ΧΧ—Χ•Χ•Χ” 2,center-lev-tlv,"20,000 β‚ª",4,3,150 ,False,True,False,True
-Χ”ΧΧ’Χ™Χ“ 5,center-lev-tlv,"7,200 β‚ª",2.5,4,50 ,True,True,True,False
-Χ‘Χ¨ ΧΧ™ΧΧ ,center-lev-tlv,"16,000 β‚ª",5,3,165 ,True,True,True,True
-"Χ¨Χ©""Χ™ 39",center-lev-tlv,"15,000 β‚ª",5,1,145 ,False,True,True,False
-ΧΧ—Χ•Χ•Χ” 28,center-lev-tlv,"12,800 β‚ª",2.5,1,80 ,False,True,True,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ•Χ™ 10,center-lev-tlv,"12,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,110 ,True,True,False,False
-Χ¤Χ™Χ Χ΅ ,center-lev-tlv,"9,500 β‚ª",3,3,80 ,True,True,True,True
-Χ¦Χ‘Χ™ Χ‘Χ¨Χ•Χ§ ,center-lev-tlv,"6,500 β‚ª",3,1,66 ,False,True,True,False
-Χ©Χ‘Χ™Χ Χ”ΧΧΧ“ 4,center-lev-tlv,"4,900 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,55 ,False,True,True,False
-ΧΆΧ™Χ Χ•Χ¨Χ“ ,center-lev-tlv,"6,000 β‚ª",2,1,53 ,True,True,True,True
-ΧΧ™ΧΧª 61,center-lev-tlv,"1,000 β‚ª",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,1 ,False,False,False,False
-ΧΧ Χ—Χ Χ©ΧΧ™Χ™Χ 6,center-lev-tlv,"10,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ,False,True,False,True
-Χ™Χ•Χ΅Χ£ Χ”Χ Χ©Χ™Χ 9,center-lev-tlv,"8,000 β‚ª",3.5,3,71 ,False,True,True,False
-Χ¤Χ™Χ Χ΅ ,center-lev-tlv,"8,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,65 ,False,True,False,True
-Χ¤Χ™Χ Χ΅ 25,center-lev-tlv,"7,100 β‚ª",3,1,65 ,False,True,True,False
-Χ©Χ‘Χ™Χ Χ”ΧΧΧ“ ,center-lev-tlv,"3,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,38 ,False,True,True,False
-Χ©Χ‘Χ–Χ™ 8,center-lev-tlv,"5,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,55 ,False,True,False,True
-Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ ,center-lev-tlv,"8,000 β‚ª",3,1,90 ,True,True,True,True
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"11,500 β‚ª",5,2,104 ,True,True,False,False
-Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"24,500 β‚ª",4,3,130 ,False,True,True,False
-Χ™Χ‘Χ Χ” ,center-lev-tlv,"10,500 β‚ª",3,4,75 ,True,True,True,True
-Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 19,center-lev-tlv,"3,300 β‚ª",1,3,25 ,True,True,True,True
-Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ ,center-lev-tlv,"12,000 β‚ª",2,20,63 ,True,True,True,True
-ΧΧ—Χ Χ” Χ™Χ•Χ΅Χ£ 32,center-lev-tlv,"4,300 β‚ª",2,Χ§Χ¨Χ§ΧΆ,37 ,False,True,True,False
-Χ Χ΅ Χ¦Χ™Χ•Χ Χ” 5,center-lev-tlv,"7,000 β‚ª",2.5,4,55 ,True,True,True,True
-Χ Χ—ΧΧ Χ™ ,center-lev-tlv,"6,000 β‚ª",2,1,55 ,False,True,True,True
-ΧΧΧ Χ‘Χ™ 95,center-lev-tlv,"7,200 β‚ª",3,4,90 ,False,True,True,True
-Χ‘Χ¨Χ Χ 22,center-lev-tlv,"6,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,10 ,False,True,True,True
-ΧΧ§Χ•Χ•Χ” Χ™Χ©Χ¨ΧΧ ,center-lev-tlv,"2,650 β‚ª",1,1,27 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ 84,center-lev-tlv,"10,000 β‚ª",2,Χ§Χ¨Χ§ΧΆ,52 ,False,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ 62,center-lev-tlv,"14,000 β‚ª",3.5,2,120 ,True,True,True,True
-Χ§ΧΧ™Χ©Χ¨ 23,center-lev-tlv,"11,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,140 ,False,True,True,True
-Χ©Χ™Χ™Χ Χ§Χ™Χ ,center-lev-tlv,"10,900 β‚ª",4,3,95 ,True,True,True,True
-Χ Χ΅ Χ¦Χ™Χ•Χ Χ” 5,center-lev-tlv,"10,000 β‚ª",3,2,80 ,True,True,True,True
-Χ©Χ™Χ™Χ Χ§Χ™Χ ,center-lev-tlv,"20,000 β‚ª",5,6,150 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ΅ΧΧΧΧ΅ 24,north,"5,300 β‚ª",2,3,60 ,False,True,True,False
-Χ‘ΧΧ•Χ 1,north,"10,000 β‚ª",4.5,2,120 ,False,True,True,True
-Χ™Χ•Χ—Χ Χ Χ”Χ•Χ¨Χ§Χ Χ•Χ΅ ,north,"5,800 β‚ª",2,1,65 ,False,True,False,True
-Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” ,north,"6,400 β‚ª",3,3,60 ,True,True,True,False
-ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 75,north,"7,200 β‚ª",3,2,75 ,False,True,True,False
-Χ“Χ™Χ–Χ Χ’Χ•Χ£ 190,north,"5,500 β‚ª",2,2,40 ,True,True,True,True
-ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ ,north,"5,800 β‚ª",2,1,65 ,True,True,True,False
-Χ§Χ¦Χ ΧΧ΅Χ•Χ ,north,"7,250 β‚ª",3,2,80 ,False,True,False,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 63,north,"4,500 β‚ª",1,1,20 ,False,True,True,True
-Χ Χ”Χ¨Χ“ΧΆΧ ,north,"7,400 β‚ª",3,2,70 ,True,True,True,False
-ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ 8,north,"10,500 β‚ª",4,10,115 ,True,True,True,False
-ΧΧ¨Χ™Χ Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χª ,north,"8,300 β‚ª",3,2,82 ,False,True,False,True
-Χ¦Χ™Χ™ΧΧΧ™Χ 27,north,"5,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,True,True
-Χ’Χ¨Χ¥ ,north,"9,500 β‚ª",4,3,100 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ”Χ™Χ•Χ¦Χ¨ 9,north,"6,800 β‚ª",2.5,3,62 ,False,True,True,True
-Χ ΧΧ ΧªΧ ΧΧ‘Χ™Χ‘ ,north,"4,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,45 ,False,True,True,False
-ΧΧ¨Χ™Χ Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χª 4,north,"9,500 β‚ª",4,3,100 ,False,True,True,False
-Χ©Χ“Χ¨Χ•Χª Χ©ΧΧ•Χ Χ”ΧΧΧ 1,north,"43,000 β‚ª",2,7,220 ,True,True,False,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 32,north,"5,500 β‚ª",2.5,1,64 ,False,True,False,False
-"ΧΧ”Χ¨""Χ ",north,"9,500 β‚ª",3.5,1,115 ,False,True,False,False
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ ,north,"6,500 β‚ª",2,2,60 ,False,True,True,False
-Χ©ΧΧ¨Χ™Χ§Χ¨ 36,north,"2,900 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ,False,True,True,False
-Χ‘ΧΧ¨Χ™ 38,north,"10,500 β‚ª",4,4,90 ,True,True,True,True
-Χ”Χ“Χ΅Χ” ,north,"11,000 β‚ª",4,1,110 ,True,True,True,True
-Χ‘ΧΧ¨ ΧΧ•Χ‘Χ™Χ” ,north,"6,600 β‚ª",3,1,75 ,True,True,False,False
-Χ“Χ¨Χ Χ ΧΧ™Χ¨ 11,north,"7,000 β‚ª",4.5,1,96 ,False,True,False,False
-Χ‘Χ¦ΧΧΧ 29,north,"7,500 β‚ª",3,Χ§Χ¨Χ§ΧΆ,65 ,True,True,True,True
-Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"13,500 β‚ª",3,2,100 ,True,True,False,False
-Χ¤Χ§Χ™ΧΆΧ™Χ 10,north,"29,000 β‚ª",5,3,180 ,True,True,False,False
-ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 132,north,"4,900 β‚ª",3,3,85 ,False,True,True,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 70,north,"5,300 β‚ª",2,3,50 ,False,True,False,True
-ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ ,north,"9,500 β‚ª",3,12,100 ,True,True,True,False
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 178,north,"7,000 β‚ª",3.5,3,85 ,False,True,False,True
-Χ¤Χ Χ§Χ΅ ,north,800 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,18 ,False,False,False,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 30,north,"6,900 β‚ª",3,3,75 ,False,True,True,True
-ΧΆΧ™Χ Χ’Χ“Χ™ ,north,"7,500 β‚ª",3,1,60 ,True,True,True,False
-Χ”ΧΧ¤Χ¨Χ™Χ 5,north,"6,700 β‚ª",3,1,80 ,False,True,False,True
-ΧΧΧ Χ” 18,north,"10,550 β‚ª",3,2,70 ,True,True,True,False
-ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 17,north,"11,000 β‚ª",3,2,80 ,True,True,True,True
-Χ”Χ¨Χ‘ Χ¦Χ™Χ¨ΧΧ΅Χ•Χ 24,north,"7,500 β‚ª",2.5,4,65 ,True,True,True,True
-Χ‘ΧΧ•Χ 11,north,"7,900 β‚ª",3,Χ§Χ¨Χ§ΧΆ,75 ,False,True,True,False
-Χ–Χ Χ’Χ‘Χ™Χ ,north,"7,000 β‚ª",3,1,75 ,False,True,True,False
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 137,north,"6,500 β‚ª",3,3,70 ,False,True,True,False
-Χ“Χ™Χ–Χ Χ’Χ•Χ£ 216,north,"9,200 β‚ª",3,2,100 ,True,True,True,True
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 88,north,"13,000 β‚ª",5,1,102 ,False,True,True,False
-Χ‘Χ–Χ 27,north,"6,700 β‚ª",3,3,60 ,False,True,True,True
-ΧΧ•Χ“Χ™ΧΧ™ΧΧ Χ™ 6,north,"8,500 β‚ª",4.5,1,110 ,True,True,True,False
-Χ©Χ“Χ¨Χ•Χª Χ‘Χ Χ’Χ•Χ¨Χ™Χ•Χ ,north,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ,False,True,False,False
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 37,north,"6,000 β‚ª",2,1,50 ,False,True,True,True
-Χ‘Χ Χ™Χ”Χ•Χ“Χ” 165,north,"6,000 β‚ª",3,2,87 ,False,True,False,False
-Χ‘Χ¨Χ Χ“Χ™Χ™Χ΅ ,north,"9,500 β‚ª",2,3,95 ,True,True,True,True
-ΧΧ ΧΧ•Χ§Χ•ΧΧ΅Χ§Χ™ 3,north,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,3.5,3,100 ,True,True,True,True
-Χ“Χ” Χ”ΧΧ– 18,north,"7,500 β‚ª",3,2,56 ,False,True,True,False
-Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” 17,north,"4,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,False,False
-Χ¤Χ™Χ ΧΧ΅ 6,north,"2,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,15 ,False,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ©ΧΧ•Χ Χ”ΧΧΧ 9,north,"7,800 β‚ª",3,2,80 ,True,True,False,False
-Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"23,000 β‚ª",4.5,Χ§Χ¨Χ§ΧΆ,270 ,True,True,True,False
-Χ•Χ™Χ™Χ¦ΧΧ 123,north,"7,500 β‚ª",3,2,98 ,False,True,True,False
-Χ™Χ•Χ—Χ Χ Χ”Χ’Χ“Χ™ 5,north,"7,500 β‚ª",3,3,70 ,False,True,True,False
-ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ 5,north,750 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,15 ,False,False,False,False
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 90,north,"7,000 β‚ª",3,4,66 ,False,True,True,True
-Χ‘Χ Χ™Χ”Χ•Χ“Χ” 117,north,"5,200 β‚ª",2,2,48 ,False,True,True,True
-Χ¤Χ§Χ™ΧΆΧ™Χ ,north,"25,000 β‚ª",4.5,6,180 ,True,True,True,False
-Χ‘Χ–Χ ,north,"7,000 β‚ª",2.5,4,60 ,True,True,True,False
-Χ‘Χ Χ™ Χ“Χ ,north,"8,000 β‚ª",3,3,80 ,True,True,True,False
-Χ©Χ“Χ¨Χ•Χª Χ“Χ•Χ“ Χ”ΧΧΧ 25,north,"7,000 β‚ª",3.5,3,120 ,False,True,False,False
-Χ–Χ›Χ¨Χ™Χ” ,north,"10,000 β‚ª",3,1,110 ,True,True,True,False
-Χ“Χ™Χ–Χ Χ’Χ•Χ£ 240,north,"4,000 β‚ª",1,2,25 ,False,True,False,False
-Χ‘ΧΧ¨Χ™ 36,north,"7,500 β‚ª",3,6,104 ,True,True,True,True
-Χ©Χ“Χ¨Χ•Χª Χ Χ•Χ¨Χ“ΧΧ• 25,north,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ,False,True,False,False
-Χ”Χ¨Χ‘ Χ¤Χ¨Χ™Χ“ΧΧ ,north,730 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,18 ,False,False,False,False
-Χ‘Χ¦ΧΧΧ ,north,"7,900 β‚ª",3,2,75 ,False,True,False,False
-Χ‘Χ¦ΧΧΧ 31,north,"7,400 β‚ª",4,Χ§Χ¨Χ§ΧΆ,82 ,False,True,True,False
-ΧΧ Χ“ΧΧ©ΧΧ ,north,"29,000 β‚ª",5,3,165 ,True,True,True,False
-Χ–'Χ‘Χ•ΧΧ™Χ Χ΅Χ§Χ™ ,north,"7,800 β‚ª",3,4,110 ,True,True,True,True
-Χ‘Χ¨Χ Χ“Χ™Χ™Χ΅ ,north,"1,800 β‚ª",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,15 ,False,False,False,False
-Χ”Χ™Χ¨Χ§Χ•Χ 196,north,"14,000 β‚ª",3,3,98 ,False,True,True,True
-Χ¤Χ Χ§Χ΅ 19,north,"8,000 β‚ª",4,2,90 ,False,True,True,True
-ΧΆΧΧ•Χ΅ 8,north,"11,500 β‚ª",3,3,90 ,True,True,True,False
-Χ•Χ™Χ™Χ¦ΧΧ ,north,"6,500 β‚ª",2.5,1,70 ,True,True,True,False
-Χ©Χ“Χ¨Χ•Χª Χ Χ•Χ¨Χ“ΧΧ• ,north,"8,000 β‚ª",3,1,70 ,True,True,True,True
-Χ¨Χ‘ Χ¦ΧΆΧ™Χ¨ ,north,"4,400 β‚ª",1,3,31 ,True,True,True,False
-Χ‘Χ¦ΧΧΧ ,north,"7,400 β‚ª",3,2,70 ,True,True,False,False
-Χ‘Χ¦ΧΧΧ 31,north,"5,500 β‚ª",2,2,58 ,False,True,False,False
-ΧΆΧΧ•Χ΅ 4,north,"7,000 β‚ª",2,3,68 ,False,True,True,True
-Χ©ΧΧΆΧ•Χ Χ”ΧªΧ¨Χ΅Χ™ 12,north,"7,000 β‚ª",3,2,80 ,False,True,True,False
-Χ¦Χ™Χ™ΧΧΧ™Χ 33,north,"9,000 β‚ª",4,3,100 ,True,True,True,False
-Χ‘Χ¦ΧΧΧ ,north,"2,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,14 ,False,True,True,True
-ΧΧ¨Χ™Χ΅ΧΧ•Χ‘Χ•ΧΧ•Χ΅ 6,north,"5,650 β‚ª",2.5,1,54 ,False,True,False,False
-Χ©Χ™ΧΧ” 5,north,"6,000 β‚ª",2.5,1,50 ,False,True,True,False
-ΧΧ©ΧªΧ•Χ¨Χ™ Χ”Χ¤Χ¨Χ—Χ™ 4,north,"6,500 β‚ª",2,3,60 ,False,True,False,True
-ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ ,north,"9,000 β‚ª",3,2,90 ,True,True,True,False
-Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” ,north,"8,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,67 ,False,True,True,True
-Χ’Χ¨Χ¥ 8,north,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,21 ,False,True,True,True
-Χ“Χ™Χ–Χ Χ’Χ•Χ£ 280,north,"4,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ,False,True,True,False
-ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ ,north,"5,500 β‚ª",2,2,60 ,False,True,False,False
-Χ¤Χ Χ§Χ΅ 53,north,"6,000 β‚ª",2.5,3,65 ,False,True,True,False
-ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ 9,north,"6,000 β‚ª",2,1,60 ,False,True,False,True
-Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ ,north,"5,000 β‚ª",2,1,50 ,False,True,True,False
-ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ ,north,"5,500 β‚ª",3,1,75 ,False,True,True,False
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+ιωψΰμ ξρμπθ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,700 ¤",3,3,70," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,2,30," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ¤",1,1,15," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,FALSE,TRUE,TRUE
+βαςϊ αο ιδεγδ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,μΰ φειο ξηιψ,7,χψχς,300," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ξαωψ 53,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,3,40," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰιϊιΰμ 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",4,2,100," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωιαϊ φιεο 20,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,900 ¤",2.5,3,63," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",1.5,χψχς,25," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ι.μ. τψυ 38,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,300 ¤",3,5,100," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+βεμεξα 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,1,60," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2,4,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ιγςιδ δτπιπι ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,1,27," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",2,2,45," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ δδβπδ 100,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ¤",2.5,χψχς,75," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+μαπγδ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,500 ¤",1,2,24," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+αψ ιεηΰι 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,χψχς,31," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ηζπεαιυ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",3,3,75," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+ψΰω τιπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",3,4,55," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ιΰιψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,300 ¤",1,χψχς,20," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ψΰω τιπδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,400 ¤",3,1,71," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+βεμεξα 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,500 ¤",4,1,130," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,FALSE,TRUE,FALSE
+ηζπεαιυ' 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"8,000 ¤",4,4,90," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωγψεϊ δψ φιεο 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,2,70," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ηλξι ΰϊεπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,800 ¤",1,χψχς,29," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ηζχιδε δξμκ 19,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",3,2,50," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+δωλμ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,40," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιωψΰμ ξρμπθ 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,000 ¤",4,1,90," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ξαωψ 42,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,200 ¤",1.5,1,93," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δχεπβψρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ¤",3.5,3,80," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,600 ¤",3,3,60," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+χξεΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,35," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,499 ¤",4,2,95," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ηζπεαιυ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"9,000 ¤",4,3,117," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+δχεπβψρ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ¤",4,χψχς,92," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ςαΰρ 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,700 ¤",1,χψχς,15," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,FALSE,TRUE,TRUE
+δεπΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+γψκ ξπην αβιο 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ¤",1,2,36," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ιρεγ δξςμδ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,600 ¤",2,4,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,χψχς,30," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+μειπρχι 63,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ¤",1,χψχς,20," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",2,2,30," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μειπρχι ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",4,2,80," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ηζχιδε δξμκ 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+γψκ ξπην αβιο 36,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",2,1,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,700 ¤",2,3,40," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+"ιω""ψ ξχπγιΰδ 27",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2.5,χψχς,80," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ¤",2,3,60," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"14,000 ¤",6,χψχς,330," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+δΰχμιτθερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,1,40," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ¤",4,1,100," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+"ψΰα""γ 31",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",2.5,χψχς,80," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,800 ¤",3,1,70," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰηιξςυ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,μΰ φειο ξηιψ,4,1,100," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+βεμεξα 11,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,950 ¤",1,1,40," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιωψΰμ ξρμπθ 21,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,350 ¤",3,3,55," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ηλξι ΰϊεπδ 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,χψχς,100," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ιωψΰμ ξρμπθ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,800 ¤",4,χψχς,100," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωτιψΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"10,000 ¤",5,χψχς,170,  ϊμ ΰαια ιτε ,FALSE,TRUE,TRUE,FALSE
+αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,900 ¤",4,2,82," ωτιψΰ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ξχεψ ηιιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",2,χψχς,40," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ρξθϊ ςεαγ 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",3,χψχς,70," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δψα ιφηχ ιγιγιδ τψπχμ 69,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,100 ¤",2,3,35," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,700 ¤",3,4,57," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ι.μ. τψυ 40,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",3.5,5,84," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",2.5,4,52," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ιχεϊιΰμ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",3,χψχς,120," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ χιαευ βμειεϊ 113,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,200 ¤",1,χψχς,25," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ χιαευ βμειεϊ 109,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,22," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δψθεα 18,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,000 ¤",4,1,90," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+δΰρισ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",3,1,70," ωτιψΰ, ϊμ ΰαια ιτε ",TRUE,FALSE,TRUE,FALSE
+ωμξεο 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,30," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δχεπβψρ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2.5,χψχς,62," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ¤",2.5,-1,46," ωτιψΰ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,2,25," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ χιαευ βμειεϊ 79,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,3,30," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ¤",1.5,4,45," πεεδ ωΰπο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+λελαι ιφηχ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,200 ¤",4,4,80," ωτιψΰ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιρεγ δξςμδ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ¤",2,1,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ητψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,24," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μειπρχι 61,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",2,3,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+δεπΰ 34,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,2,30," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ςαΰρ 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",2,2,35," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,FALSE,TRUE,TRUE
+αψ ιεηΰι 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,χψχς,30," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιγςιδ δτπιπι 26,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",1,1,27," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ξχεψ ηιιν 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,3,23," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+λψν ηξγ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",4,2,75," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιρεγ δξςμδ 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,900 ¤",4,χψχς,130," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+εψγιΰμ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,42," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ηζχιδε δξμκ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,900 ¤",4,1,100," ωτιψΰ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰιιβψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ¤",2,1,50," πεεδ ωΰπο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+αΰψι 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,6,104," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰαο βαιψεμ 137,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",3,3,70," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αζμ 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ¤",3,3,60," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+τπχρ 53,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2.5,3,65," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ξψιν δηωξεπΰιϊ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",4,3,100," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωγψεϊ αο βεψιεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ¤",1,χψχς,30," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γιζπβεσ 280,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,800 ¤",2,χψχς,40," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αψπγιιρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",2,3,95," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+χφπμρεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,250 ¤",3,2,80," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ΰπθιβεπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ¤",3,2,90," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+βψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",4,3,100," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+μρψ ΰεψι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",3,12,100," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ΰψμεζεψεα ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",3,1,75," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ξπγμωθν ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ¤",5,3,165," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ιδεγδ δξλαι 37,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2,1,50," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ειιφξο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2.5,1,70," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ςξερ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",2,3,68," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+πξμ ϊμ ΰαια ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",2,χψχς,45," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωγψεϊ πεψγΰε 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,200 ¤",1,χψχς,25," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ¤",1,χψχς,14," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+αμεκ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ¤",3,χψχς,75," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αφμΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,58," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+δψα τψιγξο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,730 ¤,μΰ φειο,χψχς,18," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+δφτεο δηγω - φτεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"23,000 ¤",4.5,χψχς,270,  ϊμ ΰαια ιτε ,TRUE,TRUE,TRUE,FALSE
+ωγψεϊ πεψγΰε ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",3,1,70," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ζπβαιμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,1,75," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+τπχρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,800 ¤,μΰ φειο,χψχς,18," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+βψυ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ¤",1,χψχς,21," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δγρδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ¤",4,1,110," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωμεξφιεο δξμλδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ¤",2,χψχς,67," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰαο βαιψεμ 90,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,4,66," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ωγψεϊ ωΰεμ δξμκ 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"43,000 ¤",2,7,220," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+πδψγςΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",3,2,70," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωγψεϊ γεγ δξμκ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3.5,3,120," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ωγψεϊ διεφψ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,800 ¤",2.5,3,62," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+γψκ πξιψ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",4.5,1,96," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+δμτψιο 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ¤",3,1,80," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιδεγδ δξλαι 70,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ¤",2,3,50," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ωμεξφιεο δξμλδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,400 ¤",3,3,60," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ιδεγδ δξλαι 32,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2.5,1,64," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ωμεξφιεο δξμλδ 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",2,χψχς,40," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+αο ιδεγδ 117,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ¤",2,2,48," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ςιο βγι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,1,60," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+δψα φιψμρεο 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",2.5,4,65," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωγψεϊ ωΰεμ δξμκ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ¤",3,2,80," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+φιιθμιο 33,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ¤",4,3,100," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ζ'αεθιπρχι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ¤",3,4,110," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+φιιθμιο 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ¤",2,χψχς,40," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+γιζπβεσ 240,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,000 ¤",1,2,25," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ΰπθιβεπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ¤",2,1,65," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωιμδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2.5,1,50," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γιζπβεσ 216,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,200 ¤",3,2,100," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+αφμΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",4,χψχς,82," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+μρψ ΰεψι 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,750 ¤,μΰ φειο,χψχς,15," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+ιεηπο δβγι 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,3,70," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰαο βαιψεμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,60," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+διψχεο 196,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"14,000 ¤",3,3,98," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰψιρθεαεμερ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,650 ¤",2.5,1,54," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ¤",3,2,75," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+αφμΰμ 29,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,χψχς,65," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ειιφξο 123,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,2,98," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰπθιβεπερ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2,1,60," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+αΰψ θεαιδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,600 ¤",3,1,75," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+ζλψιδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ¤",3,1,110," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+αμεκ 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ¤",4.5,2,120," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ξεγιμιΰπι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ¤",4.5,1,110," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωθψιχψ 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,900 ¤",1,χψχς,30," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰψμεζεψεα 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ¤",3,2,80," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰψμεζεψεα 132,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,900 ¤",3,3,85," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰαο βαιψεμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2,2,60," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αΰψι 38,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ¤",4,4,90," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+τχιςιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"25,000 ¤",4.5,6,180," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+απι γο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",3,3,80," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+"ξδψ""μ ",ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",3.5,1,115," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ιδεγδ δξλαι 30,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,900 ¤",3,3,75," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+τιπμρ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ¤",1,χψχς,15," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",3,2,70," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+τπχρ 19,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",4,2,90," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰωϊεψι δτψηι 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2,3,60," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+δφτεο δηγω - φτεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,500 ¤",3,2,100,  ϊμ ΰαια ιτε ,TRUE,TRUE,FALSE,FALSE
+ιεηπο δεψχπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ¤",2,1,65," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ΰαο βαιψεμ 88,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,000 ¤",5,1,102," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ιδεγδ δξλαι 63,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",1,1,20," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιδεγδ δξλαι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,000 ¤",2,1,50," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ξΰπδ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,550 ¤",3,2,70," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+γδ δΰζ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,2,56," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+αψπγιιρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"1,800 ¤",μΰ φειο,χψχς,15," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+αζμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",2.5,4,60," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ΰπθεχεμρχι 3,ers\sara levi\PycharmProjects\apartments-analysis\data\north,μΰ φειο ξηιψ,3.5,3,100," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ςξερ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,500 ¤",3,3,90," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ξψιν δηωξεπΰιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,300 ¤",3,2,82," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+τχιςιο 10,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ¤",5,3,180," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+ΰψμεζεψεα 75,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,200 ¤",3,2,75," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+μρψ ΰεψι 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ¤",4,10,115," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ψα φςιψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,400 ¤",1,3,31," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ΰαο βαιψεμ 178,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3.5,3,85," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+αο ιδεγδ 165,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",3,2,87," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ωγψεϊ ρξΰθρ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ¤",2,3,60," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωξςεο δϊψρι 12,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,2,80," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γιζπβεσ 190,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,40," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ¤",3,17,70," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+"γ""ψ ωξςεο αψπτμγ 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ¤",3,2,70," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 72,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,200 ¤",1,1,22," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιφηχ ωγδ 68,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,400 ¤",3,2,70," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ςξιωα 30,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2.5,2,60," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δξρβψ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,100 ¤",2,3,35," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",2,16,68," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωμξδ αεαψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",2,χψχς,48," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ςξιωα 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2,3,50," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",3.5,18,76," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ςξιωα 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",2.5,2,60," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ςξιωα 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2.5,2,55," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+"γ""ψ ωξςεο αψπτμγ 11",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,1,85," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+γψκ δωμεν 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,800 ¤",2,3,55," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ δωμεν 79,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ¤",2.5,χψχς,65," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+μδ βεεΰψγιδ 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,100 ¤",3,1,70," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+ωεπφιπε ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,400 ¤",1,4,35," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ¤",4,40,148," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"11,000 ¤",4,42,134," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+"γ""ψ ΰαψδν ΰμιδε δψλαι 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,500 ¤",2.5,χψχς,32," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3,2,55," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+γψκ δωμεν 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2.5,4,55," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ¤",3.5,40,147," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+δξςψλδ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,800 ¤",3,3,64," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+αο ΰαιβγεψ 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ¤",2,2,50," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+γψκ δωμεν 101,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,380 ¤",4,2,90," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,800 ¤",4,41,120," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωεπφιπε ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,900 ¤",2,3,40," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+απιξιο ζΰα αΰλψ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,430 ¤,μΰ φειο,2,1," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,800 ¤",3,16,70," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3,2,50," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ¤",2,χψχς,40," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιφηχ ωγδ 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,300 ¤",1,3,30," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+γψκ ξπην αβιο 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,000 ¤",3,27,100," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+γψκ ξωδ γιιο 51,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",4,3,80," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ¤",3,15,71," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+πβαδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ¤",3,4,68," ιγ ΰμιδε, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ¤",3,30,73," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+"γ""ψ ΰαψδν ΰμιδε δψλαι 13",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,300 ¤",4,3,96," ϊμ ηιιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ¤",3,20,12," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+ωγψεϊ ιδεγιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",2,3,43," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ¤",4,5,95," ϊμ ηιιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ¤",2,2,55," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πϊο ιμιο ξεψ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,500 ¤",3,1,60," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ωγψεϊ ιδεγιϊ 34,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",2,2,46," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+δβιαεψ δΰμξεπι 74,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,2,105," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,3,100," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ ξπην αβιο 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",3,21,81," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+γψκ δθιιριν 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ¤",3,3,78," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ ξωδ γιιο 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ¤",4,7,80," ιγ ΰμιδε, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+γψκ δωμεν 93,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,1,49," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+δβιαεψ δΰμξεπι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",4,4,110," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+τψζεο 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ¤",3,1,55," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"γ""ψ ωξςεο αψπτμγ 20",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",3,4,65," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ςξιωα 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,700 ¤",2,3,45," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ιτϊη 16,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,500 ¤",4,6,115," ιγ ΰμιδε, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+γψκ δωμεν 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ¤",2,3,50," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+γψκ δωμεν 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ¤",1.5,3,25," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μδ βεεΰψγιδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3.5,4,74," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+μδ βεεΰψγιδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,4,65," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ωμξδ αεαψ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,000 ¤",4,χψχς,185," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+απιξιο ζΰα αΰλψ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ¤",4,2,100," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+πϊο ιμιο ξεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,700 ¤",4,4,90," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,900 ¤",3,28,72," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ψηαϊ δβιιρεϊ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2.5,3,60," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+γψκ δωμεν 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,2,60," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+δβιαεψ δΰμξεπι 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",3,4,80," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+γψκ δωμεν 89,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,μΰ φειο ξηιψ,3,2,55," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+"γ""ψ ωξςεο αψπτμγ ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ¤",3,χψχς,75," ϊμ ηιιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ρψ β'εο ξεπω 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",3,4,75," ιγ ΰμιδε, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+"ξιλ""μ ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ¤",4,1,95," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,2,85,  ϊμ ΰαια ιτε ,TRUE,TRUE,TRUE,TRUE
+ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,000 ¤",μΰ φειο,χψχς,1," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+αεψελεα 12,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ¤",2.5,3,75," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+"ξζΰ""δ 56",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,μΰ φειο ξηιψ,μΰ φειο,χψχς,9," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+διψχεο 78,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ¤",3,29,98," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"24,500 ¤",4,3,130,  ϊμ ΰαια ιτε ,FALSE,TRUE,TRUE,FALSE
+μεπυ 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,500 ¤",2.5,2,72," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+γψκ ξπην αβιο 19,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ¤",1,3,25," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιφηχ ΰμηπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,234 ¤",4,5,200," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+δξβιγ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ¤",2.5,4,50," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+"ψω""ι 39",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ¤",5,1,145," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+χμιωψ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,χψχς,140," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ξηπδ ιερσ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,000 ¤",3,χψχς,80," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ωγψεϊ ψεθωιμγ 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"14,000 ¤",3.5,2,120," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωμεω ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",5,χψχς,20," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+φαι αψεχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ¤",3,1,66," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+πηξπι ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2,1,55," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιφηχ ΰμηπο 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,μΰ φειο ξηιψ,2,3,50," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ωγψεϊ ψεθωιμγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ¤",3,2,90," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+τιπρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3,χψχς,65," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ωαιμ δΰθγ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,900 ¤",2.5,χψχς,55," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωιιπχιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,900 ¤",4,3,95," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰηεεδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,800 ¤",2.5,1,80," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωγψεϊ ψεθωιμγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3,1,90," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,500 ¤",5,2,104,  ϊμ ΰαια ιτε ,TRUE,TRUE,FALSE,FALSE
+αμτεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,800 ¤",4,2,100," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ξχεεδ ιωψΰμ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ¤",2,5,45," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"30,000 $",μΰ φειο,χψχς,1000,  ϊμ ΰαια ιτε ,FALSE,TRUE,TRUE,FALSE
+ιερσ δπωιΰ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3.5,3,71," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωαζι ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",3.5,2,85," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"ξζΰ""δ 48",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,200 ¤",3,3,180," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰμπαι 136,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ¤",1,χψχς,23," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ωγψεϊ αο φιεο 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ¤",3,1,70," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ξπην ωθιιο 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",4,χψχς,100," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",4,χψχς,200,  ϊμ ΰαια ιτε ,TRUE,TRUE,TRUE,FALSE
+ΰμπαι 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ¤",3,4,90," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιαπΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",4,2,140," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ςιο ιςχα 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2.5,1,60," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+δξμκ β'εψβ' 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,000 ¤",2,2,45," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰιγμρεο 7,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",5.5,χψχς,125," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+τιπρ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,100 ¤",3,1,65," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ωμεω ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,500 ¤",5,2,160," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+τιΰψαψβ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",4,χψχς,340," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιφηχ ΰμηπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",2,20,63," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ςιο εψγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2,1,53," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+πρ φιεπδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,000 ¤",2.5,4,55," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+μαεπθιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",3,5,80," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ξηπδ ιερσ 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,300 ¤",2,χψχς,37," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ΰηεεδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,200 ¤",2.5,1,80," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ρξθϊ ωαζι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,500 ¤",1,1,14," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+ΰηεεδ 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ¤",4,3,150," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+πρ φιεπδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",3,2,80," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ξχεεδ ιωψΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,650 ¤",1,1,27," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιδεγδ δμει 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",4,χψχς,110," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,FALSE
+μιμιπαμεν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,000 ¤",2,1,50," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"μα ϊμ ΰαια, μα δςιψ φτεο ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,600 ¤",1,1,34,  ϊμ ΰαια ιτε ,FALSE,TRUE,TRUE,TRUE
+δηωξεπΰιν 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ¤",1,4,25," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+αψ ΰιμο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",5,3,165," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,28,87," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+αψπθ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",4,χψχς,10," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ιφηχ ΰμηπο 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"18,100 ¤",3.5,14,130," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιδεγδ δμει 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,850 ¤,μΰ φειο,χψχς,10," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"27,000 ¤",5.5,2,260,  ϊμ ΰαια ιτε ,TRUE,TRUE,TRUE,FALSE
+ωιιπχιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ¤",5,6,150," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιαπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ¤",3,4,75," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωαζι 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,800 ¤",2,χψχς,55," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ¤",3,26,90," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+τιπρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ¤",3,3,80," πεεδ φγχ, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ωγψεϊ ψεθωιμγ 84,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",2,χψχς,52," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ωαιμ δΰθγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,800 ¤",2,χψχς,38," πεεδ φγχ, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+βΰεμδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,μΰ φειο ξηιψ,2,χψχς,40," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+δλεαωιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,000 ¤",2,3,40," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,FALSE,FALSE,FALSE
+ΰμωικ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,850 ¤",1,χψχς,20," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+βΰεμδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,μΰ φειο ξηιψ,2,6,60," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+λψξμιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"12,000 ¤",4,3,110," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ¤",4,χψχς,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+αιϊ ιερσ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"13,000 ¤",4,1,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ψφισ δψαψθ ρξεΰμ 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ¤",3,4,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+αιϊ ιερσ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,200 ¤",2.5,χψχς,70," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,550 ¤",1.5,2,27," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,TRUE
+ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,900 ¤",1,-1,35," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+δλεαωιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"8,250 ¤",4,4,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+ψφισ δψαψθ ρξεΰμ 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ¤",3,4,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+βΰεμδ 39,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,490 ¤",1,χψχς,18," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ψφισ δψαψθ ρξεΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"22,000 ¤",2,20,94," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,TRUE
+ΰμπαι 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,500 ¤",2,4,42," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+ΰμπαι 38,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"9,900 ¤",4,1,100," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"ξμ""ο 3",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ¤",1,χψχς,30," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,900 ¤",4,2,85," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+βγψδ 13,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,700 ¤,μΰ φειο,χψχς,10," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,FALSE,FALSE,FALSE
+δλεαωιν 45,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"6,000 ¤",3,2,60," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰμιωια 26,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,200 ¤",1,χψχς,20," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,FALSE,FALSE
+ιωλεο 17,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,000 ¤",1,χψχς,25," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,FALSE,TRUE
+βΰεμδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ¤",3,3,80," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,FALSE
+ςζψΰ δρετψ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"14,000 ¤",4,4,115," λψν δϊιξπιν, ϊμ ΰαια ιτε ",TRUE,TRUE,TRUE,FALSE
+βγψδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"17,000 ¤",4,χψχς,180," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+"ϊψξ""α 25",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ¤",1,1,24," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE
+ΰμωικ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,250 ¤",1,1,26," λψν δϊιξπιν, ϊμ ΰαια ιτε ",FALSE,TRUE,TRUE,TRUE

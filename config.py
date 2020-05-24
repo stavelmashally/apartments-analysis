@@ -33,6 +33,7 @@ NORTH_PATH = os.path.join('data', 'north')
 CENTER_LEV_TLV_PATH = os.path.join('data', 'center-lev-tlv')
 CENTER_EAST_PATH = os.path.join('data', 'center-east')
 CENTER_KEREM_PATH = os.path.join('data', 'center-kerem')
+ALL = [SOUTH_PATH, NORTH_PATH, CENTER_EAST_PATH, CENTER_LEV_TLV_PATH, CENTER_KEREM_PATH]
 
 ROOM = 0
 FLOOR = 1
@@ -43,15 +44,15 @@ AIR_CONDITION = 'מיזוג'
 REFURBISHED = 'משופצת'
 FURNITURE = 'ריהוט'
 
-FEATURES = {ELEVATOR: 'elevator',
-            AIR_CONDITION: 'air-condition',
-            REFURBISHED: 'refurbished',
-            FURNITURE: 'furniture'}
-
+FEATURES = {ELEVATOR: 'Elevator',
+            AIR_CONDITION: 'Air-condition',
+            REFURBISHED: 'Refurbished',
+            FURNITURE: 'Furniture'}
 
 
 URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
 ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'
+
 
 NEIGBORHOODS = {
     # 'ramatAviv': [],

@@ -25,7 +25,7 @@ def extract_apartment_info(folder_path):
     apartments = []
     for item in items:
         item_path = os.path.join(folder_path, item)
-        with open(item_path, 'r') as html_file:
+        with open(item_path, 'r', encoding='utf-8') as html_file:
             soup = BeautifulSoup(html_file, 'html.parser')
             if can_extract(soup):
                 apartment = {}
@@ -35,6 +35,7 @@ def extract_apartment_info(folder_path):
                 apartment['Rooms'] = soup.findAll('dd', attrs={'class': 'value'})[ROOM].text
                 apartment['Floor'] = soup.findAll('dd', attrs={'class': 'value'})[FLOOR].text
                 apartment['Square-meter'] = soup.findAll('dd', attrs={'class': 'value'})[SQUARE_METER].text
+                apartment['Area-text'] = soup.find('span', attrs={'class': 'description'}).text
                 apartment['Elevator'] = False
                 apartment['Air-condition'] = False
                 apartment['Refurbished'] = False
@@ -48,8 +49,10 @@ def extract_apartment_info(folder_path):
 
 
 def main():
-    folder = NORTH_PATH
-    extract_apartment_info(folder)
+    # folder = NORTH_PATH
+    for folder in ALL:
+        folder = os.path.join(os.getcwd(), folder)
+        extract_apartment_info(folder)
 
 
 if __name__ == "__main__":
