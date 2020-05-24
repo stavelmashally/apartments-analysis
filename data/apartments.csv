@@ -1,0 +1,361 @@
+Title,Area,Price,Rooms,Floor,Square-meter,Elevator,Air-condition,Refurbished,Furniture
+י.ל. פרץ 38,south,"6,300 ₪",3,5,100 ,True,True,True,False
+נווה שאנן ,south,"5,700 ₪",3,4,57 ,True,True,True,False
+דרך קיבוץ גלויות 113,south,"3,200 ₪",1,קרקע,25 ,False,True,True,False
+השכל 5,south,"3,500 ₪",2,1,40 ,False,True,False,True
+הרטוב 18,south,"6,000 ₪",4,1,90 ,True,True,True,False
+נתן הנביא ,south,"2,900 ₪",1.5,קרקע,25 ,False,True,True,False
+י.ל. פרץ ,south,"5,500 ₪",4,1,100 ,False,True,True,False
+חכמי אתונה 35,south,"4,500 ₪",3,קרקע,100 ,False,True,True,False
+נווה שאנן ,south,"5,200 ₪",2.5,4,52 ,True,True,True,False
+יאיר ,south,"2,300 ₪",1,קרקע,20 ,False,True,True,False
+ורדיאל 9,south,"3,500 ₪",2,1,42 ,False,True,False,False
+חפר ,south,"3,000 ₪",1,1,24 ,False,True,True,True
+חזנוביץ' 12,south,"8,000 ₪",4,4,90 ,True,True,True,False
+חזקיהו המלך ,south,"7,900 ₪",4,1,100 ,False,True,True,False
+גולומב 27,south,"4,500 ₪",3,1,60 ,False,True,True,True
+יסוד המעלה 31,south,"4,400 ₪",2,1,50 ,True,True,True,False
+מבשר 42,south,"2,200 ₪",1.5,1,93 ,False,True,True,True
+מקור חיים 24,south,"3,000 ₪",1,3,23 ,False,True,True,True
+עבאס 33,south,"1,700 ₪",1,קרקע,15 ,False,False,True,True
+נווה שאנן ,south,"4,500 ₪",2,4,50 ,True,True,True,False
+דרך ההגנה 100,south,"4,200 ₪",2.5,קרקע,75 ,False,True,True,False
+דרך קיבוץ גלויות 109,south,"3,000 ₪",1,1,22 ,False,True,True,True
+גולומב 5,south,"7,500 ₪",4,1,130 ,False,False,True,False
+בעל העקידה ,south,"6,900 ₪",4,2,82 ,True,True,True,False
+לוינסקי ,south,"6,500 ₪",4,2,80 ,False,True,True,True
+ידעיה הפניני ,south,"3,500 ₪",1,1,27 ,False,True,True,False
+הקונגרס 5,south,"7,200 ₪",4,קרקע,92 ,False,True,True,False
+הונא 34,south,"3,000 ₪",1,קרקע,20 ,False,True,True,True
+יסוד המעלה 31,south,"4,600 ₪",2,4,50 ,True,True,False,False
+חזנוביץ' ,south,"6,500 ₪",3,3,75 ,True,True,False,True
+דרך מנחם בגין 36,south,"3,800 ₪",2,1,50 ,False,True,False,False
+אייגר ,south,"4,200 ₪",2,1,50 ,True,True,True,True
+גולומב 11,south,"2,950 ₪",1,1,40 ,False,True,True,True
+לבנדה ,south,"3,500 ₪",1,2,25 ,False,True,True,False
+איתיאל 27,south,"5,000 ₪",4,2,100 ,True,True,True,False
+בר יוחאי 47,south,"3,600 ₪",2,קרקע,30 ,False,True,True,True
+האסיף ,south,"5,000 ₪",3,1,70 ,True,False,True,False
+חכמי אתונה ,south,"2,800 ₪",1,קרקע,29 ,False,True,True,True
+דרך מנחם בגין 4,south,"5,500 ₪",2,3,60 ,True,True,True,False
+שדרות הר ציון 30,south,"4,500 ₪",3,2,70 ,False,True,True,True
+נתן הנביא ,south,"2,900 ₪",2,2,45 ,False,True,True,False
+"יש""ר מקנדיאה 27",south,"4,500 ₪",2.5,קרקע,80 ,False,True,True,False
+כוכבי יצחק 5,south,"6,200 ₪",4,4,80 ,True,True,True,True
+לבנדה ,south,"1,500 ₪",2,2,30 ,False,True,True,True
+חזקיהו המלך 47,south,"3,000 ₪",1,קרקע,20 ,False,True,False,True
+הקונגרס 10,south,"4,500 ₪",2.5,קרקע,62 ,False,True,True,False
+לבנדה 23,south,"2,500 ₪",1,2,24 ,False,True,False,True
+יסוד המעלה 35,south,"5,900 ₪",4,קרקע,130 ,True,True,True,True
+יקותיאל 28,south,"5,200 ₪",3,קרקע,120 ,False,True,True,False
+מטלון 75,south,"3,700 ₪",2,3,40 ,False,True,True,False
+עבאס 33,south,"2,900 ₪",2,2,35 ,False,False,True,True
+מקור חיים ,south,"3,800 ₪",2,קרקע,40 ,False,True,True,False
+מטלון 75,south,"2,400 ₪",1,1,15 ,False,False,True,True
+האקליפטוס ,south,"3,600 ₪",2,1,40 ,False,True,True,False
+י.ל. פרץ ,south,"5,800 ₪",3,1,70 ,True,True,True,True
+ראש פינה ,south,"5,200 ₪",3,4,55 ,True,True,True,False
+ידעיה הפניני 26,south,"2,900 ₪",1,1,27 ,False,True,True,True
+ישראל מסלנט 21,south,"4,350 ₪",3,3,55 ,False,True,False,False
+מטלון 75,south,"4,000 ₪",1.5,4,45 ,False,True,False,False
+חזנוביץ' ,south,"9,000 ₪",4,3,117 ,True,True,False,True
+דרך מנחם בגין 12,south,"2,400 ₪",1,2,36 ,False,True,True,False
+בר יוחאי 47,south,"3,500 ₪",1,קרקע,31 ,False,True,False,True
+י.ל. פרץ 40,south,"6,500 ₪",3.5,5,84 ,True,True,True,True
+חזקיהו המלך 19,south,"5,000 ₪",3,2,50 ,False,True,True,False
+שפירא ,south,"10,000 ₪",5,קרקע,170 ,False,True,True,False
+הקונגרס ,south,"7,200 ₪",3.5,3,80 ,True,True,True,False
+הרב יצחק ידידיה פרנקל 69,south,"4,100 ₪",2,3,35 ,True,True,True,False
+הונא ,south,"3,000 ₪",1,קרקע,20 ,False,True,True,True
+סמטת עובד 30,south,"3,800 ₪",3,קרקע,70 ,False,True,True,True
+ישראל מסלנט ,south,"6,800 ₪",4,קרקע,100 ,False,True,True,False
+ישראל מסלנט ,south,"4,700 ₪",3,3,70 ,False,False,False,False
+לוינסקי 61,south,"5,000 ₪",2,3,50 ,True,True,True,True
+"ראב""ד 31",south,"5,000 ₪",2.5,קרקע,80 ,False,True,False,True
+בעל העקידה ,south,"4,400 ₪",2.5,-1,46 ,True,True,True,False
+מבשר 53,south,"3,600 ₪",2,3,40 ,False,True,True,True
+ישראל מסלנט 30,south,"7,000 ₪",4,1,90 ,False,True,True,False
+שיבת ציון 20,south,"3,900 ₪",2.5,3,63 ,False,True,False,False
+קמואל ,south,"3,500 ₪",2,1,35 ,False,True,True,False
+י.ל. פרץ ,south,"6,499 ₪",4,2,95 ,False,True,True,False
+שלמון 28,south,"3,000 ₪",1,1,30 ,False,True,True,True
+גבעת בן יהודה 10,south,לא צוין מחיר,7,קרקע,300 ,False,True,True,False
+לבנדה ,south,"1,500 ₪",1,2,30 ,False,True,True,True
+י.ל. פרץ ,south,"5,600 ₪",3,3,60 ,True,True,True,False
+אחימעץ 4,south,לא צוין מחיר,4,1,100 ,False,True,True,False
+לבנדה ,south,"1,500 ₪",1,2,30 ,False,True,True,True
+דרך קיבוץ גלויות 79,south,"3,000 ₪",1,3,30 ,False,True,True,True
+נתן הנביא ,south,"1,500 ₪",1,קרקע,30 ,False,True,False,False
+כרם חמד 6,south,"5,000 ₪",4,2,75 ,False,True,False,True
+לוינסקי 63,south,"4,000 ₪",1,קרקע,20 ,False,True,True,True
+ראש פינה 24,south,"5,400 ₪",3,1,71 ,True,True,False,True
+בעל העקידה ,south,"14,000 ₪",6,קרקע,330 ,False,True,True,False
+רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100 ,True,True,True,True
+גדרה 13,center-kerem,700 ₪,לא צוין,קרקע,10 ,False,False,False,False
+ישכון 17,center-kerem,"3,000 ₪",1,קרקע,25 ,True,True,False,True
+גאולה 5,center-kerem,לא צוין מחיר,2,קרקע,40 ,False,True,True,True
+גאולה 39,center-kerem,"3,490 ₪",1,קרקע,18 ,False,True,True,True
+גאולה ,center-kerem,לא צוין מחיר,2,6,60 ,True,True,True,True
+אלשיך ,center-kerem,"3,250 ₪",1,1,26 ,False,True,True,True
+גדרה ,center-kerem,"17,000 ₪",4,קרקע,180 ,False,True,True,True
+יונה הנביא ,center-kerem,"2,900 ₪",1,-1,35 ,True,True,True,False
+כרמלית ,center-kerem,"12,000 ₪",4,3,110 ,True,True,True,True
+הכובשים ,center-kerem,"5,000 ₪",2,3,40 ,True,False,False,False
+בית יוסף 23,center-kerem,"5,200 ₪",2.5,קרקע,70 ,False,True,False,False
+גאולה ,center-kerem,"7,500 ₪",3,3,80 ,False,True,True,False
+"תרמ""ב 25",center-kerem,"3,650 ₪",1,1,24 ,False,True,True,True
+אלשיך ,center-kerem,"2,850 ₪",1,קרקע,20 ,False,True,True,True
+אלנבי 20,center-kerem,"5,500 ₪",2,4,42 ,True,True,False,True
+הכובשים ,center-kerem,"8,250 ₪",4,4,100 ,True,True,True,False
+יונה הנביא ,center-kerem,"7,500 ₪",4,קרקע,100 ,False,True,False,False
+"מל""ן 3",center-kerem,"3,650 ₪",1,קרקע,30 ,False,True,True,False
+עזרא הסופר 11,center-kerem,"14,000 ₪",4,4,115 ,True,True,True,False
+רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100 ,True,True,True,True
+רציף הרברט סמואל ,center-kerem,"22,000 ₪",2,20,94 ,True,True,True,True
+יונה הנביא ,center-kerem,"7,900 ₪",4,2,85 ,True,True,True,False
+אלנבי 38,center-kerem,"9,900 ₪",4,1,100 ,False,True,True,True
+אלישיב 26,center-kerem,"3,200 ₪",1,קרקע,20 ,False,True,False,False
+בית יוסף ,center-kerem,"13,000 ₪",4,1,100 ,True,True,True,True
+יונה הנביא ,center-kerem,"3,550 ₪",1.5,2,27 ,False,True,False,True
+הכובשים 45,center-kerem,"6,000 ₪",3,2,60 ,False,True,True,True
+הגיבור האלמוני 6,center-east,"5,500 ₪",4,4,110 ,False,True,False,False
+"ד""ר שמעון ברנפלד 10",center-east,"5,000 ₪",3,2,70 ,False,True,True,False
+בן אביגדור ,center-east,"4,500 ₪",3,2,50 ,True,True,True,True
+המסגר 8,center-east,"3,100 ₪",2,3,35 ,False,True,True,True
+עמישב 20,center-east,"4,200 ₪",2.5,2,60 ,False,True,False,False
+דרך מנחם בגין 144,center-east,"11,000 ₪",4,42,134 ,True,True,True,True
+דרך מנחם בגין 144,center-east,"7,000 ₪",3,20,12 ,True,True,False,True
+דרך מנחם בגין 72,center-east,"3,200 ₪",1,1,22 ,False,True,False,True
+פרזון 15,center-east,"4,600 ₪",3,1,55 ,False,True,True,True
+שלמה בובר ,center-east,"4,200 ₪",2,קרקע,48 ,False,True,False,False
+לה גווארדיה 28,center-east,"4,500 ₪",3.5,4,74 ,False,True,True,True
+הגיבור האלמוני 74,center-east,"6,000 ₪",4,2,105 ,False,True,True,True
+דרך השלום 99,center-east,"4,300 ₪",2,3,50 ,False,True,False,False
+דרך השלום 91,center-east,"4,000 ₪",2.5,4,55 ,False,True,False,False
+לה גווארדיה 24,center-east,"4,000 ₪",2,4,65 ,False,True,True,True
+יצחק שדה 36,center-east,"3,300 ₪",1,3,30 ,False,True,True,True
+בן אביגדור ,center-east,"4,500 ₪",3,2,55 ,True,True,True,True
+דרך השלום 101,center-east,"6,380 ₪",4,2,90 ,False,True,True,False
+המערכה 22,center-east,"4,800 ₪",3,3,64 ,False,True,True,True
+שונצינו ,center-east,"3,900 ₪",2,3,40 ,True,True,True,True
+הגיבור האלמוני 36,center-east,"5,500 ₪",3,4,80 ,False,True,False,True
+"ד""ר אברהם אליהו הרכבי ",center-east,"3,000 ₪",2,קרקע,40 ,False,True,False,True
+בנימין זאב באכר 10,center-east,"6,200 ₪",4,2,100 ,False,True,True,True
+דרך השלום 99,center-east,"4,000 ₪",2,2,60 ,False,True,False,True
+עמישב 30,center-east,"4,400 ₪",2.5,2,60 ,False,True,True,True
+דרך מנחם בגין 144,center-east,"7,900 ₪",3,28,72 ,True,True,True,False
+עמישב 32,center-east,"3,700 ₪",2,3,45 ,False,True,True,False
+בנימין זאב באכר 8,center-east,430 ₪,לא צוין,2,1 ,False,False,False,False
+דרך משה דיין 61,center-east,"5,700 ₪",4,7,80 ,True,True,True,True
+שדרות יהודית ,center-east,"5,500 ₪",2,3,43 ,True,True,True,True
+דרך מנחם בגין 144,center-east,"7,500 ₪",2,16,68 ,True,True,True,True
+דרך מנחם בגין 144,center-east,"18,000 ₪",4,40,148 ,True,True,True,False
+דרך השלום 89,center-east,לא צוין מחיר,3,2,55 ,False,True,True,False
+דרך מנחם בגין 144,center-east,"8,500 ₪",3,30,73 ,True,True,False,True
+"ד""ר אברהם אליהו הרכבי ",center-east,"6,200 ₪",4,5,95 ,True,True,True,False
+בן אביגדור ,center-east,"4,490 ₪",2,2,55 ,True,True,True,True
+נתן ילין מור ,center-east,"7,700 ₪",4,4,90 ,True,True,False,False
+דרך השלום 91,center-east,"3,000 ₪",1.5,3,25 ,False,True,True,True
+עמישב 4,center-east,"4,000 ₪",2.5,2,55 ,False,True,False,False
+שלמה בובר 22,center-east,"8,000 ₪",4,קרקע,185 ,False,True,False,False
+דרך משה דיין 51,center-east,"4,500 ₪",4,3,80 ,False,True,False,False
+נתן ילין מור 18,center-east,"6,500 ₪",3,1,60 ,True,True,True,False
+עמישב 10,center-east,"4,400 ₪",2,3,50 ,False,True,False,False
+דרך הטייסים 10,center-east,"5,700 ₪",3,3,78 ,False,True,True,False
+דרך מנחם בגין 144,center-east,"7,500 ₪",3.5,18,76 ,True,True,True,False
+דרך מנחם בגין 144,center-east,"18,000 ₪",3.5,40,147 ,True,True,True,True
+דרך השלום 95,center-east,"3,800 ₪",2,3,55 ,False,True,False,False
+יצחק שדה 68,center-east,"5,400 ₪",3,2,70 ,False,True,True,True
+דרך מנחם בגין 144,center-east,"7,800 ₪",3,16,70 ,True,True,True,True
+דרך מנחם בגין 150,center-east,"7,500 ₪",3,21,81 ,True,True,False,False
+"ד""ר שמעון ברנפלד 20",center-east,"4,400 ₪",3,4,65 ,False,True,False,False
+נגבה 24,center-east,"5,000 ₪",3,4,68 ,True,True,True,False
+לה גווארדיה 62,center-east,"5,100 ₪",3,1,70 ,False,False,False,False
+דרך מנחם בגין 150,center-east,"9,000 ₪",3,27,100 ,True,True,False,False
+דרך מנחם בגין 144,center-east,"8,500 ₪",3,15,71 ,True,True,False,True
+שדרות יהודית 34,center-east,"5,500 ₪",2,2,46 ,True,True,False,False
+"ד""ר אברהם אליהו הרכבי 10",center-east,"3,500 ₪",2.5,קרקע,32 ,False,True,True,True
+בן אביגדור 2,center-east,"4,490 ₪",2,2,50 ,True,True,True,True
+דרך השלום 79,center-east,"4,600 ₪",2.5,קרקע,65 ,False,True,True,False
+"ד""ר אברהם אליהו הרכבי 13",center-east,"6,300 ₪",4,3,96 ,True,True,True,False
+סר ג'ון מונש 9,center-east,"4,200 ₪",3,4,75 ,False,True,False,False
+"ד""ר אברהם אליהו הרכבי ",center-east,"6,000 ₪",4,3,100 ,False,True,False,False
+שונצינו ,center-east,"3,400 ₪",1,4,35 ,True,True,True,True
+דרך מנחם בגין 144,center-east,"7,000 ₪",3,17,70 ,True,True,False,True
+"ד""ר שמעון ברנפלד 11",center-east,"6,000 ₪",4,1,85 ,False,False,False,False
+דרך השלום 93,center-east,"4,000 ₪",2,1,49 ,False,True,False,True
+רחבת הגייסות 6,center-east,"4,400 ₪",2.5,3,60 ,False,True,False,True
+"ד""ר שמעון ברנפלד ",center-east,"4,300 ₪",3,קרקע,75 ,False,True,True,False
+יפתח 16,center-east,"9,500 ₪",4,6,115 ,True,True,True,False
+דרך מנחם בגין 144,center-east,"9,800 ₪",4,41,120 ,True,True,True,False
+יצחק אלחנן 3,center-lev-tlv,לא צוין מחיר,2,3,50 ,False,True,False,False
+אלנבי 136,center-lev-tlv,"3,300 ₪",1,קרקע,23 ,False,True,True,True
+שלוש ,center-lev-tlv,"12,500 ₪",5,2,160 ,False,True,True,True
+יבנאל 31,center-lev-tlv,"16,000 ₪",4,2,140 ,False,True,False,True
+מקווה ישראל 10,center-lev-tlv,"4,200 ₪",2,5,45 ,True,True,True,True
+נווה צדק ,center-lev-tlv,"30,000 $",לא צוין,קרקע,1000 ,False,True,True,False
+החשמונאים 3,center-lev-tlv,"4,200 ₪",1,4,25 ,False,True,True,True
+יצחק אלחנן ,center-lev-tlv,"1,234 ₪",4,5,200 ,True,True,True,True
+מחנה יוסף 25,center-lev-tlv,"9,000 ₪",3,קרקע,80 ,False,True,True,True
+אידלסון 7,center-lev-tlv,"8,000 ₪",5.5,קרקע,125 ,False,True,True,True
+נווה צדק ,center-lev-tlv,"16,000 ₪",4,קרקע,200 ,True,True,True,False
+שלוש ,center-lev-tlv,"16,000 ₪",5,קרקע,20 ,False,True,True,True
+נווה צדק ,center-lev-tlv,"27,000 ₪",5.5,2,260 ,True,True,True,False
+בורוכוב 12,center-lev-tlv,"6,500 ₪",2.5,3,75 ,False,True,False,True
+שדרות בן ציון 4,center-lev-tlv,"8,500 ₪",3,1,70 ,True,True,True,True
+הירקון 78,center-lev-tlv,"15,000 ₪",3,29,98 ,True,True,True,True
+יהודה הלוי 20,center-lev-tlv,850 ₪,לא צוין,קרקע,10 ,False,False,False,False
+לילינבלום ,center-lev-tlv,"5,000 ₪",2,1,50 ,False,True,True,True
+אחווה 28,center-lev-tlv,"11,200 ₪",2.5,1,80 ,False,True,True,False
+לונץ 3,center-lev-tlv,"7,500 ₪",2.5,2,72 ,False,True,True,False
+"מזא""ה 48",center-lev-tlv,"9,200 ₪",3,3,180 ,False,True,True,False
+פיארברג 6,center-lev-tlv,"11,000 ₪",4,קרקע,340 ,False,True,False,True
+אילת 61,center-lev-tlv,"10,500 ₪",3,26,90 ,True,True,True,True
+שבזי ,center-lev-tlv,"10,000 ₪",3.5,2,85 ,False,True,True,True
+נווה צדק ,center-lev-tlv,"11,000 ₪",3,2,85 ,True,True,True,True
+שדרות רוטשילד ,center-lev-tlv,"8,500 ₪",3,2,90 ,True,True,True,False
+בלפור ,center-lev-tlv,"9,800 ₪",4,2,100 ,True,True,True,False
+יצחק אלחנן 15,center-lev-tlv,"18,100 ₪",3.5,14,130 ,True,True,True,True
+סמטת שבזי 6,center-lev-tlv,"2,500 ₪",1,1,14 ,False,False,False,False
+"לב תל אביב, לב העיר צפון ",center-lev-tlv,"3,600 ₪",1,1,34 ,False,True,True,True
+לבונטין ,center-lev-tlv,"12,000 ₪",3,5,80 ,True,True,True,True
+המלך ג'ורג' 2,center-lev-tlv,"4,000 ₪",2,2,45 ,False,True,True,False
+עין יעקב 22,center-lev-tlv,"6,000 ₪",2.5,1,60 ,False,True,False,False
+"מזא""ה 56",center-lev-tlv,לא צוין מחיר,לא צוין,קרקע,9 ,False,False,False,False
+אילת 61,center-lev-tlv,"11,000 ₪",3,28,87 ,True,True,True,True
+"מיכ""ל ",center-lev-tlv,"9,500 ₪",4,1,95 ,True,True,True,False
+אחווה 2,center-lev-tlv,"20,000 ₪",4,3,150 ,False,True,False,True
+המגיד 5,center-lev-tlv,"7,200 ₪",2.5,4,50 ,True,True,True,False
+בר אילן ,center-lev-tlv,"16,000 ₪",5,3,165 ,True,True,True,True
+"רש""י 39",center-lev-tlv,"15,000 ₪",5,1,145 ,False,True,True,False
+אחווה 28,center-lev-tlv,"12,800 ₪",2.5,1,80 ,False,True,True,False
+יהודה הלוי 10,center-lev-tlv,"12,000 ₪",4,קרקע,110 ,True,True,False,False
+פינס ,center-lev-tlv,"9,500 ₪",3,3,80 ,True,True,True,True
+צבי ברוק ,center-lev-tlv,"6,500 ₪",3,1,66 ,False,True,True,False
+שביל האטד 4,center-lev-tlv,"4,900 ₪",2.5,קרקע,55 ,False,True,True,False
+עין ורד ,center-lev-tlv,"6,000 ₪",2,1,53 ,True,True,True,True
+אילת 61,center-lev-tlv,"1,000 ₪",לא צוין,קרקע,1 ,False,False,False,False
+מנחם שטיין 6,center-lev-tlv,"10,000 ₪",4,קרקע,100 ,False,True,False,True
+יוסף הנשיא 9,center-lev-tlv,"8,000 ₪",3.5,3,71 ,False,True,True,False
+פינס ,center-lev-tlv,"8,000 ₪",3,קרקע,65 ,False,True,False,True
+פינס 25,center-lev-tlv,"7,100 ₪",3,1,65 ,False,True,True,False
+שביל האטד ,center-lev-tlv,"3,800 ₪",2,קרקע,38 ,False,True,True,False
+שבזי 8,center-lev-tlv,"5,800 ₪",2,קרקע,55 ,False,True,False,True
+שדרות רוטשילד ,center-lev-tlv,"8,000 ₪",3,1,90 ,True,True,True,True
+נווה צדק ,center-lev-tlv,"11,500 ₪",5,2,104 ,True,True,False,False
+נווה צדק ,center-lev-tlv,"24,500 ₪",4,3,130 ,False,True,True,False
+יבנה ,center-lev-tlv,"10,500 ₪",3,4,75 ,True,True,True,True
+דרך מנחם בגין 19,center-lev-tlv,"3,300 ₪",1,3,25 ,True,True,True,True
+יצחק אלחנן ,center-lev-tlv,"12,000 ₪",2,20,63 ,True,True,True,True
+מחנה יוסף 32,center-lev-tlv,"4,300 ₪",2,קרקע,37 ,False,True,True,False
+נס ציונה 5,center-lev-tlv,"7,000 ₪",2.5,4,55 ,True,True,True,True
+נחמני ,center-lev-tlv,"6,000 ₪",2,1,55 ,False,True,True,True
+אלנבי 95,center-lev-tlv,"7,200 ₪",3,4,90 ,False,True,True,True
+ברנט 22,center-lev-tlv,"6,000 ₪",4,קרקע,10 ,False,True,True,True
+מקווה ישראל ,center-lev-tlv,"2,650 ₪",1,1,27 ,True,True,True,True
+שדרות רוטשילד 84,center-lev-tlv,"10,000 ₪",2,קרקע,52 ,False,True,True,True
+שדרות רוטשילד 62,center-lev-tlv,"14,000 ₪",3.5,2,120 ,True,True,True,True
+קלישר 23,center-lev-tlv,"11,000 ₪",3,קרקע,140 ,False,True,True,True
+שיינקין ,center-lev-tlv,"10,900 ₪",4,3,95 ,True,True,True,True
+נס ציונה 5,center-lev-tlv,"10,000 ₪",3,2,80 ,True,True,True,True
+שיינקין ,center-lev-tlv,"20,000 ₪",5,6,150 ,True,True,True,True
+שדרות סמאטס 24,north,"5,300 ₪",2,3,60 ,False,True,True,False
+בלוך 1,north,"10,000 ₪",4.5,2,120 ,False,True,True,True
+יוחנן הורקנוס ,north,"5,800 ₪",2,1,65 ,False,True,False,True
+שלומציון המלכה ,north,"6,400 ₪",3,3,60 ,True,True,True,False
+ארלוזורוב 75,north,"7,200 ₪",3,2,75 ,False,True,True,False
+דיזנגוף 190,north,"5,500 ₪",2,2,40 ,True,True,True,True
+אנטיגונוס ,north,"5,800 ₪",2,1,65 ,True,True,True,False
+קצנלסון ,north,"7,250 ₪",3,2,80 ,False,True,False,False
+יהודה המכבי 63,north,"4,500 ₪",1,1,20 ,False,True,True,True
+נהרדעא ,north,"7,400 ₪",3,2,70 ,True,True,True,False
+לסר אורי 8,north,"10,500 ₪",4,10,115 ,True,True,True,False
+מרים החשמונאית ,north,"8,300 ₪",3,2,82 ,False,True,False,True
+צייטלין 27,north,"5,200 ₪",2,קרקע,40 ,False,True,True,True
+גרץ ,north,"9,500 ₪",4,3,100 ,True,True,True,True
+שדרות היוצר 9,north,"6,800 ₪",2.5,3,62 ,False,True,True,True
+נמל תל אביב ,north,"4,500 ₪",2,קרקע,45 ,False,True,True,False
+מרים החשמונאית 4,north,"9,500 ₪",4,3,100 ,False,True,True,False
+שדרות שאול המלך 1,north,"43,000 ₪",2,7,220 ,True,True,False,False
+יהודה המכבי 32,north,"5,500 ₪",2.5,1,64 ,False,True,False,False
+"מהר""ל ",north,"9,500 ₪",3.5,1,115 ,False,True,False,False
+אבן גבירול ,north,"6,500 ₪",2,2,60 ,False,True,True,False
+שטריקר 36,north,"2,900 ₪",1,קרקע,30 ,False,True,True,False
+בארי 38,north,"10,500 ₪",4,4,90 ,True,True,True,True
+הדסה ,north,"11,000 ₪",4,1,110 ,True,True,True,True
+באר טוביה ,north,"6,600 ₪",3,1,75 ,True,True,False,False
+דרך נמיר 11,north,"7,000 ₪",4.5,1,96 ,False,True,False,False
+בצלאל 29,north,"7,500 ₪",3,קרקע,65 ,True,True,True,True
+הצפון החדש - צפון ,north,"13,500 ₪",3,2,100 ,True,True,False,False
+פקיעין 10,north,"29,000 ₪",5,3,180 ,True,True,False,False
+ארלוזורוב 132,north,"4,900 ₪",3,3,85 ,False,True,True,False
+יהודה המכבי 70,north,"5,300 ₪",2,3,50 ,False,True,False,True
+לסר אורי ,north,"9,500 ₪",3,12,100 ,True,True,True,False
+אבן גבירול 178,north,"7,000 ₪",3.5,3,85 ,False,True,False,True
+פנקס ,north,800 ₪,לא צוין,קרקע,18 ,False,False,False,False
+יהודה המכבי 30,north,"6,900 ₪",3,3,75 ,False,True,True,True
+עין גדי ,north,"7,500 ₪",3,1,60 ,True,True,True,False
+הלפרין 5,north,"6,700 ₪",3,1,80 ,False,True,False,True
+מאנה 18,north,"10,550 ₪",3,2,70 ,True,True,True,False
+ארלוזורוב 17,north,"11,000 ₪",3,2,80 ,True,True,True,True
+הרב צירלסון 24,north,"7,500 ₪",2.5,4,65 ,True,True,True,True
+בלוך 11,north,"7,900 ₪",3,קרקע,75 ,False,True,True,False
+זנגביל ,north,"7,000 ₪",3,1,75 ,False,True,True,False
+אבן גבירול 137,north,"6,500 ₪",3,3,70 ,False,True,True,False
+דיזנגוף 216,north,"9,200 ₪",3,2,100 ,True,True,True,True
+אבן גבירול 88,north,"13,000 ₪",5,1,102 ,False,True,True,False
+בזל 27,north,"6,700 ₪",3,3,60 ,False,True,True,True
+מודיליאני 6,north,"8,500 ₪",4.5,1,110 ,True,True,True,False
+שדרות בן גוריון ,north,"3,500 ₪",1,קרקע,30 ,False,True,False,False
+יהודה המכבי 37,north,"6,000 ₪",2,1,50 ,False,True,True,True
+בן יהודה 165,north,"6,000 ₪",3,2,87 ,False,True,False,False
+ברנדייס ,north,"9,500 ₪",2,3,95 ,True,True,True,True
+אנטוקולסקי 3,north,לא צוין מחיר,3.5,3,100 ,True,True,True,True
+דה האז 18,north,"7,500 ₪",3,2,56 ,False,True,True,False
+שלומציון המלכה 17,north,"4,500 ₪",2,קרקע,40 ,False,True,False,False
+פינלס 6,north,"2,500 ₪",1,קרקע,15 ,False,True,True,True
+שדרות שאול המלך 9,north,"7,800 ₪",3,2,80 ,True,True,False,False
+הצפון החדש - צפון ,north,"23,000 ₪",4.5,קרקע,270 ,True,True,True,False
+וייצמן 123,north,"7,500 ₪",3,2,98 ,False,True,True,False
+יוחנן הגדי 5,north,"7,500 ₪",3,3,70 ,False,True,True,False
+לסר אורי 5,north,750 ₪,לא צוין,קרקע,15 ,False,False,False,False
+אבן גבירול 90,north,"7,000 ₪",3,4,66 ,False,True,True,True
+בן יהודה 117,north,"5,200 ₪",2,2,48 ,False,True,True,True
+פקיעין ,north,"25,000 ₪",4.5,6,180 ,True,True,True,False
+בזל ,north,"7,000 ₪",2.5,4,60 ,True,True,True,False
+בני דן ,north,"8,000 ₪",3,3,80 ,True,True,True,False
+שדרות דוד המלך 25,north,"7,000 ₪",3.5,3,120 ,False,True,False,False
+זכריה ,north,"10,000 ₪",3,1,110 ,True,True,True,False
+דיזנגוף 240,north,"4,000 ₪",1,2,25 ,False,True,False,False
+בארי 36,north,"7,500 ₪",3,6,104 ,True,True,True,True
+שדרות נורדאו 25,north,"3,200 ₪",1,קרקע,25 ,False,True,False,False
+הרב פרידמן ,north,730 ₪,לא צוין,קרקע,18 ,False,False,False,False
+בצלאל ,north,"7,900 ₪",3,2,75 ,False,True,False,False
+בצלאל 31,north,"7,400 ₪",4,קרקע,82 ,False,True,True,False
+מנדלשטם ,north,"29,000 ₪",5,3,165 ,True,True,True,False
+ז'בוטינסקי ,north,"7,800 ₪",3,4,110 ,True,True,True,True
+ברנדייס ,north,"1,800 ₪",לא צוין,קרקע,15 ,False,False,False,False
+הירקון 196,north,"14,000 ₪",3,3,98 ,False,True,True,True
+פנקס 19,north,"8,000 ₪",4,2,90 ,False,True,True,True
+עמוס 8,north,"11,500 ₪",3,3,90 ,True,True,True,False
+וייצמן ,north,"6,500 ₪",2.5,1,70 ,True,True,True,False
+שדרות נורדאו ,north,"8,000 ₪",3,1,70 ,True,True,True,True
+רב צעיר ,north,"4,400 ₪",1,3,31 ,True,True,True,False
+בצלאל ,north,"7,400 ₪",3,2,70 ,True,True,False,False
+בצלאל 31,north,"5,500 ₪",2,2,58 ,False,True,False,False
+עמוס 4,north,"7,000 ₪",2,3,68 ,False,True,True,True
+שמעון התרסי 12,north,"7,000 ₪",3,2,80 ,False,True,True,False
+צייטלין 33,north,"9,000 ₪",4,3,100 ,True,True,True,False
+בצלאל ,north,"2,500 ₪",1,קרקע,14 ,False,True,True,True
+אריסטובולוס 6,north,"5,650 ₪",2.5,1,54 ,False,True,False,False
+שילה 5,north,"6,000 ₪",2.5,1,50 ,False,True,True,False
+אשתורי הפרחי 4,north,"6,500 ₪",2,3,60 ,False,True,False,True
+אנטיגונוס ,north,"9,000 ₪",3,2,90 ,True,True,True,False
+שלומציון המלכה ,north,"8,500 ₪",2,קרקע,67 ,False,True,True,True
+גרץ 8,north,"3,500 ₪",1,קרקע,21 ,False,True,True,True
+דיזנגוף 280,north,"4,800 ₪",2,קרקע,40 ,False,True,True,False
+אבן גבירול ,north,"5,500 ₪",2,2,60 ,False,True,False,False
+פנקס 53,north,"6,000 ₪",2.5,3,65 ,False,True,True,False
+אנטיגונוס 9,north,"6,000 ₪",2,1,60 ,False,True,False,True
+יהודה המכבי ,north,"5,000 ₪",2,1,50 ,False,True,True,False
+ארלוזורוב ,north,"5,500 ₪",3,1,75 ,False,True,True,False

@@ -6,7 +6,7 @@ from csv import DictWriter
 
 def to_csv(data):
     # Save data to csv file
-    with open(f'apartments.csv', 'w') as file:
+    with open(f'apartments.csv', 'a+') as file:
         headers = list(data[0].keys())
         csv_writer = DictWriter(file, fieldnames=headers)
         csv_writer.writeheader()
@@ -29,16 +29,16 @@ def extract_apartment_info(folder_path):
             soup = BeautifulSoup(html_file, 'html.parser')
             if can_extract(soup):
                 apartment = {}
-                apartment['title'] = soup.find('h4', attrs={'class': 'main_title'}).text
-                apartment['area'] = folder_path[5:]
-                apartment['price'] = soup.find('strong', attrs={'class': 'price'}).text
-                apartment['rooms'] = soup.findAll('dd', attrs={'class': 'value'})[ROOM].text
-                apartment['floor'] = soup.findAll('dd', attrs={'class': 'value'})[FLOOR].text
-                apartment['square-meter'] = soup.findAll('dd', attrs={'class': 'value'})[SQUARE_METER].text
-                apartment['elevator'] = False
-                apartment['air-condition'] = False
-                apartment['refurbished'] = False
-                apartment['furniture'] = False
+                apartment['Title'] = soup.find('h4', attrs={'class': 'main_title'}).text
+                apartment['Area'] = folder_path[5:]
+                apartment['Price'] = soup.find('strong', attrs={'class': 'price'}).text
+                apartment['Rooms'] = soup.findAll('dd', attrs={'class': 'value'})[ROOM].text
+                apartment['Floor'] = soup.findAll('dd', attrs={'class': 'value'})[FLOOR].text
+                apartment['Square-meter'] = soup.findAll('dd', attrs={'class': 'value'})[SQUARE_METER].text
+                apartment['Elevator'] = False
+                apartment['Air-condition'] = False
+                apartment['Refurbished'] = False
+                apartment['Furniture'] = False
                 features = soup.find_all(lambda tag: tag.name == 'div' and tag.get('class') == ['info_feature'])
                 for feature in features:
                     if feature.text.strip() in FEATURES.keys():
@@ -48,7 +48,7 @@ def extract_apartment_info(folder_path):
 
 
 def main():
-    folder = SOUTH_PATH
+    folder = NORTH_PATH
     extract_apartment_info(folder)
 
 
