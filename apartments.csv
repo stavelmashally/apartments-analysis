@@ -1,365 +1,514 @@
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-ιωψΰμ ξρμπθ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,700 ¤",3,3,70 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,False,False,False
-μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,2,30 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ¤",1,1,15 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,False,True,True
-βαςϊ αο ιδεγδ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,μΰ φειο ξηιψ,7,χψχς,300 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ξαωψ 53,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,3,40 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-ΰιϊιΰμ 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",4,2,100 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",True,True,True,False
-ωιαϊ φιεο 20,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,900 ¤",2.5,3,63 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,False,False
-πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",1.5,χψχς,25 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-ι.μ. τψυ 38,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,300 ¤",3,5,100 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-βεμεξα 27,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,1,60 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2,4,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ιγςιδ δτπιπι ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,1,27 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",2,2,45 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ δδβπδ 100,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ¤",2.5,χψχς,75 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-μαπγδ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,500 ¤",1,2,24 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,False,True
-αψ ιεηΰι 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,χψχς,31 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,False,True
-ηζπεαιυ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",3,3,75 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,False,True
-ψΰω τιπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",3,4,55 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ιΰιψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,300 ¤",1,χψχς,20 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-ψΰω τιπδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,400 ¤",3,1,71 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,False,True
-βεμεξα 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,500 ¤",4,1,130 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,False,True,False
-ηζπεαιυ' 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"8,000 ¤",4,4,90 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ωγψεϊ δψ φιεο 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,2,70 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,True
-ηλξι ΰϊεπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,800 ¤",1,χψχς,29 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ηζχιδε δξμκ 19,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",3,2,50 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-δωλμ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,40 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,False,True
-ιωψΰμ ξρμπθ 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,000 ¤",4,1,90 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ξαωψ 42,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,200 ¤",1.5,1,93 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-δχεπβψρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ¤",3.5,3,80 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,600 ¤",3,3,60 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-χξεΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,35 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,499 ¤",4,2,95 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-ηζπεαιυ' ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"9,000 ¤",4,3,117 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,False,True
-δχεπβψρ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,200 ¤",4,χψχς,92 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-ςαΰρ 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,700 ¤",1,χψχς,15 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,False,True,True
-δεπΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-γψκ ξπην αβιο 12,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,400 ¤",1,2,36 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-ιρεγ δξςμδ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,600 ¤",2,4,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,False,False
-πϊο δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,χψχς,30 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,False,False
-μειπρχι 63,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ¤",1,χψχς,20 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,True
-μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",2,2,30 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-μειπρχι ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",4,2,80 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,True
-ηζχιδε δξμκ 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,False,True
-γψκ ξπην αβιο 36,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",2,1,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,False,False
-ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,700 ¤",2,3,40 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-"ιω""ψ ξχπγιΰδ 27",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2.5,χψχς,80 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ ξπην αβιο 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ¤",2,3,60 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"14,000 ¤",6,χψχς,330 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-δΰχμιτθερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,1,40 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,500 ¤",4,1,100 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-"ψΰα""γ 31",ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",2.5,χψχς,80 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,False,True
-ι.μ. τψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,800 ¤",3,1,70 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,True
-ΰηιξςυ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\south,μΰ φειο ξηιψ,4,1,100 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-βεμεξα 11,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,950 ¤",1,1,40 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ιωψΰμ ξρμπθ 21,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,350 ¤",3,3,55 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,False,False
-ηλξι ΰϊεπδ 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",3,χψχς,100 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ιωψΰμ ξρμπθ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,800 ¤",4,χψχς,100 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ωτιψΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"10,000 ¤",5,χψχς,170 ,  ϊμ ΰαια ιτε ,False,True,True,False
-αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,900 ¤",4,2,82 ," ωτιψΰ, ϊμ ΰαια ιτε ",True,True,True,False
-ξχεψ ηιιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",2,χψχς,40 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ρξθϊ ςεαγ 30,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,800 ¤",3,χψχς,70 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-δψα ιφηχ ιγιγιδ τψπχμ 69,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,100 ¤",2,3,35 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,700 ¤",3,4,57 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ι.μ. τψυ 40,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,500 ¤",3.5,5,84 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,True
-πεεδ ωΰπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",2.5,4,52 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ιχεϊιΰμ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,200 ¤",3,χψχς,120 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ χιαευ βμειεϊ 113,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,200 ¤",1,χψχς,25 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ χιαευ βμειεϊ 109,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,22 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-δψθεα 18,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,000 ¤",4,1,90 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",True,True,True,False
-δΰρισ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",3,1,70 ," ωτιψΰ, ϊμ ΰαια ιτε ",True,False,True,False
-ωμξεο 28,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,30 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-δχεπβψρ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,500 ¤",2.5,χψχς,62 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,True,False
-αςμ δςχιγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ¤",2.5,-1,46 ," ωτιψΰ, ϊμ ΰαια ιτε ",True,True,True,False
-μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",1,2,25 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ χιαευ βμειεϊ 79,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,3,30 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ξθμεο 75,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,000 ¤",1.5,4,45 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",False,True,False,False
-λελαι ιφηχ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"6,200 ¤",4,4,80 ," ωτιψΰ, ϊμ ΰαια ιτε ",True,True,True,True
-ιρεγ δξςμδ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,400 ¤",2,1,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,False
-ητψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,1,24 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-μειπρχι 61,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",2,3,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,True
-δεπΰ 34,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,χψχς,20 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,True,True
-μαπγδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"1,500 ¤",1,2,30 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ςαΰρ 33,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",2,2,35 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,False,True,True
-αψ ιεηΰι 47,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,600 ¤",2,χψχς,30 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ιγςιδ δτπιπι 26,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"2,900 ¤",1,1,27 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-ξχεψ ηιιν 24,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,000 ¤",1,3,23 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,True
-λψν ηξγ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,000 ¤",4,2,75 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,False,True
-ιρεγ δξςμδ 35,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"5,900 ¤",4,χψχς,130 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,True
-εψγιΰμ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"3,500 ¤",2,1,42 ," δϊχεδ, αιϊ ιςχα, πεεδ φδ""μ, ϊμ ΰαια ιτε ",False,True,False,False
-ηζχιδε δξμκ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"7,900 ¤",4,1,100 ," ωτιψΰ, ϊμ ΰαια ιτε ",False,True,True,False
-ΰιιβψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\south,"4,200 ¤",2,1,50 ," πεεδ ωΰπο, ϊμ ΰαια ιτε ",True,True,True,True
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-αΰψι 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,6,104 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,True
-ΰαο βαιψεμ 137,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",3,3,70 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-αζμ 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ¤",3,3,60 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-τπχρ 53,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2.5,3,65 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ξψιν δηωξεπΰιϊ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",4,3,100 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ωγψεϊ αο βεψιεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ¤",1,χψχς,30 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-γιζπβεσ 280,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,800 ¤",2,χψχς,40 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-αψπγιιρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",2,3,95 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-χφπμρεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,250 ¤",3,2,80 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,False,False
-ΰπθιβεπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ¤",3,2,90 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-βψυ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",4,3,100 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-μρψ ΰεψι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",3,12,100 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-ΰψμεζεψεα ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",3,1,75 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ξπγμωθν ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ¤",5,3,165 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ιδεγδ δξλαι 37,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2,1,50 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ειιφξο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2.5,1,70 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ςξερ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",2,3,68 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-πξμ ϊμ ΰαια ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",2,χψχς,45 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ωγψεϊ πεψγΰε 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,200 ¤",1,χψχς,25 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ¤",1,χψχς,14 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,True
-αμεκ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ¤",3,χψχς,75 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,False
-αφμΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,58 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,False,False
-δψα τψιγξο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,730 ¤,μΰ φειο,χψχς,18 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,False,False,False
-δφτεο δηγω - φτεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"23,000 ¤",4.5,χψχς,270 ,  ϊμ ΰαια ιτε ,True,True,True,False
-ωγψεϊ πεψγΰε ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",3,1,70 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ζπβαιμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,1,75 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-τπχρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,800 ¤,μΰ φειο,χψχς,18 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,False,False,False
-βψυ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"3,500 ¤",1,χψχς,21 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-δγρδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ¤",4,1,110 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ωμεξφιεο δξμλδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ¤",2,χψχς,67 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ΰαο βαιψεμ 90,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,4,66 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,True
-ωγψεϊ ωΰεμ δξμκ 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"43,000 ¤",2,7,220 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,False,False
-πδψγςΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",3,2,70 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-ωγψεϊ γεγ δξμκ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3.5,3,120 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,False,False
-ωγψεϊ διεφψ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,800 ¤",2.5,3,62 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-γψκ πξιψ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",4.5,1,96 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,False,False
-δμτψιο 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,700 ¤",3,1,80 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-ιδεγδ δξλαι 70,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ¤",2,3,50 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-ωμεξφιεο δξμλδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,400 ¤",3,3,60 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ιδεγδ δξλαι 32,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2.5,1,64 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-ωμεξφιεο δξμλδ 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",2,χψχς,40 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-αο ιδεγδ 117,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ¤",2,2,48 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ςιο βγι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,1,60 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-δψα φιψμρεο 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",2.5,4,65 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ωγψεϊ ωΰεμ δξμκ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ¤",3,2,80 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,False,False
-φιιθμιο 33,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,000 ¤",4,3,100 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-ζ'αεθιπρχι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,800 ¤",3,4,110 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-φιιθμιο 27,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,200 ¤",2,χψχς,40 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,True
-γιζπβεσ 240,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,000 ¤",1,2,25 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-ΰπθιβεπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ¤",2,1,65 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ωιμδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2.5,1,50 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,False
-γιζπβεσ 216,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,200 ¤",3,2,100 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-αφμΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",4,χψχς,82 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,False
-μρψ ΰεψι 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,750 ¤,μΰ φειο,χψχς,15 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,False,False,False
-ιεηπο δβγι 5,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,3,70 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ΰαο βαιψεμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,60 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-διψχεο 196,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"14,000 ¤",3,3,98 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ΰψιρθεαεμερ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,650 ¤",2.5,1,54 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,900 ¤",3,2,75 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,False,False
-αφμΰμ 29,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,χψχς,65 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,True
-ειιφξο 123,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,2,98 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ΰπθιβεπερ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",2,1,60 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-αΰψ θεαιδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,600 ¤",3,1,75 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,False,False
-ζλψιδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ¤",3,1,110 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-αμεκ 1,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,000 ¤",4.5,2,120 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,True
-ξεγιμιΰπι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,500 ¤",4.5,1,110 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-ωθψιχψ 36,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,900 ¤",1,χψχς,30 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ΰψμεζεψεα 17,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,000 ¤",3,2,80 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ΰψμεζεψεα 132,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,900 ¤",3,3,85 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,False
-ΰαο βαιψεμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2,2,60 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-αΰψι 38,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ¤",4,4,90 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,True
-τχιςιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"25,000 ¤",4.5,6,180 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-απι γο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",3,3,80 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-"ξδψ""μ ",ers\sara levi\PycharmProjects\apartments-analysis\data\north,"9,500 ¤",3.5,1,115 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-ιδεγδ δξλαι 30,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,900 ¤",3,3,75 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-τιπμρ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"2,500 ¤",1,χψχς,15 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-αφμΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,400 ¤",3,2,70 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,False,False
-τπχρ 19,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,000 ¤",4,2,90 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ΰωϊεψι δτψηι 4,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,500 ¤",2,3,60 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-δφτεο δηγω - φτεο ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,500 ¤",3,2,100 ,  ϊμ ΰαια ιτε ,True,True,False,False
-ιεηπο δεψχπερ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,800 ¤",2,1,65 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-ΰαο βαιψεμ 88,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"13,000 ¤",5,1,102 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",False,True,True,False
-ιδεγδ δξλαι 63,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,500 ¤",1,1,20 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ιδεγδ δξλαι ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,000 ¤",2,1,50 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ξΰπδ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,550 ¤",3,2,70 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-γδ δΰζ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,500 ¤",3,2,56 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-αψπγιιρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"1,800 ¤",μΰ φειο,χψχς,15 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,False,False,False
-αζμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",2.5,4,60 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ΰπθεχεμρχι 3,ers\sara levi\PycharmProjects\apartments-analysis\data\north,μΰ φειο ξηιψ,3.5,3,100 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,True
-ςξερ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"11,500 ¤",3,3,90 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ξψιν δηωξεπΰιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"8,300 ¤",3,2,82 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-τχιςιο 10,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"29,000 ¤",5,3,180 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,False,False
-ΰψμεζεψεα 75,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,200 ¤",3,2,75 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-μρψ ΰεψι 8,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"10,500 ¤",4,10,115 ," δφτεο δηγω - γψεν, ϊμ ΰαια ιτε ",True,True,True,False
-ψα φςιψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"4,400 ¤",1,3,31 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ΰαο βαιψεμ 178,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3.5,3,85 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-αο ιδεγδ 165,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"6,000 ¤",3,2,87 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,False,False
-ωγψεϊ ρξΰθρ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,300 ¤",2,3,60 ," δφτεο δηγω - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ωξςεο δϊψρι 12,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"7,000 ¤",3,2,80 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-γιζπβεσ 190,ers\sara levi\PycharmProjects\apartments-analysis\data\north,"5,500 ¤",2,2,40 ," δφτεο διωο - φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ¤",3,17,70 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,True
-"γ""ψ ωξςεο αψπτμγ 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ¤",3,2,70 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ ξπην αβιο 72,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,200 ¤",1,1,22 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",False,True,False,True
-ιφηχ ωγδ 68,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,400 ¤",3,2,70 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-ςξιωα 30,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2.5,2,60 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,True
-δξρβψ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,100 ¤",2,3,35 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",False,True,True,True
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",2,16,68 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-ωμξδ αεαψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",2,χψχς,48 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-ςξιωα 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2,3,50 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",3.5,18,76 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,False
-ςξιωα 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",2.5,2,60 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-ςξιωα 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2.5,2,55 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-"γ""ψ ωξςεο αψπτμγ 11",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,1,85 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,False,False,False
-γψκ δωμεν 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,800 ¤",2,3,55 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ δωμεν 79,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ¤",2.5,χψχς,65 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-μδ βεεΰψγιδ 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,100 ¤",3,1,70 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,False,False,False
-ωεπφιπε ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,400 ¤",1,4,35 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ¤",4,40,148 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"11,000 ¤",4,42,134 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-"γ""ψ ΰαψδν ΰμιδε δψλαι 10",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,500 ¤",2.5,χψχς,32 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,True
-αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3,2,55 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-γψκ δωμεν 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2.5,4,55 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"18,000 ¤",3.5,40,147 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-δξςψλδ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,800 ¤",3,3,64 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-αο ΰαιβγεψ 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ¤",2,2,50 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-γψκ δωμεν 101,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,380 ¤",4,2,90 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,800 ¤",4,41,120 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,False
-ωεπφιπε ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,900 ¤",2,3,40 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-απιξιο ζΰα αΰλψ 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,430 ¤,μΰ φειο,2,1 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,False,False,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,800 ¤",3,16,70 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3,2,50 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ¤",2,χψχς,40 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,True
-ιφηχ ωγδ 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,300 ¤",1,3,30 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",False,True,True,True
-γψκ ξπην αβιο 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,000 ¤",3,27,100 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,False
-γψκ ξωδ γιιο 51,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",4,3,80 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ¤",3,15,71 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,True
-πβαδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,000 ¤",3,4,68 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",True,True,True,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,500 ¤",3,30,73 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,True
-"γ""ψ ΰαψδν ΰμιδε δψλαι 13",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,300 ¤",4,3,96 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",True,True,True,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,000 ¤",3,20,12 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,True
-ωγψεϊ ιδεγιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",2,3,43 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ¤",4,5,95 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",True,True,True,False
-αο ΰαιβγεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,490 ¤",2,2,55 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,True
-πϊο ιμιο ξεψ 18,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,500 ¤",3,1,60 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,False
-ωγψεϊ ιδεγιϊ 34,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",2,2,46 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,False
-δβιαεψ δΰμξεπι 74,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,2,105 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-"γ""ψ ΰαψδν ΰμιδε δψλαι ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,000 ¤",4,3,100 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ ξπην αβιο 150,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,500 ¤",3,21,81 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,False
-γψκ δθιιριν 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ¤",3,3,78 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ ξωδ γιιο 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,700 ¤",4,7,80 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",True,True,True,True
-γψκ δωμεν 93,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,1,49 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,True
-δβιαεψ δΰμξεπι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",4,4,110 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,False,False
-τψζεο 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,600 ¤",3,1,55 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-"γ""ψ ωξςεο αψπτμγ 20",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",3,4,65 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-ςξιωα 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,700 ¤",2,3,45 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-ιτϊη 16,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"9,500 ¤",4,6,115 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",True,True,True,False
-γψκ δωμεν 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ¤",2,3,50 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-γψκ δωμεν 91,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"3,000 ¤",1.5,3,25 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,True
-μδ βεεΰψγιδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,500 ¤",3.5,4,74 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-μδ βεεΰψγιδ 24,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,4,65 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,True,True
-ωμξδ αεαψ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"8,000 ¤",4,χψχς,185 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,False
-απιξιο ζΰα αΰλψ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"6,200 ¤",4,2,100 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,True
-πϊο ιμιο ξεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,700 ¤",4,4,90 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,False,False
-γψκ ξπην αβιο 144,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"7,900 ¤",3,28,72 ," ξεπθιτιεψι, δψλαϊ, ϊμ ΰαια ιτε ",True,True,True,False
-ψηαϊ δβιιρεϊ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,400 ¤",2.5,3,60 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,False,True
-γψκ δωμεν 99,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,000 ¤",2,2,60 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,False,True
-δβιαεψ δΰμξεπι 36,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"5,500 ¤",3,4,80 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,False,True
-γψκ δωμεν 89,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,μΰ φειο ξηιψ,3,2,55 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-"γ""ψ ωξςεο αψπτμγ ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,300 ¤",3,χψχς,75 ," ϊμ ηιιν, ϊμ ΰαια ιτε ",False,True,True,False
-ρψ β'εο ξεπω 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-east,"4,200 ¤",3,4,75 ," ιγ ΰμιδε, ϊμ ΰαια ιτε ",False,True,False,False
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-"ξιλ""μ ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ¤",4,1,95 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,2,85 ,  ϊμ ΰαια ιτε ,True,True,True,True
-ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,000 ¤",μΰ φειο,χψχς,1 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,False,False,False
-αεψελεα 12,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ¤",2.5,3,75 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-"ξζΰ""δ 56",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,μΰ φειο ξηιψ,μΰ φειο,χψχς,9 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,False,False,False
-διψχεο 78,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ¤",3,29,98 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"24,500 ¤",4,3,130 ,  ϊμ ΰαια ιτε ,False,True,True,False
-μεπυ 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,500 ¤",2.5,2,72 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-γψκ ξπην αβιο 19,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ¤",1,3,25 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ιφηχ ΰμηπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"1,234 ¤",4,5,200 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-δξβιγ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ¤",2.5,4,50 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-"ψω""ι 39",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"15,000 ¤",5,1,145 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-χμιωψ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,χψχς,140 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ξηπδ ιερσ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,000 ¤",3,χψχς,80 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-ωγψεϊ ψεθωιμγ 62,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"14,000 ¤",3.5,2,120 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ωμεω ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",5,χψχς,20 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-φαι αψεχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,500 ¤",3,1,66 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-πηξπι ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2,1,55 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ιφηχ ΰμηπο 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,μΰ φειο ξηιψ,2,3,50 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,False
-ωγψεϊ ψεθωιμγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ¤",3,2,90 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-τιπρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3,χψχς,65 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,True
-ωαιμ δΰθγ 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,900 ¤",2.5,χψχς,55 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-ωιιπχιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,900 ¤",4,3,95 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ΰηεεδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,800 ¤",2.5,1,80 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-ωγψεϊ ψεθωιμγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3,1,90 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,500 ¤",5,2,104 ,  ϊμ ΰαια ιτε ,True,True,False,False
-αμτεψ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,800 ¤",4,2,100 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,False
-ξχεεδ ιωψΰμ 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ¤",2,5,45 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"30,000 $",μΰ φειο,χψχς,1000 ,  ϊμ ΰαια ιτε ,False,True,True,False
-ιερσ δπωιΰ 9,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",3.5,3,71 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ωαζι ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",3.5,2,85 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-"ξζΰ""δ 48",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,200 ¤",3,3,180 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ΰμπαι 136,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,300 ¤",1,χψχς,23 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ωγψεϊ αο φιεο 4,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,500 ¤",3,1,70 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ξπην ωθιιο 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",4,χψχς,100 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,True
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",4,χψχς,200 ,  ϊμ ΰαια ιτε ,True,True,True,False
-ΰμπαι 95,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,200 ¤",3,4,90 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ιαπΰμ 31,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",4,2,140 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,True
-ςιο ιςχα 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2.5,1,60 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,False
-δξμκ β'εψβ' 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,000 ¤",2,2,45 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,False
-ΰιγμρεο 7,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"8,000 ¤",5.5,χψχς,125 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-τιπρ 25,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,100 ¤",3,1,65 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-ωμεω ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,500 ¤",5,2,160 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-τιΰψαψβ 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",4,χψχς,340 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,False,True
-ιφηχ ΰμηπο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",2,20,63 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-ςιο εψγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",2,1,53 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-πρ φιεπδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"7,000 ¤",2.5,4,55 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-μαεπθιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",3,5,80 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ξηπδ ιερσ 32,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,300 ¤",2,χψχς,37 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-ΰηεεδ 28,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,200 ¤",2.5,1,80 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-ρξθϊ ωαζι 6,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,500 ¤",1,1,14 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,False,False,False
-ΰηεεδ 2,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ¤",4,3,150 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,True
-πρ φιεπδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",3,2,80 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ξχεεδ ιωψΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"2,650 ¤",1,1,27 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ιδεγδ δμει 10,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"12,000 ¤",4,χψχς,110 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,False,False
-μιμιπαμεν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,000 ¤",2,1,50 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-"μα ϊμ ΰαια, μα δςιψ φτεο ",ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,600 ¤",1,1,34 ,  ϊμ ΰαια ιτε ,False,True,True,True
-δηωξεπΰιν 3,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"4,200 ¤",1,4,25 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-αψ ΰιμο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"16,000 ¤",5,3,165 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"11,000 ¤",3,28,87 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-αψπθ 22,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"6,000 ¤",4,χψχς,10 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,True
-ιφηχ ΰμηπο 15,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"18,100 ¤",3.5,14,130 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-ιδεγδ δμει 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,850 ¤,μΰ φειο,χψχς,10 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,False,False,False
-πεεδ φγχ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"27,000 ¤",5.5,2,260 ,  ϊμ ΰαια ιτε ,True,True,True,False
-ωιιπχιο ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"20,000 ¤",5,6,150 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ιαπδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ¤",3,4,75 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",True,True,True,True
-ωαζι 8,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"5,800 ¤",2,χψχς,55 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,False,True
-ΰιμϊ 61,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,500 ¤",3,26,90 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-τιπρ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"9,500 ¤",3,3,80 ," πεεδ φγχ, ϊμ ΰαια ιτε ",True,True,True,True
-ωγψεϊ ψεθωιμγ 84,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"10,000 ¤",2,χψχς,52 ," μα ϊμ ΰαια, μα δςιψ φτεο, ϊμ ΰαια ιτε ",False,True,True,True
-ωαιμ δΰθγ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-lev-tlv,"3,800 ¤",2,χψχς,38 ," πεεδ φγχ, ϊμ ΰαια ιτε ",False,True,True,False
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-βΰεμδ 5,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,μΰ φειο ξηιψ,2,χψχς,40 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-δλεαωιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,000 ¤",2,3,40 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,False,False,False
-ΰμωικ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,850 ¤",1,χψχς,20 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-βΰεμδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,μΰ φειο ξηιψ,2,6,60 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-λψξμιϊ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"12,000 ¤",4,3,110 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ¤",4,χψχς,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,False,False
-αιϊ ιερσ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"13,000 ¤",4,1,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-ψφισ δψαψθ ρξεΰμ 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ¤",3,4,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-αιϊ ιερσ 23,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,200 ¤",2.5,χψχς,70 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,False,False
-ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,550 ¤",1.5,2,27 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,False,True
-ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"2,900 ¤",1,-1,35 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,False
-δλεαωιν ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"8,250 ¤",4,4,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,False
-ψφισ δψαψθ ρξεΰμ 46,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"10,000 ¤",3,4,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-βΰεμδ 39,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,490 ¤",1,χψχς,18 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-ψφισ δψαψθ ρξεΰμ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"22,000 ¤",2,20,94 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,True
-ΰμπαι 20,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"5,500 ¤",2,4,42 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,False,True
-ΰμπαι 38,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"9,900 ¤",4,1,100 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-"ξμ""ο 3",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ¤",1,χψχς,30 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,False
-ιεπδ δπαιΰ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,900 ¤",4,2,85 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,False
-βγψδ 13,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,700 ¤,μΰ φειο,χψχς,10 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,False,False,False
-δλεαωιν 45,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"6,000 ¤",3,2,60 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-ΰμιωια 26,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,200 ¤",1,χψχς,20 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,False,False
-ιωλεο 17,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,000 ¤",1,χψχς,25 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,False,True
-βΰεμδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"7,500 ¤",3,3,80 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,False
-ςζψΰ δρετψ 11,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"14,000 ¤",4,4,115 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",True,True,True,False
-βγψδ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"17,000 ¤",4,χψχς,180 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-"ϊψξ""α 25",ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,650 ¤",1,1,24 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
-ΰμωικ ,ers\sara levi\PycharmProjects\apartments-analysis\data\center-kerem,"3,250 ¤",1,1,26 ," λψν δϊιξπιν, ϊμ ΰαια ιτε ",False,True,True,True
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
+Χ—Χ›ΧΧ™ ΧΧªΧ•Χ Χ” 48,south,"2,800 β‚ª",1,1,25 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™.Χ. Χ¤Χ¨Χ¥ 38,south,"6,300 β‚ª",3,5,100 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"5,700 β‚ª",3,4,57 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 113,south,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 3,south,"6,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,80 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ”Χ©Χ›Χ 5,south,"3,500 β‚ª",2,1,40 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ™Χ™Χ’Χ¨ 12,south,"5,000 β‚ª",3,5,80 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ”Χ¨ΧΧ•Χ‘ 18,south,"6,000 β‚ª",4,1,90 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©Χ™Χ‘Χª Χ¦Χ™Χ•Χ 4,south,"7,000 β‚ª",3,5,75 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"2,900 β‚ª",1.5,Χ§Χ¨Χ§ΧΆ,25 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ ,south,"4,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,50 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧΧ•Χ¨ Χ”Χ’Χ•ΧΧ” 47,south,"11,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,200 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,500 β‚ª",4,1,100 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ—Χ›ΧΧ™ ΧΧªΧ•Χ Χ” 35,south,"4,500 β‚ª",3,Χ§Χ¨Χ§ΧΆ,100 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ 2,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,20 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"5,200 β‚ª",2.5,4,52 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 33,south,"5,000 β‚ª",2,6,45 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™ΧΧ™Χ¨ ,south,"2,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 33,south,"5,600 β‚ª",3,5,80 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ•Χ¨Χ“Χ™ΧΧ 9,south,"3,500 β‚ª",2,1,42 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ—Χ¤Χ¨ ,south,"3,000 β‚ª",1,1,24 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' 12,south,"8,000 β‚ª",4,4,90 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ ,south,"7,900 β‚ª",4,1,100 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ’Χ•ΧΧ•ΧΧ‘ 27,south,"4,500 β‚ª",3,1,60 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 31,south,"4,400 β‚ª",2,1,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ‘Χ©Χ¨ 42,south,"2,200 β‚ª",1.5,1,93 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ΅Χ™ΧΧª Χ™Χ©Χ¨Χ™Χ 26,south,"4,400 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,63 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ§Χ•Χ¨ Χ—Χ™Χ™Χ 24,south,"3,000 β‚ª",1,3,23 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΆΧ‘ΧΧ΅ 33,south,"1,700 β‚ª",1,Χ§Χ¨Χ§ΧΆ,15 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,True,True
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"4,500 β‚ª",2,4,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ Χ”Χ”Χ’Χ Χ” 100,south,"4,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,75 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 109,south,"3,000 β‚ª",1,1,22 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’Χ•ΧΧ•ΧΧ‘ 5,south,"7,500 β‚ª",4,1,130 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,True,False
+Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"6,900 β‚ª",4,2,82 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"2,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ•Χ™Χ Χ΅Χ§Χ™ ,south,"6,500 β‚ª",4,2,80 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ ,south,"3,500 β‚ª",1,1,27 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 5,south,"7,200 β‚ª",4,Χ§Χ¨Χ§ΧΆ,92 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ•Χ Χ 34,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 31,south,"4,600 β‚ª",2,4,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ§Χ¨Χ©Χ§Χ© 6,south,"8,000 β‚ª",4,1,105 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ™.Χ. Χ¤Χ¨Χ¥ 6,south,"5,900 β‚ª",3,3,67 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' ,south,"6,500 β‚ª",3,3,75 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 36,south,"3,800 β‚ª",2,1,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ΅Χ§Χ¨ 7,south,"7,300 β‚ª",4,1,110 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 21,south,"4,500 β‚ª",3,4,70 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ•Χ¨Χ™ Χ–Χ”Χ‘ ,south,"9,800 β‚ª",4,Χ§Χ¨Χ§ΧΆ,210 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ™Χ™Χ’Χ¨ ,south,"4,200 β‚ª",2,1,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧΧ•Χ¨ Χ”Χ’Χ•ΧΧ” 13,south,"4,500 β‚ª",2,2,65 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ’Χ•ΧΧ•ΧΧ‘ 11,south,"2,950 β‚ª",1,1,40 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ‘Χ Χ“Χ” ,south,"3,500 β‚ª",1,2,25 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ™ΧªΧ™ΧΧ 27,south,"5,000 β‚ª",4,2,100 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ¨ Χ™Χ•Χ—ΧΧ™ 47,south,"3,600 β‚ª",2,Χ§Χ¨Χ§ΧΆ,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”ΧΧ΅Χ™Χ£ ,south,"5,000 β‚ª",3,1,70 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,False,True,False
+Χ—Χ›ΧΧ™ ΧΧªΧ•Χ Χ” ,south,"2,800 β‚ª",1,Χ§Χ¨Χ§ΧΆ,29 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ‘Χ Χ“Χ” ,south,"3,500 β‚ª",1,2,25 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 4,south,"5,500 β‚ª",2,3,60 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ”Χ¨ Χ¦Χ™Χ•Χ 30,south,"4,500 β‚ª",3,2,70 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ ,south,"3,900 β‚ª",2,3,40 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ¨ΧΧ© Χ¤Χ™Χ Χ” 24,south,"5,400 β‚ª",3,1,69 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 83,south,"1,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,18 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ 35,south,"4,500 β‚ª",2,5,55 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"2,900 β‚ª",2,2,45 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+"Χ™Χ©""Χ¨ ΧΧ§Χ Χ“Χ™ΧΧ” 27",south,"4,500 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,80 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ΅Χ™ΧΧª Χ™Χ©Χ¨Χ™Χ 71,south,"4,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,50 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ›Χ•Χ›Χ‘Χ™ Χ™Χ¦Χ—Χ§ 5,south,"6,000 β‚ª",4,4,80 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ¨Χ‘ Χ™Χ¦Χ—Χ§ Χ™Χ“Χ™Χ“Χ™Χ” Χ¤Χ¨Χ Χ§Χ 75,south,"3,500 β‚ª",1.5,4,65 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,000 β‚ª",4,3,100 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",2,2,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ 47,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ 10,south,"4,500 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,62 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ‘Χ Χ“Χ” 23,south,"2,500 β‚ª",1,2,24 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ™Χ΅Χ•Χ“ Χ”ΧΧΆΧΧ” 35,south,"5,900 β‚ª",4,Χ§Χ¨Χ§ΧΆ,130 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ Χ©ΧΧΧ” 107,south,"3,500 β‚ª",2,1,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™Χ§Χ•ΧªΧ™ΧΧ 28,south,"5,200 β‚ª",3,Χ§Χ¨Χ§ΧΆ,120 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧΧΧ•Χ 75,south,"3,000 β‚ª",2,3,35 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΆΧ‘ΧΧ΅ 33,south,"2,900 β‚ª",2,2,35 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,True,True
+ΧΆΧ™Χ Χ”Χ§Χ•Χ¨Χ 13,south,"4,000 β‚ª",2,1,58 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ΅Χ§Χ¨ 15,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,5,1,120 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ ,south,"2,900 β‚ª",1,1,20 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ§Χ•Χ¨ Χ—Χ™Χ™Χ ,south,"3,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧΧΧ•Χ 75,south,"2,400 β‚ª",1,1,15 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,True,True
+Χ”ΧΧ§ΧΧ™Χ¤ΧΧ•Χ΅ ,south,"3,600 β‚ª",2,1,40 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ›Χ•Χ›Χ‘Χ™ Χ™Χ¦Χ—Χ§ ,south,"6,200 β‚ª",4,4,78 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,800 β‚ª",3,1,70 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"5,200 β‚ª",2.5,4,55 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ¦'ΧΧ Χ•Χ‘ ,south,"6,000 β‚ª",3,5,70 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ΅ΧΧΧª Χ—Χ›ΧΧ™ Χ™Χ©Χ¨ΧΧ 10,south,"2,700 β‚ª",1.5,Χ§Χ¨Χ§ΧΆ,25 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ 26,south,"2,900 β‚ª",1,1,27 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 21,south,"4,350 β‚ª",3,3,55 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧΧΧ•Χ 75,south,"4,000 β‚ª",1.5,4,45 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ—Χ–Χ Χ•Χ‘Χ™Χ¥' ,south,"9,000 β‚ª",4,3,117 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 12,south,"2,400 β‚ª",1,2,36 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘Χ¨ Χ™Χ•Χ—ΧΧ™ 47,south,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,31 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ™.Χ. Χ¤Χ¨Χ¥ 40,south,"6,500 β‚ª",3.5,5,84 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ¤Χ™Χ¨Χ ,south,"8,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,140 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ—Χ–Χ§Χ™Χ”Χ• Χ”ΧΧΧ 19,south,"4,700 β‚ª",3,2,50 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ’Χ“Χ•Χ“ Χ”ΧΆΧ‘Χ¨Χ™ 31,south,"2,750 β‚ª",1,2,20 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ΅Χ™ΧΧª Χ™Χ©Χ¨Χ™Χ ,south,"4,700 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,85 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©Χ¤Χ™Χ¨Χ ,south,"10,000 β‚ª",5,Χ§Χ¨Χ§ΧΆ,170 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ§ΧΧ•ΧΧ 54,south,"2,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ§Χ•Χ Χ’Χ¨Χ΅ ,south,"7,200 β‚ª",3.5,3,80 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ¨Χ‘ Χ™Χ¦Χ—Χ§ Χ™Χ“Χ™Χ“Χ™Χ” Χ¤Χ¨Χ Χ§Χ 69,south,"4,100 β‚ª",2,3,35 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ•Χ Χ ,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ΅ΧΧΧª ΧΆΧ•Χ‘Χ“ 30,south,"3,800 β‚ª",3,Χ§Χ¨Χ§ΧΆ,70 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ ,south,"6,800 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ Χ•Χ•Χ” Χ©ΧΧ Χ ,south,"10,500 β‚ª",3,5,97 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ ,south,"4,700 β‚ª",3,3,70 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ•Χ™Χ Χ΅Χ§Χ™ 61,south,"5,000 β‚ª",2,3,50 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"Χ¨ΧΧ‘""Χ“ 31",south,"5,000 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,70 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"4,400 β‚ª",2.5,-1,46 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ‘Χ©Χ¨ 53,south,"3,600 β‚ª",2,3,40 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 30,south,"7,000 β‚ª",4,1,90 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ™Χ‘Χª Χ¦Χ™Χ•Χ 20,south,"3,900 β‚ª",2.5,3,63 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧΧ•Χ¨ Χ”Χ’Χ•ΧΧ” 37,south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,28 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ§ΧΧ•ΧΧ ,south,"3,500 β‚ª",2,1,35 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"6,000 β‚ª",4,2,95 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©ΧΧΧ•Χ 28,south,"3,000 β‚ª",1,1,30 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’Χ‘ΧΆΧª Χ‘Χ Χ™Χ”Χ•Χ“Χ” 10,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,7,Χ§Χ¨Χ§ΧΆ,300 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+"Χ¨ΧΧ‘""Χ“ ",south,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",1,2,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™.Χ. Χ¤Χ¨Χ¥ ,south,"5,600 β‚ª",3,3,60 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ—Χ™ΧΧΆΧ¥ 4,south,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,4,1,100 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ΅Χ™ΧΧª Χ”ΧΆΧ•ΧΧ™Χ 11,south,"2,800 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ‘Χ Χ“Χ” ,south,"1,500 β‚ª",1,2,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”ΧΆΧΧ™Χ™Χ” 33,south,"3,700 β‚ª",2,1,60 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ©Χ¨ΧΧ ΧΧ΅ΧΧ Χ 45,south,"3,100 β‚ª",2,1,36 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ“Χ¨Χ Χ§Χ™Χ‘Χ•Χ¥ Χ’ΧΧ•Χ™Χ•Χª 79,south,"3,000 β‚ª",1,3,30 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ ΧªΧ Χ”Χ Χ‘Χ™Χ ,south,"1,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ”ΧªΧ§Χ•Χ”, Χ‘Χ™Χª Χ™ΧΆΧ§Χ‘, Χ Χ•Χ•Χ” Χ¦Χ”""Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ›Χ¨Χ Χ—ΧΧ“ 6,south,"5,000 β‚ª",4,2,75 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ™Χ“ΧΆΧ™Χ” Χ”Χ¤Χ Χ™Χ Χ™ ,south,"22,000 β‚ª",7,Χ§Χ¨Χ§ΧΆ,190 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ‘Χ Χ“Χ” 32,south,980 β‚ª,1,Χ§Χ¨Χ§ΧΆ,20 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,True
+ΧΧ•Χ™Χ Χ΅Χ§Χ™ 63,south,"4,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ¨ΧΧ© Χ¤Χ™Χ Χ” 24,south,"5,400 β‚ª",3,1,71 ," Χ Χ•Χ•Χ” Χ©ΧΧ Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ‘ΧΆΧ Χ”ΧΆΧ§Χ™Χ“Χ” ,south,"14,000 β‚ª",6,Χ§Χ¨Χ§ΧΆ,330 ," Χ©Χ¤Χ™Χ¨Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ΅ΧΧΧΧ΅ 24,north,"5,300 β‚ª",2,3,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘ΧΧ•Χ 1,north,"10,000 β‚ª",4.5,2,120 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ•Χ•Χ¨ΧΧ™Χ™Χ–Χ” ,north,"12,000 β‚ª",3,5,102 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™Χ•Χ—Χ Χ Χ”Χ•Χ¨Χ§Χ Χ•Χ΅ ,north,"5,800 β‚ª",2,1,65 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” ,north,"6,400 β‚ª",3,3,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 75,north,"7,200 β‚ª",3,2,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ™Χ–Χ Χ’Χ•Χ£ 190,north,"5,500 β‚ª",2,2,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ ,north,"5,800 β‚ª",2,1,65 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ§Χ¦Χ ΧΧ΅Χ•Χ ,north,"7,250 β‚ª",3,2,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 13,north,"4,800 β‚ª",2,2,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 63,north,"4,500 β‚ª",1,1,20 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ”Χ¨Χ“ΧΆΧ ,north,"7,400 β‚ª",3,2,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ 8,north,"10,500 β‚ª",4,10,115 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ¨Χ™Χ Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χª ,north,"8,300 β‚ª",3,2,82 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ¦Χ™Χ™ΧΧΧ™Χ 27,north,"5,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ™ΧΧ“Χ΅Χ”Χ™Χ™ΧΧ¨ ,north,"28,000 β‚ª",6,Χ§Χ¨Χ§ΧΆ,250 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ™Χ¨Χ§Χ•Χ 258,north,"7,200 β‚ª",3.5,3,85 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ’Χ¨Χ¥ ,north,"9,500 β‚ª",4,3,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ”Χ™Χ•Χ¦Χ¨ 9,north,"6,800 β‚ª",2.5,3,62 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ ΧΧ ΧªΧ ΧΧ‘Χ™Χ‘ ,north,"4,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,45 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ¨Χ™Χ Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χª 4,north,"9,500 β‚ª",4,3,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ©ΧΧ•Χ Χ”ΧΧΧ 1,north,"43,000 β‚ª",2,7,220 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 32,north,"5,700 β‚ª",2.5,1,64 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+"ΧΧ”Χ¨""Χ ",north,"9,500 β‚ª",3.5,1,115 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ ,north,"6,500 β‚ª",2,2,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©ΧΧ¨Χ™Χ§Χ¨ 36,north,"2,900 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘ΧΧ¨Χ™ 38,north,"10,500 β‚ª",4,4,90 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ“Χ΅Χ” ,north,"11,000 β‚ª",4,1,110 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ‘ΧΧ¨ ΧΧ•Χ‘Χ™Χ” ,north,"6,600 β‚ª",3,1,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+ΧΧΧ—Χ¨Χ™Χ–Χ™ 7,north,"4,600 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ Χ ΧΧ™Χ¨ 11,north,"7,000 β‚ª",4.5,1,96 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ‘Χ¦ΧΧΧ 29,north,"7,500 β‚ª",3,Χ§Χ¨Χ§ΧΆ,65 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"13,500 β‚ª",3,2,100 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,False,False
+Χ¤Χ§Χ™ΧΆΧ™Χ 10,north,"29,000 β‚ª",5,3,180 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 132,north,"4,900 β‚ª",3,3,85 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 70,north,"5,300 β‚ª",2,3,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ ,north,"9,500 β‚ª",3,12,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 178,north,"7,000 β‚ª",3.5,3,85 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ¤Χ Χ§Χ΅ ,north,800 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,18 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” 5,north,"5,500 β‚ª",2.5,1,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©ΧΧ¨Χ™Χ§Χ¨ 34,north,"4,700 β‚ª",1.5,Χ§Χ¨Χ§ΧΆ,35 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ–ΧΧΧ•Χ¤Χ•ΧΧ΅Χ§Χ™ 17,north,"9,500 β‚ª",4,2,114 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 30,north,"6,900 β‚ª",3,3,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"8,700 β‚ª",4,Χ§Χ¨Χ§ΧΆ,95 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+ΧΆΧ™Χ Χ’Χ“Χ™ ,north,"7,500 β‚ª",3,1,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”ΧΧ¤Χ¨Χ™Χ 5,north,"6,700 β‚ª",3,1,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧΧ Χ” 18,north,"10,550 β‚ª",3,2,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ¤Χ Χ§Χ΅ 67,north,"9,000 β‚ª",4,5,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ 17,north,"11,000 β‚ª",3,2,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ¨Χ‘ Χ¦Χ™Χ¨ΧΧ΅Χ•Χ 24,north,"7,500 β‚ª",2.5,4,65 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ‘ΧΧ•Χ 11,north,"7,900 β‚ª",3,Χ§Χ¨Χ§ΧΆ,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ‘Χ©Χ 7,north,"7,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ–Χ Χ’Χ‘Χ™Χ ,north,"8,000 β‚ª",3,1,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 137,north,"6,500 β‚ª",3,3,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ™Χ–Χ Χ’Χ•Χ£ 216,north,"12,500 β‚ª",3,2,95 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 88,north,"13,000 β‚ª",5,1,102 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘Χ–Χ 27,north,"6,700 β‚ª",3,3,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ•Χ“Χ™ΧΧ™ΧΧ Χ™ 6,north,"8,500 β‚ª",4.5,1,110 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ‘Χ Χ’Χ•Χ¨Χ™Χ•Χ ,north,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 47,north,"4,800 β‚ª",3,1,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ¦Χ™Χ“Χ•Χ ,north,"4,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ 37,north,"6,000 β‚ª",2,1,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ‘Χ Χ™Χ”Χ•Χ“Χ” 165,north,"6,000 β‚ª",3,2,87 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ‘Χ¨Χ Χ“Χ™Χ™Χ΅ ,north,"9,500 β‚ª",2,3,95 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ ΧΧ•Χ§Χ•ΧΧ΅Χ§Χ™ 3,north,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,3.5,3,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ” Χ”ΧΧ– 18,north,"7,500 β‚ª",3,2,56 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” 17,north,"4,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ¤Χ™Χ ΧΧ΅ 6,north,"2,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,15 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ©ΧΧ•Χ Χ”ΧΧΧ 9,north,"7,800 β‚ª",3,2,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"23,000 β‚ª",4.5,Χ§Χ¨Χ§ΧΆ,270 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,True,False
+Χ•Χ™Χ™Χ¦ΧΧ 123,north,"7,500 β‚ª",3,2,98 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ•Χ—Χ Χ Χ”Χ’Χ“Χ™ 5,north,"7,500 β‚ª",3,3,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ•Χ™Χ™Χ¦ΧΧ 133,north,"6,000 β‚ª",2.5,2,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ΅Χ¨ ΧΧ•Χ¨Χ™ 5,north,750 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,15 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 90,north,"7,000 β‚ª",3,4,66 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©ΧΧ¨Χ™Χ§Χ¨ ,north,"8,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,True
+Χ‘Χ Χ™Χ”Χ•Χ“Χ” 117,north,"5,200 β‚ª",2,2,48 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ¤Χ§Χ™ΧΆΧ™Χ ,north,"25,000 β‚ª",4.5,6,180 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ–Χ ,north,"7,000 β‚ª",2.5,4,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ Χ™ Χ“Χ ,north,"8,000 β‚ª",3,3,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ“Χ•Χ“ Χ”ΧΧΧ 25,north,"7,000 β‚ª",3.5,3,120 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ–Χ›Χ¨Χ™Χ” ,north,"10,000 β‚ª",3,1,110 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ™Χ–Χ Χ’Χ•Χ£ 240,north,"3,500 β‚ª",1,2,25 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ‘ΧΧ¨Χ™ 36,north,"7,500 β‚ª",3,6,104 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ Χ•Χ¨Χ“ΧΧ• 25,north,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ”Χ¨Χ‘ Χ¤Χ¨Χ™Χ“ΧΧ ,north,730 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,18 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ‘Χ¦ΧΧΧ ,north,"7,900 β‚ª",3,2,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ” Χ”ΧΧ– ,north,"7,250 β‚ª",3.5,1,85 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ 172,north,"6,200 β‚ª",3,1,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” 11,north,"6,300 β‚ª",2.5,1,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ‘Χ¦ΧΧΧ 31,north,"7,400 β‚ª",4,Χ§Χ¨Χ§ΧΆ,82 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ¤Χ™Χ ΧΧ΅ 11,north,"5,600 β‚ª",2,2,53 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” ,north,"6,400 β‚ª",3,3,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ Χ“ΧΧ©ΧΧ ,north,"29,000 β‚ª",5,3,165 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ•ΧΧ™ ΧΧ¨Χ©Χ ,north,"10,000 β‚ª",2,3,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ–'Χ‘Χ•ΧΧ™Χ Χ΅Χ§Χ™ ,north,"7,800 β‚ª",3,4,110 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ‘Χ¨Χ Χ“Χ™Χ™Χ΅ ,north,"1,800 β‚ª",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,15 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ™Χ”Χ•Χ©ΧΆ Χ‘Χ Χ Χ•Χ 85,north,"1,150 β‚ª",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,5 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ”Χ¨Χ‘ Χ¦Χ™Χ¨ΧΧ΅Χ•Χ ,north,"6,700 β‚ª",3.5,3,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ”Χ™Χ¨Χ§Χ•Χ 196,north,"14,000 β‚ª",3,3,98 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ¤Χ Χ§Χ΅ 19,north,"8,000 β‚ª",4,2,90 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΆΧΧ•Χ΅ 8,north,"11,500 β‚ª",3,3,90 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ•Χ™Χ™Χ¦ΧΧ ,north,"6,500 β‚ª",2.5,1,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ Χ•Χ¨Χ“ΧΧ• ,north,"8,000 β‚ª",3,1,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ¨Χ‘ Χ¦ΧΆΧ™Χ¨ ,north,"4,400 β‚ª",1,3,31 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ™ΧΧ“Χ΅Χ”Χ™Χ™ΧΧ¨ ,north,"28,000 β‚ª",6,Χ§Χ¨Χ§ΧΆ,250 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"4,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,ΧΧ Χ¦Χ•Χ™Χ ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ ,north,"5,300 β‚ª",2,1,ΧΧ Χ¦Χ•Χ™Χ ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ‘Χ¦ΧΧΧ ,north,"7,400 β‚ª",3,2,70 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ‘Χ¦ΧΧΧ 31,north,"5,500 β‚ª",2,2,58 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΆΧΧ•Χ΅ 4,north,"6,000 β‚ª",2,3,45 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©ΧΧΆΧ•Χ Χ”ΧªΧ¨Χ΅Χ™ 12,north,"7,000 β‚ª",3,2,80 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ¦Χ™Χ™ΧΧΧ™Χ 33,north,"9,000 β‚ª",4,3,100 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ¦ΧΧΧ ,north,"2,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,14 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ¨Χ™Χ΅ΧΧ•Χ‘Χ•ΧΧ•Χ΅ 6,north,"5,650 β‚ª",2.5,1,54 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©Χ™ΧΧ” 5,north,"6,000 β‚ª",2.5,1,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ“Χ¨Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ Χ•Χ¨Χ“ΧΧ• ,north,"5,800 β‚ª",2,1,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ©ΧªΧ•Χ¨Χ™ Χ”Χ¤Χ¨Χ—Χ™ 4,north,"6,500 β‚ª",2,3,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ ,north,"9,000 β‚ª",3,2,90 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ©ΧΧ•ΧΧ¦Χ™Χ•Χ Χ”ΧΧΧ›Χ” ,north,"8,500 β‚ª",2,Χ§Χ¨Χ§ΧΆ,67 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’Χ¨Χ¥ 8,north,"3,500 β‚ª",1,Χ§Χ¨Χ§ΧΆ,23 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ™Χ–Χ Χ’Χ•Χ£ 280,north,"4,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ•Χ ΧªΧ Χ”Χ•Χ¤Χ΅Χ™ 4,north,"3,900 β‚ª",1.5,Χ§Χ¨Χ§ΧΆ,27 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ‘Χ Χ’Χ‘Χ™Χ¨Χ•Χ ,north,"5,500 β‚ª",2,2,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ¤Χ Χ§Χ΅ 53,north,"5,500 β‚ª",2.5,3,65 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ ΧΧ™Χ’Χ•Χ Χ•Χ΅ 9,north,"5,800 β‚ª",2,1,60 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ›Χ‘Χ™ ,north,"5,000 β‚ª",2,1,50 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ—Χ“Χ© - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ”Χ¨Χ•Χ Χ“Χ•Χ“ Χ’Χ•Χ¨Χ“Χ•Χ 1,north,"4,400 β‚ª",2,1,34 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ¨ΧΧ•Χ–Χ•Χ¨Χ•Χ‘ ,north,"5,500 β‚ª",3,1,75 ," Χ”Χ¦Χ¤Χ•Χ Χ”Χ™Χ©Χ - Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 38,center-east,"6,900 β‚ª",4,4,100 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 78,center-east,"5,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,92 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 6,center-east,"5,500 β‚ª",4,4,110 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 10",center-east,"5,000 β‚ª",3,2,70 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,500 β‚ª",3,2,50 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”ΧΧ΅Χ’Χ¨ 8,center-east,"3,100 β‚ª",2,3,35 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΆΧΧ™Χ©Χ‘ 20,center-east,"4,200 β‚ª",2.5,2,60 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"8,500 β‚ª",3,15,80 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"11,000 β‚ª",4,42,134 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,000 β‚ª",3,20,12 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 72,center-east,"3,200 β‚ª",1,1,22 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ©ΧΧΧ” Χ‘Χ•Χ‘Χ¨ 12,center-east,"4,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,45 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ¤Χ¨Χ–Χ•Χ 15,center-east,"4,600 β‚ª",3,1,55 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©ΧΧΧ” Χ‘Χ•Χ‘Χ¨ ,center-east,"4,200 β‚ª",2,Χ§Χ¨Χ§ΧΆ,48 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 28,center-east,"4,500 β‚ª",3.5,4,74 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 74,center-east,"6,000 β‚ª",4,2,105 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 99,center-east,"4,300 β‚ª",2,3,50 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,3,24,80 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 30",center-east,"4,200 β‚ª",2,3,35 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"6,000 β‚ª",2,20,53 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 91,center-east,"4,000 β‚ª",2.5,4,55 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 24,center-east,"4,000 β‚ª",2,4,65 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 36,center-east,"3,300 β‚ª",1,3,30 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’Χ•Χ Χ 16,center-east,"4,000 β‚ª",3.5,1,95 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,500 β‚ª",3,2,55 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 101,center-east,"6,380 β‚ª",4,2,90 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”ΧΧΆΧ¨Χ›Χ” 22,center-east,"4,800 β‚ª",3,3,64 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©Χ•Χ Χ¦Χ™Χ Χ• ,center-east,"3,900 β‚ª",2,3,40 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ’Χ™Χ‘Χ•Χ¨ Χ”ΧΧΧΧ•Χ Χ™ 36,center-east,"5,500 β‚ª",3,4,80 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"3,000 β‚ª",2,Χ§Χ¨Χ§ΧΆ,40 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ‘Χ Χ™ΧΧ™Χ Χ–ΧΧ‘ Χ‘ΧΧ›Χ¨ 10,center-east,"6,200 β‚ª",4,2,100 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 85,center-east,"4,400 β‚ª",2.5,3,57 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 99,center-east,"4,000 β‚ª",2,2,60 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΆΧΧ™Χ©Χ‘ 30,center-east,"4,300 β‚ª",2.5,2,60 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,900 β‚ª",3,28,72 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΆΧΧ™Χ©Χ‘ 32,center-east,"3,700 β‚ª",2,3,45 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘Χ Χ™ΧΧ™Χ Χ–ΧΧ‘ Χ‘ΧΧ›Χ¨ 8,center-east,430 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,2,1 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ“Χ¨Χ ΧΧ©Χ” Χ“Χ™Χ™Χ 61,center-east,"5,700 β‚ª",4,7,80 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ™Χ”Χ•Χ“Χ™Χª ,center-east,"5,500 β‚ª",2,3,43 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,500 β‚ª",2,16,68 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"18,000 β‚ª",4,40,148 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 40",center-east,"6,850 β‚ª",4,1,120 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"11,250 β‚ª",4,41,133 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 89,center-east,"4,700 β‚ª",3,2,55 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"8,500 β‚ª",3,30,73 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"6,200 β‚ª",4,5,95 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ ,center-east,"4,200 β‚ª",2,2,55 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ ΧªΧ Χ™ΧΧ™Χ ΧΧ•Χ¨ ,center-east,"7,700 β‚ª",4,4,90 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+ΧΧ‘Χ¨Χ΅Χ§Χ™ ,center-east,"12,000 β‚ª",8,2,140 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 91,center-east,"3,000 β‚ª",1.5,3,25 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΆΧΧ™Χ©Χ‘ 4,center-east,"4,000 β‚ª",2.5,2,55 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©ΧΧΧ” Χ‘Χ•Χ‘Χ¨ 22,center-east,"8,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,185 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ ΧΧ©Χ” Χ“Χ™Χ™Χ 51,center-east,"4,500 β‚ª",4,3,80 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ ΧªΧ Χ™ΧΧ™Χ ΧΧ•Χ¨ 18,center-east,"6,500 β‚ª",3,1,60 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΆΧΧ™Χ©Χ‘ 10,center-east,"4,400 β‚ª",2,3,50 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 93,center-east,"4,300 β‚ª",2.5,3,60 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,800 β‚ª",3,17,71 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"6,000 β‚ª",3,11,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"6,500 β‚ª",3,12,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ“Χ¨Χ Χ”ΧΧ™Χ™Χ΅Χ™Χ 10,center-east,"5,700 β‚ª",3,3,78 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 38,center-east,"7,000 β‚ª",4,3,170 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,500 β‚ª",3.5,18,76 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"18,000 β‚ª",3.5,40,147 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 95,center-east,"3,800 β‚ª",2,3,55 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"9,000 β‚ª",3,20,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ¦Χ—Χ§ Χ©Χ“Χ” 68,center-east,"5,400 β‚ª",3,2,70 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,800 β‚ª",3,16,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ•Χ΅Χ£ Χ§ΧΧ¨Χ• ,center-east,"8,000 β‚ª",4,4,88 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"7,500 β‚ª",3,21,81 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 20",center-east,"4,400 β‚ª",3,4,65 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"11,000 β‚ª",5,40,136 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ Χ’Χ‘Χ” 24,center-east,"5,000 β‚ª",3,4,68 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ™Χª Χ”ΧΧ 27,center-east,"7,000 β‚ª",3,6,75 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"6,500 β‚ª",3,11,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧ” Χ’Χ•Χ•ΧΧ¨Χ“Χ™Χ” 62,center-east,"5,100 β‚ª",3,1,70 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 150,center-east,"9,000 β‚ª",3,27,100 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"8,500 β‚ª",3,15,71 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ©Χ“Χ¨Χ•Χª Χ™Χ”Χ•Χ“Χ™Χª 34,center-east,"5,500 β‚ª",2,2,46 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,300 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,-1,10 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 10",center-east,"3,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,32 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+"Χ”Χ Χ¦Χ™""Χ‘ 12",center-east,"6,500 β‚ª",3,5,75 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ ΧΧ‘Χ™Χ’Χ“Χ•Χ¨ 2,center-east,"4,200 β‚ª",2,2,50 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ 13",center-east,"6,200 β‚ª",4,3,96 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™Χ•Χ΅Χ£ Χ§ΧΧ¨Χ• 21,center-east,"4,000 β‚ª",2,1,48 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ΅Χ¨ Χ’'Χ•Χ ΧΧ•Χ Χ© 9,center-east,"4,200 β‚ª",3,4,75 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ”ΧΧ΅Χ’Χ¨ 44,center-east,"2,850 β‚ª",1,3,20 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+"Χ“""Χ¨ ΧΧ‘Χ¨Χ”Χ ΧΧΧ™Χ”Χ• Χ”Χ¨Χ›Χ‘Χ™ ",center-east,"6,000 β‚ª",4,3,100 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ©Χ•Χ Χ¦Χ™Χ Χ• ,center-east,"3,400 β‚ª",1,4,35 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"7,000 β‚ª",3,17,70 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ‘Χ Χ™ΧΧ™Χ Χ–ΧΧ‘ Χ‘ΧΧ›Χ¨ 39,center-east,"5,200 β‚ª",3,1,75 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ’Χ•Χ Χ 12,center-east,"3,500 β‚ª",3,1,80 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ 11",center-east,"6,000 β‚ª",4,1,85 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ“Χ¨Χ Χ”Χ©ΧΧ•Χ 93,center-east,"4,000 β‚ª",2,1,49 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ¨Χ‘Χ Χ™Χ¦Χ§Χ™ 4,center-east,"2,400 β‚ª",1,2,40 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ¨Χ—Χ‘Χª Χ”Χ’Χ™Χ™Χ΅Χ•Χª 6,center-east,"4,400 β‚ª",2.5,3,60 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ”ΧΧ΅Χ’Χ¨ 60,center-east,"4,400 β‚ª",2,3,60 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΆΧΧ™Χ©Χ‘ 30,center-east,"4,450 β‚ª",2.5,3,53 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"11,000 β‚ª",4,41,150 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"Χ“""Χ¨ Χ©ΧΧΆΧ•Χ Χ‘Χ¨Χ Χ¤ΧΧ“ ",center-east,"4,300 β‚ª",3,Χ§Χ¨Χ§ΧΆ,75 ," ΧªΧ Χ—Χ™Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ¤ΧªΧ— 16,center-east,"9,500 β‚ª",4,6,115 ," Χ™Χ“ ΧΧΧ™Χ”Χ•, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 144,center-east,"9,800 β‚ª",4,41,120 ," ΧΧ•Χ ΧΧ™Χ¤Χ™Χ•Χ¨Χ™, Χ”Χ¨Χ›Χ‘Χª, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 3,center-lev-tlv,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,3,50 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧΧ Χ‘Χ™ 136,center-lev-tlv,"3,300 β‚ª",1,Χ§Χ¨Χ§ΧΆ,23 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ§Χ•Χ•Χ” Χ™Χ©Χ¨ΧΧ 5,center-lev-tlv,"4,000 β‚ª",2,2,40 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©ΧΧ•Χ© ,center-lev-tlv,"12,500 β‚ª",5,2,160 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ‘Χ ΧΧ 31,center-lev-tlv,"16,000 β‚ª",4,2,140 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ§Χ•Χ•Χ” Χ™Χ©Χ¨ΧΧ 10,center-lev-tlv,"4,200 β‚ª",2,5,45 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"30,000 $",ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,1000 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ Χ—ΧΧª Χ‘Χ Χ™ΧΧ™Χ 10,center-lev-tlv,"16,000 β‚ª",4,5,140 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ—Χ©ΧΧ•Χ ΧΧ™Χ 3,center-lev-tlv,"4,200 β‚ª",1,4,25 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧΧ–ΧΧ’ 10,center-lev-tlv,"4,500 β‚ª",1.5,-1,36 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ ,center-lev-tlv,"1,234 β‚ª",4,5,200 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ—Χ‘Χ¨Χ•Χ 12,center-lev-tlv,"18,000 β‚ª",5,4,140 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ—Χ Χ” Χ™Χ•Χ΅Χ£ 25,center-lev-tlv,"9,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,80 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ™Χ“ΧΧ΅Χ•Χ 7,center-lev-tlv,"8,000 β‚ª",5.5,Χ§Χ¨Χ§ΧΆ,125 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"16,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,200 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,True,False
+Χ©ΧΧ•Χ© ,center-lev-tlv,"16,000 β‚ª",5,Χ§Χ¨Χ§ΧΆ,20 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"27,000 β‚ª",5.5,2,260 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,True,False
+Χ‘Χ•Χ¨Χ•Χ›Χ•Χ‘ 12,center-lev-tlv,"6,500 β‚ª",2.5,3,75 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ©Χ“Χ¨Χ•Χª Χ‘Χ Χ¦Χ™Χ•Χ 4,center-lev-tlv,"8,500 β‚ª",3,1,70 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ™Χ¨Χ§Χ•Χ 78,center-lev-tlv,"15,000 β‚ª",3,29,98 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ‘Χ–Χ™ 12,center-lev-tlv,"9,000 β‚ª",4.5,2,108 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,False,False,False
+Χ”Χ—Χ¨ΧΧ•Χ 37,center-lev-tlv,"3,500 β‚ª",1,1,21 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ¤Χ¨Χ¥ Χ—Χ™Χ•Χª 3,center-lev-tlv,"6,500 β‚ª",3,1,70 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ•Χ™ 20,center-lev-tlv,850 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,10 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ™ΧΧ™Χ Χ‘ΧΧ•Χ ,center-lev-tlv,"5,000 β‚ª",2,1,50 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ—Χ•Χ•Χ” 28,center-lev-tlv,"11,200 β‚ª",2.5,1,80 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"16,000 β‚ª",4,2,150 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ¤Χ™Χ Χ΅ ,center-lev-tlv,800 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,18 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ•Χ Χ¥ 3,center-lev-tlv,"7,500 β‚ª",2.5,2,72 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ™Χ™Χ Χ§Χ™Χ ,center-lev-tlv,"12,700 β‚ª",4,1,116 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"ΧΧ–Χ""Χ” 48",center-lev-tlv,"9,200 β‚ª",3,3,180 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 3,center-lev-tlv,650 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,1 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ¤Χ™ΧΧ¨Χ‘Χ¨Χ’ 6,center-lev-tlv,"11,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,340 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+ΧΧ™ΧΧª 61,center-lev-tlv,"10,500 β‚ª",3,26,90 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ‘Χ–Χ™ ,center-lev-tlv,"10,000 β‚ª",3.5,2,85 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"11,000 β‚ª",3,2,85 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ ,center-lev-tlv,"8,500 β‚ª",3,2,90 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘ΧΧ¤Χ•Χ¨ ,center-lev-tlv,"9,800 β‚ª",4,2,100 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 15,center-lev-tlv,"18,100 β‚ª",3.5,14,130 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ΅ΧΧΧª Χ©Χ‘Χ–Χ™ 6,center-lev-tlv,"2,500 β‚ª",1,1,14 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+"ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ ",center-lev-tlv,"3,600 β‚ª",1,1,34 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,True
+ΧΧ‘Χ•Χ ΧΧ™Χ ,center-lev-tlv,"12,000 β‚ª",3,5,80 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"8,800 β‚ª",3,2,72 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,True,False
+Χ”ΧΧΧ Χ’'Χ•Χ¨Χ’' 2,center-lev-tlv,"4,000 β‚ª",2,2,45 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ•ΧΧ›Χ• 7,center-lev-tlv,"6,200 β‚ª",3,1,50 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΆΧ™Χ Χ™ΧΆΧ§Χ‘ 22,center-lev-tlv,"6,000 β‚ª",2.5,1,60 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+"ΧΧ–Χ""Χ” 56",center-lev-tlv,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,9 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ™ΧΧª 61,center-lev-tlv,"11,000 β‚ª",3,28,87 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"ΧΧ™Χ›""Χ ",center-lev-tlv,"9,500 β‚ª",4,1,95 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧ—Χ•Χ•Χ” 2,center-lev-tlv,"20,000 β‚ª",4,3,150 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ”ΧΧ’Χ™Χ“ 5,center-lev-tlv,"7,200 β‚ª",2.5,4,50 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ”Χ™Χ¨Χ§Χ•Χ 47,center-lev-tlv,"13,900 β‚ª",3,12,105 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ‘Χ¨ ΧΧ™ΧΧ ,center-lev-tlv,"16,000 β‚ª",5,3,165 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+"Χ¨Χ©""Χ™ 39",center-lev-tlv,"15,000 β‚ª",5,1,145 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ—Χ•Χ•Χ” 28,center-lev-tlv,"12,800 β‚ª",2.5,1,80 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ™Χ”Χ•Χ“Χ” Χ”ΧΧ•Χ™ 10,center-lev-tlv,"12,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,110 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ¤Χ™Χ Χ΅ ,center-lev-tlv,"9,500 β‚ª",3,3,80 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ¦Χ‘Χ™ Χ‘Χ¨Χ•Χ§ ,center-lev-tlv,"6,500 β‚ª",3,1,66 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ‘Χ™Χ Χ”ΧΧΧ“ 4,center-lev-tlv,"4,800 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,55 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΆΧ™Χ Χ•Χ¨Χ“ ,center-lev-tlv,"6,000 β‚ª",2,1,53 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ™ΧΧª 61,center-lev-tlv,900 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,4 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+ΧΧ Χ—Χ Χ©ΧΧ™Χ™Χ 6,center-lev-tlv,"10,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ’Χ¨Χ•Χ–Χ Χ‘Χ¨Χ’ ,center-lev-tlv,"9,500 β‚ª",3,Χ§Χ¨Χ§ΧΆ,75 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ•Χ΅Χ£ Χ”Χ Χ©Χ™Χ 9,center-lev-tlv,"8,000 β‚ª",3.5,3,71 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"48,000 β‚ª",4,5,340 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,False,False
+Χ¤Χ™Χ Χ΅ ,center-lev-tlv,"8,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,65 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ¤Χ™Χ Χ΅ 25,center-lev-tlv,"7,100 β‚ª",3,1,65 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ‘Χ™Χ Χ”ΧΧΧ“ ,center-lev-tlv,"3,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,38 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧ™ΧΧª 61,center-lev-tlv,"8,500 β‚ª",3,1,85 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ‘Χ–Χ™ 8,center-lev-tlv,"5,800 β‚ª",2,Χ§Χ¨Χ§ΧΆ,55 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ ,center-lev-tlv,"8,000 β‚ª",3,1,90 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ•ΧΧ›Χ• 7,center-lev-tlv,"7,200 β‚ª",3.5,1,80 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"11,500 β‚ª",5,2,104 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,True,True,False,False
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"24,500 β‚ª",4,3,130 ,  ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ,False,True,True,False
+Χ™Χ‘Χ Χ” ,center-lev-tlv,"10,500 β‚ª",3,4,75 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ“Χ¨Χ ΧΧ Χ—Χ Χ‘Χ’Χ™Χ 19,center-lev-tlv,"3,300 β‚ª",1,3,25 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ ,center-lev-tlv,"12,000 β‚ª",2,20,63 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+ΧΧ—Χ Χ” Χ™Χ•Χ΅Χ£ 32,center-lev-tlv,"4,400 β‚ª",2,Χ§Χ¨Χ§ΧΆ,37 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ΅ Χ¦Χ™Χ•Χ Χ” 5,center-lev-tlv,"7,500 β‚ª",2.5,4,55 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ—Χ‘Χ¨Χ•Χ 12,center-lev-tlv,"8,600 β‚ª",3,4,78 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ—Χ•Χ‘Χ‘Χ™ Χ¦Χ™Χ•Χ 6,center-lev-tlv,"9,000 β‚ª",3,2,75 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘ΧΧ¤Χ•Χ¨ ,center-lev-tlv,"8,500 β‚ª",4,3,105 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ—ΧΧ Χ™ ,center-lev-tlv,"6,000 β‚ª",2,1,55 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧΧ Χ‘Χ™ 95,center-lev-tlv,"7,200 β‚ª",3,4,90 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ 30,center-lev-tlv,"9,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,70 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ ,center-lev-tlv,"16,000 β‚ª",4,3,130 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,False
+Χ›Χ™Χ Χ¨Χª 5,center-lev-tlv,"7,700 β‚ª",2,1,70 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ‘Χ¨Χ Χ 22,center-lev-tlv,"6,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,10 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧ§Χ•Χ•Χ” Χ™Χ©Χ¨ΧΧ ,center-lev-tlv,"2,650 β‚ª",1,1,27 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”ΧΧ’Χ™Χ“ 6,center-lev-tlv,"10,500 β‚ª",4,4,120 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘ΧΧ¤Χ•Χ¨ 50,center-lev-tlv,"6,900 β‚ª",2.5,1,60 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ 84,center-lev-tlv,"10,000 β‚ª",2,Χ§Χ¨Χ§ΧΆ,52 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©Χ“Χ¨Χ•Χª Χ¨Χ•ΧΧ©Χ™ΧΧ“ 62,center-lev-tlv,"14,000 β‚ª",3.5,2,120 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ΅ 7,center-lev-tlv,"9,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ§ΧΧ™Χ©Χ¨ 23,center-lev-tlv,"11,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,140 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ‘Χ¨ ΧΧ™ΧΧ 8,center-lev-tlv,"19,500 β‚ª",5,Χ§Χ¨Χ§ΧΆ,260 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ‘Χ™Χ Χ”ΧΧΧ“ 4,center-lev-tlv,"4,900 β‚ª",3,1,53 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ Χ•Χ•Χ” Χ¦Χ“Χ§ 23,center-lev-tlv,"4,500 β‚ª",1,1,25 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ©Χ™Χ™Χ Χ§Χ™Χ ,center-lev-tlv,"10,900 β‚ª",4,3,95 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ Χ΅ Χ¦Χ™Χ•Χ Χ” 5,center-lev-tlv,"10,000 β‚ª",3,2,80 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ¦Χ—Χ§ ΧΧΧ—Χ Χ 15,center-lev-tlv,"70,000 β‚ª",5.5,7,330 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ’Χ¨Χ•Χ–Χ Χ‘Χ¨Χ’ ,center-lev-tlv,"9,500 β‚ª",2,3,63 ," Χ Χ•Χ•Χ” Χ¦Χ“Χ§, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ©Χ™Χ™Χ Χ§Χ™Χ ,center-lev-tlv,"20,000 β‚ª",5,6,150 ," ΧΧ‘ ΧªΧ ΧΧ‘Χ™Χ‘, ΧΧ‘ Χ”ΧΆΧ™Χ¨ Χ¦Χ¤Χ•Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 46,center-kerem,"10,000 β‚ª",3,4,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ’Χ“Χ¨Χ” 6,center-kerem,"1,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,6 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 36,center-kerem,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,5.5,3,320 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ’Χ“Χ¨Χ” 13,center-kerem,700 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,10 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ™Χ©Χ›Χ•Χ 17,center-kerem,"3,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,25 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ’ΧΧ•ΧΧ” 5,center-kerem,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,Χ§Χ¨Χ§ΧΆ,40 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’ΧΧ•ΧΧ” 39,center-kerem,"3,490 β‚ª",1,Χ§Χ¨Χ§ΧΆ,18 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’ΧΧ•ΧΧ” ,center-kerem,ΧΧ Χ¦Χ•Χ™Χ ΧΧ—Χ™Χ¨,2,6,60 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ’Χ“Χ¨Χ” 6,center-kerem,"2,000 β‚ª",1,Χ§Χ¨Χ§ΧΆ,12 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+ΧΧΧ©Χ™Χ ,center-kerem,"3,550 β‚ª",1,1,26 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ ,center-kerem,"5,300 β‚ª",2.5,1,50 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ 33,center-kerem,"5,000 β‚ª",2,1,50 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ”Χ™Χ¨Χ§Χ•Χ 23,center-kerem,"7,400 β‚ª",3,2,75 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ’Χ“Χ¨Χ” ,center-kerem,"17,000 β‚ª",4,Χ§Χ¨Χ§ΧΆ,180 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ™Χ¨Χ§Χ•Χ 19,center-kerem,"25,000 $",4,20,220 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"2,900 β‚ª",1,-1,35 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ›Χ¨ΧΧΧ™Χª ,center-kerem,"12,000 β‚ª",4,3,110 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ ,center-kerem,"5,000 β‚ª",2,3,40 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,False,False,False
+ΧΧΧ™Χ©Χ™Χ‘ 24,center-kerem,"6,000 β‚ª",3,Χ§Χ¨Χ§ΧΆ,70 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’ΧΧ•ΧΧ” 31,center-kerem,"8,000 β‚ª",3,1,66 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ‘Χ™Χª Χ™Χ•Χ΅Χ£ 23,center-kerem,"5,200 β‚ª",2.5,Χ§Χ¨Χ§ΧΆ,70 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ’ΧΧ•ΧΧ” ,center-kerem,"7,500 β‚ª",3,3,80 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+"ΧªΧ¨Χ""Χ‘ 25",center-kerem,"3,650 β‚ª",1,1,24 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧΧ©Χ™Χ ,center-kerem,"2,850 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ’ΧΧ•ΧΧ” 39,center-kerem,"7,200 β‚ª",3,1,65 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+ΧΧΧ Χ‘Χ™ 20,center-kerem,"5,500 β‚ª",2,4,42 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,False,True
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ ,center-kerem,"8,250 β‚ª",4,4,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 42,center-kerem,"15,000 β‚ª",2,6,60 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"7,500 β‚ª",4,Χ§Χ¨Χ§ΧΆ,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+"ΧΧ""Χ 3",center-kerem,"3,650 β‚ª",1,Χ§Χ¨Χ§ΧΆ,30 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,False
+Χ“Χ Χ™ΧΧ ,center-kerem,"11,500 β‚ª",4,5,90 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΆΧ–Χ¨Χ Χ”Χ΅Χ•Χ¤Χ¨ 11,center-kerem,"14,000 β‚ª",4,4,115 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ 46,center-kerem,"10,000 β‚ª",3,4,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ¨Χ¦Χ™Χ£ Χ”Χ¨Χ‘Χ¨Χ Χ΅ΧΧ•ΧΧ ,center-kerem,"22,000 β‚ª",2,20,94 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ™Χ—Χ™Χ Χ§ΧΧ¤Χ— 3,center-kerem,"4,700 β‚ª",2,Χ§Χ¨Χ§ΧΆ,47 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ 60,center-kerem,"10,000 β‚ª",4,1,120 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"7,900 β‚ª",4,2,85 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,False
+ΧΧΧ Χ‘Χ™ 38,center-kerem,"9,500 β‚ª",4,1,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"2,500 β‚ª",1,4,22 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ¨Χ‘Χ™ ΧΧΧ™Χ¨ 36,center-kerem,"4,700 β‚ª",1,Χ§Χ¨Χ§ΧΆ,35 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True
+ΧΧΧ™Χ©Χ™Χ‘ 26,center-kerem,"3,200 β‚ª",1,Χ§Χ¨Χ§ΧΆ,20 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,False
+Χ‘Χ™Χª Χ™Χ•Χ΅Χ£ ,center-kerem,"13,000 β‚ª",4,1,100 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",True,True,True,True
+Χ’ΧΧ•ΧΧ” 21,center-kerem,800 β‚ª,ΧΧ Χ¦Χ•Χ™Χ,Χ§Χ¨Χ§ΧΆ,5 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,False,False,False
+Χ™Χ•Χ Χ” Χ”Χ Χ‘Χ™Χ ,center-kerem,"3,550 β‚ª",1.5,2,27 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,False,True
+Χ”Χ›Χ•Χ‘Χ©Χ™Χ 45,center-kerem,"6,000 β‚ª",3,2,60 ," Χ›Χ¨Χ Χ”ΧªΧ™ΧΧ Χ™Χ, ΧªΧ ΧΧ‘Χ™Χ‘ Χ™Χ¤Χ• ",False,True,True,True

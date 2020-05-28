@@ -52,15 +52,16 @@ FEATURES = {ELEVATOR: 'Elevator',
 
 URL = 'https://www.yad2.co.il/realestate/rent/map?city=5000&neighborhood={area_code}'
 ITEM_URL = 'https://www.yad2.co.il/item/{item_id}'
+CSV_FILE = 'apartments.csv'
 
 
 NEIGBORHOODS = {
     # 'ramatAviv': [],
-    'north': [204, 1516, 1519, 1483, 1461],
-    'centerLevTlv': [1520, 848],
-    'centerKerem': [1521],
+    # 'north': [204, 1516, 1519, 1483, 1461],
+    # 'centerLevTlv': [1520, 848],
+    # 'centerKerem': [1521],
     'centerEast': [485, 486, 206, 317, 318],
     # 'soutWest': [4958, 3078, 2158, 2058, 8478, 4908, 2128],
     # 'soutEast': [487, 1649, 2078, 2098, 3088, 2088, 1650, 4898, 4888, 3198, 2108],
-    'south' : [205, 307, 308, 212, 215]
+    # 'south' : [205, 307, 308, 212, 215]
 }
