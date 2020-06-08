@@ -119,7 +119,7 @@ def get_coordinates():
     apartments = pd.read_csv(CSV_FILE)
     geolocator = Nominatim(user_agent="apartments")
     for index, apartment in apartments.iterrows():
-        location = geolocator.geocode(apartment['Title'])
+        location = geolocator.geocode(f"תל אביב יפו {apartment['Title']}")
         if location:
             apartments.loc[index, 'lon'] = location.longitude
             apartments.loc[index, 'lat'] = location.latitude
@@ -130,7 +130,7 @@ def get_coordinates():
     apartments.to_csv(CSV_FILE)
 
 def main():
-    # # scrape_apartments()
+    # scrape_apartments()
     # apt_ids = extract_apartments_ids()
     # scrape_items(apt_ids)
     # folder = NORTH_PATH
