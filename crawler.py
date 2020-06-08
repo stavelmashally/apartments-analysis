@@ -5,6 +5,8 @@ import time
 import config
 import random
 import os
+import pandas as pd
+from geopy.geocoders import Nominatim
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium import webdriver
@@ -113,13 +115,28 @@ def scrape_apartments():
             time.sleep(3)
 
 
+def get_coordinates():
+    apartments = pd.read_csv(CSV_FILE)
+    geolocator = Nominatim(user_agent="apartments")
+    for index, apartment in apartments.iterrows():
+        location = geolocator.geocode(apartment['Title'])
+        if location:
+            apartments.loc[index, 'lon'] = location.longitude
+            apartments.loc[index, 'lat'] = location.latitude
+        else:
+            apartments.loc[index, 'lon'] = None
+            apartments.loc[index, 'lat'] = None
+    # print(apartments['lat'].head())
+    apartments.to_csv(CSV_FILE)
+
 def main():
     # # scrape_apartments()
     # apt_ids = extract_apartments_ids()
     # scrape_items(apt_ids)
-    folder = NORTH_PATH
-    for folder in ALL:
-        extract_apartment_info(folder)
+    # folder = NORTH_PATH
+    # for folder in ALL:
+    #     extract_apartment_info(folder)
+    get_coordinates()
 
 
 if __name__ == "__main__":

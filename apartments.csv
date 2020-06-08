@@ -1,513 +1,512 @@
-Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture
-חכמי אתונה 48,south,"2,800 ₪",1,1,25 ," שפירא, תל אביב יפו ",False,True,True,True
-י.ל. פרץ 38,south,"6,300 ₪",3,5,100 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-נווה שאנן ,south,"5,700 ₪",3,4,57 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-דרך קיבוץ גלויות 113,south,"3,200 ₪",1,קרקע,25 ," שפירא, תל אביב יפו ",False,True,True,False
-הקונגרס 3,south,"6,000 ₪",3,קרקע,80 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-השכל 5,south,"3,500 ₪",2,1,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,True
-אייגר 12,south,"5,000 ₪",3,5,80 ," נווה שאנן, תל אביב יפו ",True,True,False,False
-הרטוב 18,south,"6,000 ₪",4,1,90 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False
-שיבת ציון 4,south,"7,000 ₪",3,5,75 ," נווה שאנן, תל אביב יפו ",True,True,False,True
-נתן הנביא ,south,"2,900 ₪",1.5,קרקע,25 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-ידעיה הפניני ,south,"4,200 ₪",2,קרקע,50 ," שפירא, תל אביב יפו ",False,True,True,False
-מאור הגולה 47,south,"11,000 ₪",4,קרקע,200 ," שפירא, תל אביב יפו ",False,True,True,False
-י.ל. פרץ ,south,"5,500 ₪",4,1,100 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-חכמי אתונה 35,south,"4,500 ₪",3,קרקע,100 ," שפירא, תל אביב יפו ",False,True,True,False
-ידעיה הפניני 2,south,לא צוין מחיר,לא צוין,קרקע,20 ," שפירא, תל אביב יפו ",False,True,True,True
-נווה שאנן ,south,"5,200 ₪",2.5,4,52 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-הקונגרס 33,south,"5,000 ₪",2,6,45 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-יאיר ,south,"2,300 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-הקונגרס 33,south,"5,600 ₪",3,5,80 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-ורדיאל 9,south,"3,500 ₪",2,1,42 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False
-חפר ,south,"3,000 ₪",1,1,24 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-חזנוביץ' 12,south,"8,000 ₪",4,4,90 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-חזקיהו המלך ,south,"7,900 ₪",4,1,100 ," שפירא, תל אביב יפו ",False,True,True,False
-גולומב 27,south,"4,500 ₪",3,1,60 ," שפירא, תל אביב יפו ",False,True,True,True
-יסוד המעלה 31,south,"4,400 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-מבשר 42,south,"2,200 ₪",1.5,1,93 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-מסילת ישרים 26,south,"4,400 ₪",2.5,קרקע,63 ," שפירא, תל אביב יפו ",False,True,False,True
-מקור חיים 24,south,"3,000 ₪",1,3,23 ," שפירא, תל אביב יפו ",False,True,True,True
-עבאס 33,south,"1,700 ₪",1,קרקע,15 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True
-נווה שאנן ,south,"4,500 ₪",2,4,50 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-דרך ההגנה 100,south,"4,200 ₪",2.5,קרקע,75 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-דרך קיבוץ גלויות 109,south,"3,000 ₪",1,1,22 ," שפירא, תל אביב יפו ",False,True,True,True
-גולומב 5,south,"7,500 ₪",4,1,130 ," שפירא, תל אביב יפו ",False,False,True,False
-בעל העקידה ,south,"6,900 ₪",4,2,82 ," שפירא, תל אביב יפו ",True,True,True,False
-י.ל. פרץ ,south,"2,500 ₪",2,קרקע,50 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-לוינסקי ,south,"6,500 ₪",4,2,80 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-ידעיה הפניני ,south,"3,500 ₪",1,1,27 ," שפירא, תל אביב יפו ",False,True,True,False
-הקונגרס 5,south,"7,200 ₪",4,קרקע,92 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-הונא 34,south,"3,000 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-יסוד המעלה 31,south,"4,600 ₪",2,4,50 ," נווה שאנן, תל אביב יפו ",True,True,False,False
-קרשקש 6,south,"8,000 ₪",4,1,105 ," שפירא, תל אביב יפו ",True,True,False,True
-י.ל. פרץ 6,south,"5,900 ₪",3,3,67 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-חזנוביץ' ,south,"6,500 ₪",3,3,75 ," נווה שאנן, תל אביב יפו ",True,True,False,True
-דרך מנחם בגין 36,south,"3,800 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-לסקר 7,south,"7,300 ₪",4,1,110 ," שפירא, תל אביב יפו ",False,True,True,False
-ישראל מסלנט 21,south,"4,500 ₪",3,4,70 ," שפירא, תל אביב יפו ",False,True,True,False
-טורי זהב ,south,"9,800 ₪",4,קרקע,210 ," שפירא, תל אביב יפו ",False,True,True,False
-אייגר ,south,"4,200 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-מאור הגולה 13,south,"4,500 ₪",2,2,65 ," שפירא, תל אביב יפו ",False,True,True,False
-גולומב 11,south,"2,950 ₪",1,1,40 ," שפירא, תל אביב יפו ",False,True,True,True
-לבנדה ,south,"3,500 ₪",1,2,25 ," שפירא, תל אביב יפו ",False,True,True,False
-איתיאל 27,south,"5,000 ₪",4,2,100 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False
-בר יוחאי 47,south,"3,600 ₪",2,קרקע,30 ," שפירא, תל אביב יפו ",False,True,True,True
-האסיף ,south,"5,000 ₪",3,1,70 ," שפירא, תל אביב יפו ",True,False,True,False
-חכמי אתונה ,south,"2,800 ₪",1,קרקע,29 ," שפירא, תל אביב יפו ",False,True,True,True
-לבנדה ,south,"3,500 ₪",1,2,25 ," שפירא, תל אביב יפו ",False,True,True,False
-דרך מנחם בגין 4,south,"5,500 ₪",2,3,60 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-שדרות הר ציון 30,south,"4,500 ₪",3,2,70 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין ,south,"3,900 ₪",2,3,40 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-ראש פינה 24,south,"5,400 ₪",3,1,69 ," נווה שאנן, תל אביב יפו ",True,True,False,True
-דרך קיבוץ גלויות 83,south,"1,300 ₪",1,קרקע,18 ," שפירא, תל אביב יפו ",False,True,False,True
-נווה שאנן 35,south,"4,500 ₪",2,5,55 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-נתן הנביא ,south,"2,900 ₪",2,2,45 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-"יש""ר מקנדיאה 27",south,"4,500 ₪",2.5,קרקע,80 ," שפירא, תל אביב יפו ",False,True,True,False
-מסילת ישרים 71,south,"4,200 ₪",2,קרקע,50 ," שפירא, תל אביב יפו ",False,True,False,False
-כוכבי יצחק 5,south,"6,000 ₪",4,4,80 ," שפירא, תל אביב יפו ",True,True,True,True
-הרב יצחק ידידיה פרנקל 75,south,"3,500 ₪",1.5,4,65 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-י.ל. פרץ ,south,"5,000 ₪",4,3,100 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-לבנדה ,south,"1,500 ₪",2,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
-חזקיהו המלך 47,south,"3,000 ₪",1,קרקע,20 ," שפירא, תל אביב יפו ",False,True,False,True
-הקונגרס 10,south,"4,500 ₪",2.5,קרקע,62 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-לבנדה 23,south,"2,500 ₪",1,2,24 ," נווה שאנן, תל אביב יפו ",False,True,False,True
-יסוד המעלה 35,south,"5,900 ₪",4,קרקע,130 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-דרך שלמה 107,south,"3,500 ₪",2,1,50 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-יקותיאל 28,south,"5,200 ₪",3,קרקע,120 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-מטלון 75,south,"3,000 ₪",2,3,35 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-עבאס 33,south,"2,900 ₪",2,2,35 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True
-עין הקורא 13,south,"4,000 ₪",2,1,58 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-לסקר 15,south,לא צוין מחיר,5,1,120 ," שפירא, תל אביב יפו ",False,True,True,False
-ידעיה הפניני ,south,"2,900 ₪",1,1,20 ," שפירא, תל אביב יפו ",False,True,True,True
-מקור חיים ,south,"3,800 ₪",2,קרקע,40 ," שפירא, תל אביב יפו ",False,True,True,False
-מטלון 75,south,"2,400 ₪",1,1,15 ," נווה שאנן, תל אביב יפו ",False,False,True,True
-האקליפטוס ,south,"3,600 ₪",2,1,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-כוכבי יצחק ,south,"6,200 ₪",4,4,78 ," שפירא, תל אביב יפו ",True,True,True,False
-י.ל. פרץ ,south,"5,800 ₪",3,1,70 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-נווה שאנן ,south,"5,200 ₪",2.5,4,55 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-צ'לנוב ,south,"6,000 ₪",3,5,70 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-סמטת חכמי ישראל 10,south,"2,700 ₪",1.5,קרקע,25 ," שפירא, תל אביב יפו ",False,True,True,True
-ידעיה הפניני 26,south,"2,900 ₪",1,1,27 ," שפירא, תל אביב יפו ",False,True,True,True
-ישראל מסלנט 21,south,"4,350 ₪",3,3,55 ," שפירא, תל אביב יפו ",False,True,False,False
-מטלון 75,south,"4,000 ₪",1.5,4,45 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-חזנוביץ' ,south,"9,000 ₪",4,3,117 ," נווה שאנן, תל אביב יפו ",True,True,False,True
-דרך מנחם בגין 12,south,"2,400 ₪",1,2,36 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-בר יוחאי 47,south,"3,500 ₪",1,קרקע,31 ," שפירא, תל אביב יפו ",False,True,False,True
-י.ל. פרץ 40,south,"6,500 ₪",3.5,5,84 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-שפירא ,south,"8,000 ₪",3,קרקע,140 ,  תל אביב יפו ,False,True,True,False
-חזקיהו המלך 19,south,"4,700 ₪",3,2,50 ," שפירא, תל אביב יפו ",False,True,True,False
-הגדוד העברי 31,south,"2,750 ₪",1,2,20 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-מסילת ישרים ,south,"4,700 ₪",2.5,קרקע,85 ," שפירא, תל אביב יפו ",False,True,False,False
-שפירא ,south,"10,000 ₪",5,קרקע,170 ,  תל אביב יפו ,False,True,True,False
-קמואל 54,south,"2,300 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-הקונגרס ,south,"7,200 ₪",3.5,3,80 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-הרב יצחק ידידיה פרנקל 69,south,"4,100 ₪",2,3,35 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-הונא ,south,"3,000 ₪",1,קרקע,20 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-סמטת עובד 30,south,"3,800 ₪",3,קרקע,70 ," שפירא, תל אביב יפו ",False,True,True,True
-ישראל מסלנט ,south,"6,800 ₪",4,קרקע,100 ," שפירא, תל אביב יפו ",False,True,True,False
-נווה שאנן ,south,"10,500 ₪",3,5,97 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-ישראל מסלנט ,south,"4,700 ₪",3,3,70 ," שפירא, תל אביב יפו ",False,False,False,False
-לוינסקי 61,south,"5,000 ₪",2,3,50 ," נווה שאנן, תל אביב יפו ",True,True,True,True
-"ראב""ד 31",south,"5,000 ₪",2.5,קרקע,70 ," נווה שאנן, תל אביב יפו ",False,True,False,True
-בעל העקידה ,south,"4,400 ₪",2.5,-1,46 ," שפירא, תל אביב יפו ",True,True,True,False
-מבשר 53,south,"3,600 ₪",2,3,40 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-ישראל מסלנט 30,south,"7,000 ₪",4,1,90 ," שפירא, תל אביב יפו ",False,True,True,False
-שיבת ציון 20,south,"3,900 ₪",2.5,3,63 ," נווה שאנן, תל אביב יפו ",False,True,False,False
-מאור הגולה 37,south,"3,000 ₪",1,קרקע,28 ," שפירא, תל אביב יפו ",False,True,True,False
-קמואל ,south,"3,500 ₪",2,1,35 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-י.ל. פרץ ,south,"6,000 ₪",4,2,95 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-שלמון 28,south,"3,000 ₪",1,1,30 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True
-גבעת בן יהודה 10,south,לא צוין מחיר,7,קרקע,300 ," שפירא, תל אביב יפו ",False,True,True,False
-"ראב""ד ",south,"3,000 ₪",1,קרקע,30 ," שפירא, תל אביב יפו ",False,True,False,False
-לבנדה ,south,"1,500 ₪",1,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
-י.ל. פרץ ,south,"5,600 ₪",3,3,60 ," נווה שאנן, תל אביב יפו ",True,True,True,False
-אחימעץ 4,south,לא צוין מחיר,4,1,100 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False
-מסילת העולים 11,south,"2,800 ₪",1,קרקע,30 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-לבנדה ,south,"1,500 ₪",1,2,30 ," שפירא, תל אביב יפו ",False,True,True,True
-העלייה 33,south,"3,700 ₪",2,1,60 ," נווה שאנן, תל אביב יפו ",False,True,True,False
-ישראל מסלנט 45,south,"3,100 ₪",2,1,36 ," שפירא, תל אביב יפו ",True,True,False,False
-דרך קיבוץ גלויות 79,south,"3,000 ₪",1,3,30 ," שפירא, תל אביב יפו ",False,True,True,True
-נתן הנביא ,south,"1,500 ₪",1,קרקע,30 ," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False
-כרם חמד 6,south,"5,000 ₪",4,2,75 ," שפירא, תל אביב יפו ",False,True,False,True
-ידעיה הפניני ,south,"22,000 ₪",7,קרקע,190 ," שפירא, תל אביב יפו ",False,True,True,False
-לבנדה 32,south,980 ₪,1,קרקע,20 ," נווה שאנן, תל אביב יפו ",False,False,False,True
-לוינסקי 63,south,"4,000 ₪",1,קרקע,20 ," נווה שאנן, תל אביב יפו ",False,True,True,True
-ראש פינה 24,south,"5,400 ₪",3,1,71 ," נווה שאנן, תל אביב יפו ",True,True,False,True
-בעל העקידה ,south,"14,000 ₪",6,קרקע,330 ," שפירא, תל אביב יפו ",False,True,True,False
-שדרות סמאטס 24,north,"5,300 ₪",2,3,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-בלוך 1,north,"10,000 ₪",4.5,2,120 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
-וורמייזה ,north,"12,000 ₪",3,5,102 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-יוחנן הורקנוס ,north,"5,800 ₪",2,1,65 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
-שלומציון המלכה ,north,"6,400 ₪",3,3,60 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-ארלוזורוב 75,north,"7,200 ₪",3,2,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-דיזנגוף 190,north,"5,500 ₪",2,2,40 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-אנטיגונוס ,north,"5,800 ₪",2,1,65 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-קצנלסון ,north,"7,250 ₪",3,2,80 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
-יהודה המכבי 13,north,"4,800 ₪",2,2,50 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
-יהודה המכבי 63,north,"4,500 ₪",1,1,20 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-נהרדעא ,north,"7,400 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-לסר אורי 8,north,"10,500 ₪",4,10,115 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-מרים החשמונאית ,north,"8,300 ₪",3,2,82 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
-צייטלין 27,north,"5,200 ₪",2,קרקע,40 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
-הילדסהיימר ,north,"28,000 ₪",6,קרקע,250 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-הירקון 258,north,"7,200 ₪",3.5,3,85 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-גרץ ,north,"9,500 ₪",4,3,100 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-שדרות היוצר 9,north,"6,800 ₪",2.5,3,62 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-נמל תל אביב ,north,"4,500 ₪",2,קרקע,45 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-מרים החשמונאית 4,north,"9,500 ₪",4,3,100 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-שדרות שאול המלך 1,north,"43,000 ₪",2,7,220 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
-יהודה המכבי 32,north,"5,700 ₪",2.5,1,64 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-"מהר""ל ",north,"9,500 ₪",3.5,1,115 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
-אבן גבירול ,north,"6,500 ₪",2,2,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-שטריקר 36,north,"2,900 ₪",1,קרקע,30 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-בארי 38,north,"10,500 ₪",4,4,90 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
-הדסה ,north,"11,000 ₪",4,1,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-באר טוביה ,north,"6,600 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False
-אלחריזי 7,north,"4,600 ₪",2,קרקע,40 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-דרך נמיר 11,north,"7,000 ₪",4.5,1,96 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
-בצלאל 29,north,"7,500 ₪",3,קרקע,65 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
-הצפון החדש - צפון ,north,"13,500 ₪",3,2,100 ,  תל אביב יפו ,True,True,False,False
-פקיעין 10,north,"29,000 ₪",5,3,180 ," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False
-ארלוזורוב 132,north,"4,900 ₪",3,3,85 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
-יהודה המכבי 70,north,"5,300 ₪",2,3,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
-לסר אורי ,north,"9,500 ₪",3,12,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-אבן גבירול 178,north,"7,000 ₪",3.5,3,85 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
-פנקס ,north,800 ₪,לא צוין,קרקע,18 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
-שלומציון המלכה 5,north,"5,500 ₪",2.5,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-שטריקר 34,north,"4,700 ₪",1.5,קרקע,35 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-זלטופולסקי 17,north,"9,500 ₪",4,2,114 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
-יהודה המכבי 30,north,"6,900 ₪",3,3,75 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-הצפון החדש - צפון ,north,"8,700 ₪",4,קרקע,95 ,  תל אביב יפו ,False,True,True,False
-עין גדי ,north,"7,500 ₪",3,1,60 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-הלפרין 5,north,"6,700 ₪",3,1,80 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
-מאנה 18,north,"10,550 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-פנקס 67,north,"9,000 ₪",4,5,100 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-ארלוזורוב 17,north,"11,000 ₪",3,2,80 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-הרב צירלסון 24,north,"7,500 ₪",2.5,4,65 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True
-בלוך 11,north,"7,900 ₪",3,קרקע,75 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
-הבשן 7,north,"7,000 ₪",3,קרקע,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-זנגביל ,north,"8,000 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-אבן גבירול 137,north,"6,500 ₪",3,3,70 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-דיזנגוף 216,north,"12,500 ₪",3,2,95 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-אבן גבירול 88,north,"13,000 ₪",5,1,102 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
-בזל 27,north,"6,700 ₪",3,3,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-מודיליאני 6,north,"8,500 ₪",4.5,1,110 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-שדרות בן גוריון ,north,"3,500 ₪",1,קרקע,30 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-יהודה המכבי 47,north,"4,800 ₪",3,1,70 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-צידון ,north,"4,000 ₪",1,קרקע,40 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-יהודה המכבי 37,north,"6,000 ₪",2,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-בן יהודה 165,north,"6,000 ₪",3,2,87 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
-ברנדייס ,north,"9,500 ₪",2,3,95 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True
-אנטוקולסקי 3,north,לא צוין מחיר,3.5,3,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
-דה האז 18,north,"7,500 ₪",3,2,56 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-שלומציון המלכה 17,north,"4,500 ₪",2,קרקע,40 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-פינלס 6,north,"2,500 ₪",1,קרקע,15 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-שדרות שאול המלך 9,north,"7,800 ₪",3,2,80 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
-הצפון החדש - צפון ,north,"23,000 ₪",4.5,קרקע,270 ,  תל אביב יפו ,True,True,True,False
-וייצמן 123,north,"7,500 ₪",3,2,98 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-יוחנן הגדי 5,north,"7,500 ₪",3,3,70 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-וייצמן 133,north,"6,000 ₪",2.5,2,75 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-לסר אורי 5,north,750 ₪,לא צוין,קרקע,15 ," הצפון החדש - דרום, תל אביב יפו ",False,False,False,False
-אבן גבירול 90,north,"7,000 ₪",3,4,66 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
-שטריקר ,north,"8,200 ₪",2.5,קרקע,70 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,True
-בן יהודה 117,north,"5,200 ₪",2,2,48 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-פקיעין ,north,"25,000 ₪",4.5,6,180 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-בזל ,north,"7,000 ₪",2.5,4,60 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-בני דן ,north,"8,000 ₪",3,3,80 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-שדרות דוד המלך 25,north,"7,000 ₪",3.5,3,120 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
-זכריה ,north,"10,000 ₪",3,1,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-דיזנגוף 240,north,"3,500 ₪",1,2,25 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
-בארי 36,north,"7,500 ₪",3,6,104 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True
-שדרות נורדאו 25,north,"3,200 ₪",1,קרקע,25 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False
-הרב פרידמן ,north,730 ₪,לא צוין,קרקע,18 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
-בצלאל ,north,"7,900 ₪",3,2,75 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
-דה האז ,north,"7,250 ₪",3.5,1,85 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-אבן גבירול 172,north,"6,200 ₪",3,1,70 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-שלומציון המלכה 11,north,"6,300 ₪",2.5,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-בצלאל 31,north,"7,400 ₪",4,קרקע,82 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
-פינלס 11,north,"5,600 ₪",2,2,53 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-שלומציון המלכה ,north,"6,400 ₪",3,3,60 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-מנדלשטם ,north,"29,000 ₪",5,3,165 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-לואי מרשל ,north,"10,000 ₪",2,3,100 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True
-ז'בוטינסקי ,north,"7,800 ₪",3,4,110 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-ברנדייס ,north,"1,800 ₪",לא צוין,קרקע,15 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
-יהושע בן נון 85,north,"1,150 ₪",לא צוין,קרקע,5 ," הצפון הישן - צפון, תל אביב יפו ",False,False,False,False
-הרב צירלסון ,north,"6,700 ₪",3.5,3,80 ," הצפון החדש - צפון, תל אביב יפו ",True,True,False,True
-הירקון 196,north,"14,000 ₪",3,3,98 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-פנקס 19,north,"8,000 ₪",4,2,90 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-עמוס 8,north,"11,500 ₪",3,3,90 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False
-וייצמן ,north,"6,500 ₪",2.5,1,70 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-שדרות נורדאו ,north,"8,000 ₪",3,1,70 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-רב צעיר ,north,"4,400 ₪",1,3,31 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-הילדסהיימר ,north,"28,000 ₪",6,קרקע,250 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-הצפון החדש - צפון ,north,"4,500 ₪",2,קרקע,לא צוין ,  תל אביב יפו ,False,True,True,False
-הצפון החדש - צפון ,north,"5,300 ₪",2,1,לא צוין ,  תל אביב יפו ,False,True,True,False
-בצלאל ,north,"7,400 ₪",3,2,70 ," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False
-בצלאל 31,north,"5,500 ₪",2,2,58 ," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False
-עמוס 4,north,"6,000 ₪",2,3,45 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-שמעון התרסי 12,north,"7,000 ₪",3,2,80 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-צייטלין 33,north,"9,000 ₪",4,3,100 ," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False
-בצלאל ,north,"2,500 ₪",1,קרקע,14 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True
-אריסטובולוס 6,north,"5,650 ₪",2.5,1,54 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-שילה 5,north,"6,000 ₪",2.5,1,50 ," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False
-שדרות נורדאו ,north,"5,800 ₪",2,1,40 ," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True
-אשתורי הפרחי 4,north,"6,500 ₪",2,3,60 ," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True
-אנטיגונוס ,north,"9,000 ₪",3,2,90 ," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False
-שלומציון המלכה ,north,"8,500 ₪",2,קרקע,67 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True
-גרץ 8,north,"3,500 ₪",1,קרקע,23 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True
-דיזנגוף 280,north,"4,800 ₪",2,קרקע,40 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-יונתן הופסי 4,north,"3,900 ₪",1.5,קרקע,27 ," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False
-אבן גבירול ,north,"5,500 ₪",2,2,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False
-פנקס 53,north,"5,500 ₪",2.5,3,65 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-אנטיגונוס 9,north,"5,800 ₪",2,1,60 ," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True
-יהודה המכבי ,north,"5,000 ₪",2,1,50 ," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False
-אהרון דוד גורדון 1,north,"4,400 ₪",2,1,34 ," הצפון הישן - צפון, תל אביב יפו ",False,False,False,False
-ארלוזורוב ,north,"5,500 ₪",3,1,75 ," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False
-יצחק שדה 38,center-east,"6,900 ₪",4,4,100 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין 78,center-east,"5,000 ₪",1,קרקע,92 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False
-הגיבור האלמוני 6,center-east,"5,500 ₪",4,4,110 ," יד אליהו, תל אביב יפו ",False,True,False,False
-"ד""ר שמעון ברנפלד 10",center-east,"5,000 ₪",3,2,70 ," תל חיים, תל אביב יפו ",False,True,True,False
-בן אביגדור ,center-east,"4,500 ₪",3,2,50 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-המסגר 8,center-east,"3,100 ₪",2,3,35 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
-עמישב 20,center-east,"4,200 ₪",2.5,2,60 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך מנחם בגין 150,center-east,"8,500 ₪",3,15,80 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"11,000 ₪",4,42,134 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"7,000 ₪",3,20,12 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-דרך מנחם בגין 72,center-east,"3,200 ₪",1,1,22 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,True
-שלמה בובר 12,center-east,"4,200 ₪",2,קרקע,45 ," תל חיים, תל אביב יפו ",False,False,False,False
-פרזון 15,center-east,"4,600 ₪",3,1,55 ," יד אליהו, תל אביב יפו ",False,True,True,True
-שלמה בובר ,center-east,"4,200 ₪",2,קרקע,48 ," תל חיים, תל אביב יפו ",False,True,False,False
-לה גווארדיה 28,center-east,"4,500 ₪",3.5,4,74 ," יד אליהו, תל אביב יפו ",False,True,True,True
-הגיבור האלמוני 74,center-east,"6,000 ₪",4,2,105 ," יד אליהו, תל אביב יפו ",False,True,True,True
-דרך השלום 99,center-east,"4,300 ₪",2,3,50 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך מנחם בגין 144,center-east,לא צוין מחיר,3,24,80 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-"ד""ר אברהם אליהו הרכבי 30",center-east,"4,200 ₪",2,3,35 ," תל חיים, תל אביב יפו ",False,True,True,False
-דרך מנחם בגין 150,center-east,"6,000 ₪",2,20,53 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך השלום 91,center-east,"4,000 ₪",2.5,4,55 ," תל חיים, תל אביב יפו ",False,True,False,False
-לה גווארדיה 24,center-east,"4,000 ₪",2,4,65 ," יד אליהו, תל אביב יפו ",False,True,True,True
-יצחק שדה 36,center-east,"3,300 ₪",1,3,30 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
-גונן 16,center-east,"4,000 ₪",3.5,1,95 ," תל חיים, תל אביב יפו ",False,True,False,False
-בן אביגדור ,center-east,"4,500 ₪",3,2,55 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך השלום 101,center-east,"6,380 ₪",4,2,90 ," תל חיים, תל אביב יפו ",False,True,True,False
-המערכה 22,center-east,"4,800 ₪",3,3,64 ," יד אליהו, תל אביב יפו ",False,True,True,True
-שונצינו ,center-east,"3,900 ₪",2,3,40 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-הגיבור האלמוני 36,center-east,"5,500 ₪",3,4,80 ," יד אליהו, תל אביב יפו ",False,True,False,True
-"ד""ר אברהם אליהו הרכבי ",center-east,"3,000 ₪",2,קרקע,40 ," תל חיים, תל אביב יפו ",False,True,False,True
-בנימין זאב באכר 10,center-east,"6,200 ₪",4,2,100 ," תל חיים, תל אביב יפו ",False,True,True,True
-דרך השלום 85,center-east,"4,400 ₪",2.5,3,57 ," תל חיים, תל אביב יפו ",False,True,True,False
-דרך השלום 99,center-east,"4,000 ₪",2,2,60 ," תל חיים, תל אביב יפו ",False,True,False,True
-עמישב 30,center-east,"4,300 ₪",2.5,2,60 ," תל חיים, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין 144,center-east,"7,900 ₪",3,28,72 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-עמישב 32,center-east,"3,700 ₪",2,3,45 ," תל חיים, תל אביב יפו ",False,True,True,False
-בנימין זאב באכר 8,center-east,430 ₪,לא צוין,2,1 ," תל חיים, תל אביב יפו ",False,False,False,False
-דרך משה דיין 61,center-east,"5,700 ₪",4,7,80 ," יד אליהו, תל אביב יפו ",True,True,True,True
-שדרות יהודית ,center-east,"5,500 ₪",2,3,43 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"7,500 ₪",2,16,68 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"18,000 ₪",4,40,148 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-"ד""ר אברהם אליהו הרכבי 40",center-east,"6,850 ₪",4,1,120 ," תל חיים, תל אביב יפו ",True,True,False,True
-דרך מנחם בגין 144,center-east,"11,250 ₪",4,41,133 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-דרך השלום 89,center-east,"4,700 ₪",3,2,55 ," תל חיים, תל אביב יפו ",False,True,True,False
-דרך מנחם בגין 144,center-east,"8,500 ₪",3,30,73 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-"ד""ר אברהם אליהו הרכבי ",center-east,"6,200 ₪",4,5,95 ," תל חיים, תל אביב יפו ",True,True,True,False
-בן אביגדור ,center-east,"4,200 ₪",2,2,55 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-נתן ילין מור ,center-east,"7,700 ₪",4,4,90 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
-טברסקי ,center-east,"12,000 ₪",8,2,140 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
-דרך השלום 91,center-east,"3,000 ₪",1.5,3,25 ," תל חיים, תל אביב יפו ",False,True,True,True
-עמישב 4,center-east,"4,000 ₪",2.5,2,55 ," תל חיים, תל אביב יפו ",False,True,False,False
-שלמה בובר 22,center-east,"8,000 ₪",4,קרקע,185 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך משה דיין 51,center-east,"4,500 ₪",4,3,80 ," יד אליהו, תל אביב יפו ",False,True,False,False
-נתן ילין מור 18,center-east,"6,500 ₪",3,1,60 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-עמישב 10,center-east,"4,400 ₪",2,3,50 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך השלום 93,center-east,"4,300 ₪",2.5,3,60 ," תל חיים, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין 144,center-east,"7,800 ₪",3,17,71 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"6,000 ₪",3,11,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"6,500 ₪",3,12,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-דרך הטייסים 10,center-east,"5,700 ₪",3,3,78 ," תל חיים, תל אביב יפו ",False,True,True,False
-יצחק שדה 38,center-east,"7,000 ₪",4,3,170 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין 144,center-east,"7,500 ₪",3.5,18,76 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-דרך מנחם בגין 144,center-east,"18,000 ₪",3.5,40,147 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך השלום 95,center-east,"3,800 ₪",2,3,55 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך מנחם בגין 144,center-east,"9,000 ₪",3,20,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-יצחק שדה 68,center-east,"5,400 ₪",3,2,70 ," יד אליהו, תל אביב יפו ",False,True,True,True
-דרך מנחם בגין 144,center-east,"7,800 ₪",3,16,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-יוסף קארו ,center-east,"8,000 ₪",4,4,88 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
-דרך מנחם בגין 150,center-east,"7,500 ₪",3,21,81 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
-"ד""ר שמעון ברנפלד 20",center-east,"4,400 ₪",3,4,65 ," תל חיים, תל אביב יפו ",False,True,False,False
-דרך מנחם בגין 144,center-east,"11,000 ₪",5,40,136 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-נגבה 24,center-east,"5,000 ₪",3,4,68 ," יד אליהו, תל אביב יפו ",True,True,True,False
-בית הלל 27,center-east,"7,000 ₪",3,6,75 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-דרך מנחם בגין 144,center-east,"6,500 ₪",3,11,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False
-לה גווארדיה 62,center-east,"5,100 ₪",3,1,70 ," יד אליהו, תל אביב יפו ",False,False,False,False
-דרך מנחם בגין 150,center-east,"9,000 ₪",3,27,100 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
-דרך מנחם בגין 144,center-east,"8,500 ₪",3,15,71 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-שדרות יהודית 34,center-east,"5,500 ₪",2,2,46 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False
-דרך מנחם בגין 144,center-east,300 ₪,לא צוין,-1,10 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,False,False,False
-"ד""ר אברהם אליהו הרכבי 10",center-east,"3,200 ₪",2.5,קרקע,32 ," תל חיים, תל אביב יפו ",False,True,True,True
-"הנצי""ב 12",center-east,"6,500 ₪",3,5,75 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-בן אביגדור 2,center-east,"4,200 ₪",2,2,50 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-"ד""ר אברהם אליהו הרכבי 13",center-east,"6,200 ₪",4,3,96 ," תל חיים, תל אביב יפו ",True,True,True,False
-יוסף קארו 21,center-east,"4,000 ₪",2,1,48 ," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False
-סר ג'ון מונש 9,center-east,"4,200 ₪",3,4,75 ," יד אליהו, תל אביב יפו ",False,True,False,False
-המסגר 44,center-east,"2,850 ₪",1,3,20 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-"ד""ר אברהם אליהו הרכבי ",center-east,"6,000 ₪",4,3,100 ," תל חיים, תל אביב יפו ",False,True,False,False
-שונצינו ,center-east,"3,400 ₪",1,4,35 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 144,center-east,"7,000 ₪",3,17,70 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-בנימין זאב באכר 39,center-east,"5,200 ₪",3,1,75 ," תל חיים, תל אביב יפו ",False,True,False,True
-גונן 12,center-east,"3,500 ₪",3,1,80 ," תל חיים, תל אביב יפו ",False,True,False,False
-"ד""ר שמעון ברנפלד 11",center-east,"6,000 ₪",4,1,85 ," תל חיים, תל אביב יפו ",False,False,False,False
-דרך השלום 93,center-east,"4,000 ₪",2,1,49 ," תל חיים, תל אביב יפו ",False,True,False,True
-רבניצקי 4,center-east,"2,400 ₪",1,2,40 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True
-רחבת הגייסות 6,center-east,"4,400 ₪",2.5,3,60 ," יד אליהו, תל אביב יפו ",False,True,False,True
-המסגר 60,center-east,"4,400 ₪",2,3,60 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-עמישב 30,center-east,"4,450 ₪",2.5,3,53 ," תל חיים, תל אביב יפו ",False,True,False,True
-דרך מנחם בגין 144,center-east,"11,000 ₪",4,41,150 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True
-"ד""ר שמעון ברנפלד ",center-east,"4,300 ₪",3,קרקע,75 ," תל חיים, תל אביב יפו ",False,True,True,False
-יפתח 16,center-east,"9,500 ₪",4,6,115 ," יד אליהו, תל אביב יפו ",True,True,True,False
-דרך מנחם בגין 144,center-east,"9,800 ₪",4,41,120 ," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False
-יצחק אלחנן 3,center-lev-tlv,לא צוין מחיר,2,3,50 ," נווה צדק, תל אביב יפו ",False,True,False,False
-אלנבי 136,center-lev-tlv,"3,300 ₪",1,קרקע,23 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-מקווה ישראל 5,center-lev-tlv,"4,000 ₪",2,2,40 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-שלוש ,center-lev-tlv,"12,500 ₪",5,2,160 ," נווה צדק, תל אביב יפו ",False,True,True,True
-יבנאל 31,center-lev-tlv,"16,000 ₪",4,2,140 ," נווה צדק, תל אביב יפו ",False,True,False,True
-מקווה ישראל 10,center-lev-tlv,"4,200 ₪",2,5,45 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-נווה צדק ,center-lev-tlv,"30,000 $",לא צוין,קרקע,1000 ,  תל אביב יפו ,False,True,True,False
-נחלת בנימין 10,center-lev-tlv,"16,000 ₪",4,5,140 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-החשמונאים 3,center-lev-tlv,"4,200 ₪",1,4,25 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-אמזלג 10,center-lev-tlv,"4,500 ₪",1.5,-1,36 ," נווה צדק, תל אביב יפו ",True,True,True,True
-חברון 12,center-lev-tlv,"18,000 ₪",5,4,140 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-מחנה יוסף 25,center-lev-tlv,"9,000 ₪",3,קרקע,80 ," נווה צדק, תל אביב יפו ",False,True,True,True
-אידלסון 7,center-lev-tlv,"8,000 ₪",5.5,קרקע,125 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-נווה צדק ,center-lev-tlv,"16,000 ₪",4,קרקע,200 ,  תל אביב יפו ,True,True,True,False
-שלוש ,center-lev-tlv,"16,000 ₪",5,קרקע,20 ," נווה צדק, תל אביב יפו ",False,True,True,True
-נווה צדק ,center-lev-tlv,"27,000 ₪",5.5,2,260 ,  תל אביב יפו ,True,True,True,False
-בורוכוב 12,center-lev-tlv,"6,500 ₪",2.5,3,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True
-שדרות בן ציון 4,center-lev-tlv,"8,500 ₪",3,1,70 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-הירקון 78,center-lev-tlv,"15,000 ₪",3,29,98 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-שבזי 12,center-lev-tlv,"9,000 ₪",4.5,2,108 ," נווה צדק, תל אביב יפו ",True,False,False,False
-החרמון 37,center-lev-tlv,"3,500 ₪",1,1,21 ," נווה צדק, תל אביב יפו ",False,True,True,True
-פרץ חיות 3,center-lev-tlv,"6,500 ₪",3,1,70 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True
-יהודה הלוי 20,center-lev-tlv,850 ₪,לא צוין,קרקע,10 ," נווה צדק, תל אביב יפו ",False,False,False,False
-לילינבלום ,center-lev-tlv,"5,000 ₪",2,1,50 ," נווה צדק, תל אביב יפו ",False,True,True,True
-אחווה 28,center-lev-tlv,"11,200 ₪",2.5,1,80 ," נווה צדק, תל אביב יפו ",False,True,True,False
-נווה צדק ,center-lev-tlv,"16,000 ₪",4,2,150 ," נווה צדק, תל אביב יפו ",True,True,True,False
-פינס ,center-lev-tlv,800 ₪,לא צוין,קרקע,18 ," נווה צדק, תל אביב יפו ",False,False,False,False
-לונץ 3,center-lev-tlv,"7,500 ₪",2.5,2,72 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-שיינקין ,center-lev-tlv,"12,700 ₪",4,1,116 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-"מזא""ה 48",center-lev-tlv,"9,200 ₪",3,3,180 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-יצחק אלחנן 3,center-lev-tlv,650 ₪,לא צוין,קרקע,1 ," נווה צדק, תל אביב יפו ",False,False,False,False
-פיארברג 6,center-lev-tlv,"11,000 ₪",4,קרקע,340 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True
-אילת 61,center-lev-tlv,"10,500 ₪",3,26,90 ," נווה צדק, תל אביב יפו ",True,True,True,True
-שבזי ,center-lev-tlv,"10,000 ₪",3.5,2,85 ," נווה צדק, תל אביב יפו ",False,True,True,True
-נווה צדק ,center-lev-tlv,"11,000 ₪",3,2,85 ,  תל אביב יפו ,True,True,True,True
-שדרות רוטשילד ,center-lev-tlv,"8,500 ₪",3,2,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-בלפור ,center-lev-tlv,"9,800 ₪",4,2,100 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-יצחק אלחנן 15,center-lev-tlv,"18,100 ₪",3.5,14,130 ," נווה צדק, תל אביב יפו ",True,True,True,True
-סמטת שבזי 6,center-lev-tlv,"2,500 ₪",1,1,14 ," נווה צדק, תל אביב יפו ",False,False,False,False
-"לב תל אביב, לב העיר צפון ",center-lev-tlv,"3,600 ₪",1,1,34 ,  תל אביב יפו ,False,True,True,True
-לבונטין ,center-lev-tlv,"12,000 ₪",3,5,80 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-נווה צדק ,center-lev-tlv,"8,800 ₪",3,2,72 ,  תל אביב יפו ,True,True,True,False
-המלך ג'ורג' 2,center-lev-tlv,"4,000 ₪",2,2,45 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-מולכו 7,center-lev-tlv,"6,200 ₪",3,1,50 ," נווה צדק, תל אביב יפו ",False,True,True,False
-עין יעקב 22,center-lev-tlv,"6,000 ₪",2.5,1,60 ," נווה צדק, תל אביב יפו ",False,True,False,False
-"מזא""ה 56",center-lev-tlv,לא צוין מחיר,לא צוין,קרקע,9 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,False,False,False
-אילת 61,center-lev-tlv,"11,000 ₪",3,28,87 ," נווה צדק, תל אביב יפו ",True,True,True,True
-"מיכ""ל ",center-lev-tlv,"9,500 ₪",4,1,95 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-אחווה 2,center-lev-tlv,"20,000 ₪",4,3,150 ," נווה צדק, תל אביב יפו ",False,True,False,True
-המגיד 5,center-lev-tlv,"7,200 ₪",2.5,4,50 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-הירקון 47,center-lev-tlv,"13,900 ₪",3,12,105 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-בר אילן ,center-lev-tlv,"16,000 ₪",5,3,165 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-"רש""י 39",center-lev-tlv,"15,000 ₪",5,1,145 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-אחווה 28,center-lev-tlv,"12,800 ₪",2.5,1,80 ," נווה צדק, תל אביב יפו ",False,True,True,False
-יהודה הלוי 10,center-lev-tlv,"12,000 ₪",4,קרקע,110 ," נווה צדק, תל אביב יפו ",True,True,False,False
-פינס ,center-lev-tlv,"9,500 ₪",3,3,80 ," נווה צדק, תל אביב יפו ",True,True,True,True
-צבי ברוק ,center-lev-tlv,"6,500 ₪",3,1,66 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-שביל האטד 4,center-lev-tlv,"4,800 ₪",2.5,קרקע,55 ," נווה צדק, תל אביב יפו ",False,True,True,False
-עין ורד ,center-lev-tlv,"6,000 ₪",2,1,53 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-אילת 61,center-lev-tlv,900 ₪,לא צוין,קרקע,4 ," נווה צדק, תל אביב יפו ",False,False,False,False
-מנחם שטיין 6,center-lev-tlv,"10,000 ₪",4,קרקע,100 ," נווה צדק, תל אביב יפו ",False,True,False,True
-גרוזנברג ,center-lev-tlv,"9,500 ₪",3,קרקע,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-יוסף הנשיא 9,center-lev-tlv,"8,000 ₪",3.5,3,71 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-נווה צדק ,center-lev-tlv,"48,000 ₪",4,5,340 ,  תל אביב יפו ,True,True,False,False
-פינס ,center-lev-tlv,"8,000 ₪",3,קרקע,65 ," נווה צדק, תל אביב יפו ",False,True,False,True
-פינס 25,center-lev-tlv,"7,100 ₪",3,1,65 ," נווה צדק, תל אביב יפו ",False,True,True,False
-שביל האטד ,center-lev-tlv,"3,800 ₪",2,קרקע,38 ," נווה צדק, תל אביב יפו ",False,True,True,False
-אילת 61,center-lev-tlv,"8,500 ₪",3,1,85 ," נווה צדק, תל אביב יפו ",True,True,True,True
-שבזי 8,center-lev-tlv,"5,800 ₪",2,קרקע,55 ," נווה צדק, תל אביב יפו ",False,True,False,True
-שדרות רוטשילד ,center-lev-tlv,"8,000 ₪",3,1,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-מולכו 7,center-lev-tlv,"7,200 ₪",3.5,1,80 ," נווה צדק, תל אביב יפו ",False,True,True,False
-נווה צדק ,center-lev-tlv,"11,500 ₪",5,2,104 ,  תל אביב יפו ,True,True,False,False
-נווה צדק ,center-lev-tlv,"24,500 ₪",4,3,130 ,  תל אביב יפו ,False,True,True,False
-יבנה ,center-lev-tlv,"10,500 ₪",3,4,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-דרך מנחם בגין 19,center-lev-tlv,"3,300 ₪",1,3,25 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-יצחק אלחנן ,center-lev-tlv,"12,000 ₪",2,20,63 ," נווה צדק, תל אביב יפו ",True,True,True,True
-מחנה יוסף 32,center-lev-tlv,"4,400 ₪",2,קרקע,37 ," נווה צדק, תל אביב יפו ",False,True,True,True
-נס ציונה 5,center-lev-tlv,"7,500 ₪",2.5,4,55 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-חברון 12,center-lev-tlv,"8,600 ₪",3,4,78 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-חובבי ציון 6,center-lev-tlv,"9,000 ₪",3,2,75 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-בלפור ,center-lev-tlv,"8,500 ₪",4,3,105 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-נחמני ,center-lev-tlv,"6,000 ₪",2,1,55 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-אלנבי 95,center-lev-tlv,"7,200 ₪",3,4,90 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-נווה צדק 30,center-lev-tlv,"9,000 ₪",3,קרקע,70 ," נווה צדק, תל אביב יפו ",False,True,True,True
-נווה צדק ,center-lev-tlv,"16,000 ₪",4,3,130 ," נווה צדק, תל אביב יפו ",True,True,False,False
-כינרת 5,center-lev-tlv,"7,700 ₪",2,1,70 ," נווה צדק, תל אביב יפו ",False,True,True,False
-ברנט 22,center-lev-tlv,"6,000 ₪",4,קרקע,10 ," נווה צדק, תל אביב יפו ",False,True,True,True
-מקווה ישראל ,center-lev-tlv,"2,650 ₪",1,1,27 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-המגיד 6,center-lev-tlv,"10,500 ₪",4,4,120 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False
-בלפור 50,center-lev-tlv,"6,900 ₪",2.5,1,60 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-שדרות רוטשילד 84,center-lev-tlv,"10,000 ₪",2,קרקע,52 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-שדרות רוטשילד 62,center-lev-tlv,"14,000 ₪",3.5,2,120 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-הס 7,center-lev-tlv,"9,000 ₪",4,קרקע,100 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False
-קלישר 23,center-lev-tlv,"11,000 ₪",3,קרקע,140 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True
-בר אילן 8,center-lev-tlv,"19,500 ₪",5,קרקע,260 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-שביל האטד 4,center-lev-tlv,"4,900 ₪",3,1,53 ," נווה צדק, תל אביב יפו ",False,True,True,False
-נווה צדק 23,center-lev-tlv,"4,500 ₪",1,1,25 ," נווה צדק, תל אביב יפו ",False,True,True,True
-שיינקין ,center-lev-tlv,"10,900 ₪",4,3,95 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-נס ציונה 5,center-lev-tlv,"10,000 ₪",3,2,80 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-יצחק אלחנן 15,center-lev-tlv,"70,000 ₪",5.5,7,330 ," נווה צדק, תל אביב יפו ",True,True,True,True
-גרוזנברג ,center-lev-tlv,"9,500 ₪",2,3,63 ," נווה צדק, תל אביב יפו ",True,True,True,True
-שיינקין ,center-lev-tlv,"20,000 ₪",5,6,150 ," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True
-רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-גדרה 6,center-kerem,"1,000 ₪",1,קרקע,6 ," כרם התימנים, תל אביב יפו ",False,False,False,False
-רציף הרברט סמואל 36,center-kerem,לא צוין מחיר,5.5,3,320 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-גדרה 13,center-kerem,700 ₪,לא צוין,קרקע,10 ," כרם התימנים, תל אביב יפו ",False,False,False,False
-ישכון 17,center-kerem,"3,000 ₪",1,קרקע,25 ," כרם התימנים, תל אביב יפו ",True,True,False,True
-גאולה 5,center-kerem,לא צוין מחיר,2,קרקע,40 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-גאולה 39,center-kerem,"3,490 ₪",1,קרקע,18 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-גאולה ,center-kerem,לא צוין מחיר,2,6,60 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-גדרה 6,center-kerem,"2,000 ₪",1,קרקע,12 ," כרם התימנים, תל אביב יפו ",False,True,False,False
-אלשיך ,center-kerem,"3,550 ₪",1,1,26 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-הכובשים ,center-kerem,"5,300 ₪",2.5,1,50 ," כרם התימנים, תל אביב יפו ",False,True,True,False
-הכובשים 33,center-kerem,"5,000 ₪",2,1,50 ," כרם התימנים, תל אביב יפו ",False,True,True,False
-הירקון 23,center-kerem,"7,400 ₪",3,2,75 ," כרם התימנים, תל אביב יפו ",False,True,False,True
-גדרה ,center-kerem,"17,000 ₪",4,קרקע,180 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-הירקון 19,center-kerem,"25,000 $",4,20,220 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-יונה הנביא ,center-kerem,"2,900 ₪",1,-1,35 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-כרמלית ,center-kerem,"12,000 ₪",4,3,110 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-הכובשים ,center-kerem,"5,000 ₪",2,3,40 ," כרם התימנים, תל אביב יפו ",True,False,False,False
-אלישיב 24,center-kerem,"6,000 ₪",3,קרקע,70 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-גאולה 31,center-kerem,"8,000 ₪",3,1,66 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-בית יוסף 23,center-kerem,"5,200 ₪",2.5,קרקע,70 ," כרם התימנים, תל אביב יפו ",False,True,False,False
-גאולה ,center-kerem,"7,500 ₪",3,3,80 ," כרם התימנים, תל אביב יפו ",False,True,True,False
-"תרמ""ב 25",center-kerem,"3,650 ₪",1,1,24 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-אלשיך ,center-kerem,"2,850 ₪",1,קרקע,20 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-גאולה 39,center-kerem,"7,200 ₪",3,1,65 ," כרם התימנים, תל אביב יפו ",False,True,True,False
-אלנבי 20,center-kerem,"5,500 ₪",2,4,42 ," כרם התימנים, תל אביב יפו ",True,True,False,True
-הכובשים ,center-kerem,"8,250 ₪",4,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-רציף הרברט סמואל 42,center-kerem,"15,000 ₪",2,6,60 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-יונה הנביא ,center-kerem,"7,500 ₪",4,קרקע,100 ," כרם התימנים, תל אביב יפו ",False,True,False,False
-"מל""ן 3",center-kerem,"3,650 ₪",1,קרקע,30 ," כרם התימנים, תל אביב יפו ",False,True,True,False
-דניאל ,center-kerem,"11,500 ₪",4,5,90 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-עזרא הסופר 11,center-kerem,"14,000 ₪",4,4,115 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-רציף הרברט סמואל ,center-kerem,"22,000 ₪",2,20,94 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-יחיא קאפח 3,center-kerem,"4,700 ₪",2,קרקע,47 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-הכובשים 60,center-kerem,"10,000 ₪",4,1,120 ," כרם התימנים, תל אביב יפו ",False,True,False,False
-יונה הנביא ,center-kerem,"7,900 ₪",4,2,85 ," כרם התימנים, תל אביב יפו ",True,True,True,False
-אלנבי 38,center-kerem,"9,500 ₪",4,1,100 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-יונה הנביא ,center-kerem,"2,500 ₪",1,4,22 ," כרם התימנים, תל אביב יפו ",False,False,False,False
-רבי מאיר 36,center-kerem,"4,700 ₪",1,קרקע,35 ," כרם התימנים, תל אביב יפו ",False,True,True,True
-אלישיב 26,center-kerem,"3,200 ₪",1,קרקע,20 ," כרם התימנים, תל אביב יפו ",False,True,False,False
-בית יוסף ,center-kerem,"13,000 ₪",4,1,100 ," כרם התימנים, תל אביב יפו ",True,True,True,True
-גאולה 21,center-kerem,800 ₪,לא צוין,קרקע,5 ," כרם התימנים, תל אביב יפו ",False,False,False,False
-יונה הנביא ,center-kerem,"3,550 ₪",1.5,2,27 ," כרם התימנים, תל אביב יפו ",False,True,False,True
-הכובשים 45,center-kerem,"6,000 ₪",3,2,60 ," כרם התימנים, תל אביב יפו ",False,True,True,True
+Title,Area,Price,Rooms,Floor,Square-meter,Area-text,Elevator,Air-condition,Refurbished,Furniture,lon,lat
+חכמי אתונה 48,south,"2,800 ₪",1,1,25," שפירא, תל אביב יפו ",False,True,True,True,34.777146,32.05004
+י.ל. פרץ 38,south,"6,300 ₪",3,5,100," נווה שאנן, תל אביב יפו ",True,True,True,False,34.776512,32.058823
+נווה שאנן ,south,"5,700 ₪",3,4,57," נווה שאנן, תל אביב יפו ",True,True,True,False,35.0189029,32.7873956
+דרך קיבוץ גלויות 113,south,"3,200 ₪",1,קרקע,25," שפירא, תל אביב יפו ",False,True,True,False,34.958781,32.560477
+הקונגרס 3,south,"6,000 ₪",3,קרקע,80," נווה שאנן, תל אביב יפו ",False,True,False,False,34.773472,32.057368
+השכל 5,south,"3,500 ₪",2,1,40," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,True,34.791768,32.053653
+אייגר 12,south,"5,000 ₪",3,5,80," נווה שאנן, תל אביב יפו ",True,True,False,False,34.781259,32.058964
+הרטוב 18,south,"6,000 ₪",4,1,90," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False,34.798261,32.048701
+שיבת ציון 4,south,"7,000 ₪",3,5,75," נווה שאנן, תל אביב יפו ",True,True,False,True,34.774727,32.055821
+נתן הנביא ,south,"2,900 ₪",1.5,קרקע,25," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,35.2255227,31.7824108
+ידעיה הפניני ,south,"4,200 ₪",2,קרקע,50," שפירא, תל אביב יפו ",False,True,True,False,34.7753879,32.0521109
+מאור הגולה 47,south,"11,000 ₪",4,קרקע,200," שפירא, תל אביב יפו ",False,True,True,False,34.777285,32.049725
+י.ל. פרץ ,south,"5,500 ₪",4,1,100," נווה שאנן, תל אביב יפו ",False,True,True,False,34.853651,32.193343
+חכמי אתונה 35,south,"4,500 ₪",3,קרקע,100," שפירא, תל אביב יפו ",False,True,True,False,34.776564,32.050353
+ידעיה הפניני 2,south,לא צוין מחיר,לא צוין,קרקע,20," שפירא, תל אביב יפו ",False,True,True,True,34.774698,32.052204
+נווה שאנן ,south,"5,200 ₪",2.5,4,52," נווה שאנן, תל אביב יפו ",True,True,True,False,35.0189029,32.7873956
+הקונגרס 33,south,"5,000 ₪",2,6,45," נווה שאנן, תל אביב יפו ",True,True,True,False,34.775747,32.056497
+יאיר ,south,"2,300 ₪",1,קרקע,20," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,35.2209843,31.7621435
+הקונגרס 33,south,"5,600 ₪",3,5,80," נווה שאנן, תל אביב יפו ",True,True,True,False,34.775747,32.056497
+ורדיאל 9,south,"3,500 ₪",2,1,42," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False,34.789117,32.053759
+חפר ,south,"3,000 ₪",1,1,24," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,49.4873037,33.7465434
+חזנוביץ' 12,south,"8,000 ₪",4,4,90," נווה שאנן, תל אביב יפו ",True,True,True,False,34.774773,32.055747
+חזקיהו המלך ,south,"7,900 ₪",4,1,100," שפירא, תל אביב יפו ",False,True,True,False,35.2112568,31.7619022
+גולומב 27,south,"4,500 ₪",3,1,60," שפירא, תל אביב יפו ",False,True,True,True,34.782489,32.051675
+יסוד המעלה 31,south,"4,400 ₪",2,1,50," נווה שאנן, תל אביב יפו ",True,True,True,False,34.780726,32.05887
+מבשר 42,south,"2,200 ₪",1.5,1,93," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.790313,32.051392
+מסילת ישרים 26,south,"4,400 ₪",2.5,קרקע,63," שפירא, תל אביב יפו ",False,True,False,True,34.776451,32.050024
+מקור חיים 24,south,"3,000 ₪",1,3,23," שפירא, תל אביב יפו ",False,True,True,True,35.2120349,31.7558317
+עבאס 33,south,"1,700 ₪",1,קרקע,15," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True,34.789102,32.052212
+נווה שאנן ,south,"4,500 ₪",2,4,50," נווה שאנן, תל אביב יפו ",True,True,True,False,35.0189029,32.7873956
+דרך ההגנה 100,south,"4,200 ₪",2.5,קרקע,75," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,34.802179,32.053361
+דרך קיבוץ גלויות 109,south,"3,000 ₪",1,1,22," שפירא, תל אביב יפו ",False,True,True,True,34.958781,32.560477
+גולומב 5,south,"7,500 ₪",4,1,130," שפירא, תל אביב יפו ",False,False,True,False,34.78322,32.049439
+בעל העקידה ,south,"6,900 ₪",4,2,82," שפירא, תל אביב יפו ",True,True,True,False,34.7785742,32.0524563
+י.ל. פרץ ,south,"2,500 ₪",2,קרקע,50," נווה שאנן, תל אביב יפו ",False,True,True,False,34.853651,32.193343
+לוינסקי ,south,"6,500 ₪",4,2,80," נווה שאנן, תל אביב יפו ",False,True,True,True,34.7825667,32.0555775
+ידעיה הפניני ,south,"3,500 ₪",1,1,27," שפירא, תל אביב יפו ",False,True,True,False,34.7753879,32.0521109
+הקונגרס 5,south,"7,200 ₪",4,קרקע,92," נווה שאנן, תל אביב יפו ",False,True,True,False,34.773564,32.057333
+הונא 34,south,"3,000 ₪",1,קרקע,20," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.792315,32.051738
+יסוד המעלה 31,south,"4,600 ₪",2,4,50," נווה שאנן, תל אביב יפו ",True,True,False,False,34.780726,32.05887
+קרשקש 6,south,"8,000 ₪",4,1,105," שפירא, תל אביב יפו ",True,True,False,True,34.779795,32.051732
+י.ל. פרץ 6,south,"5,900 ₪",3,3,67," נווה שאנן, תל אביב יפו ",True,True,True,True,34.774273,32.059811
+חזנוביץ' ,south,"6,500 ₪",3,3,75," נווה שאנן, תל אביב יפו ",True,True,False,True,35.220183,31.7857513
+דרך מנחם בגין 36,south,"3,800 ₪",2,1,50," נווה שאנן, תל אביב יפו ",False,True,False,False,35.0864265,32.9540654
+לסקר 7,south,"7,300 ₪",4,1,110," שפירא, תל אביב יפו ",False,True,True,False,34.777493,32.048646
+ישראל מסלנט 21,south,"4,500 ₪",3,4,70," שפירא, תל אביב יפו ",False,True,True,False,34.780994,32.049428
+טורי זהב ,south,"9,800 ₪",4,קרקע,210," שפירא, תל אביב יפו ",False,True,True,False,34.7809383,32.0520662
+אייגר ,south,"4,200 ₪",2,1,50," נווה שאנן, תל אביב יפו ",True,True,True,True,34.781302,32.059139
+מאור הגולה 13,south,"4,500 ₪",2,2,65," שפירא, תל אביב יפו ",False,True,True,False,34.775341,32.050142
+גולומב 11,south,"2,950 ₪",1,1,40," שפירא, תל אביב יפו ",False,True,True,True,34.783071,32.049999
+לבנדה ,south,"3,500 ₪",1,2,25," שפירא, תל אביב יפו ",False,True,True,False,34.7825112,32.0553178
+איתיאל 27,south,"5,000 ₪",4,2,100," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",True,True,True,False,34.797285,32.048835
+בר יוחאי 47,south,"3,600 ₪",2,קרקע,30," שפירא, תל אביב יפו ",False,True,True,True,34.776472,32.052541
+האסיף ,south,"5,000 ₪",3,1,70," שפירא, תל אביב יפו ",True,False,True,False,34.955272,32.4241059
+חכמי אתונה ,south,"2,800 ₪",1,קרקע,29," שפירא, תל אביב יפו ",False,True,True,True,34.7756304,32.0505529
+לבנדה ,south,"3,500 ₪",1,2,25," שפירא, תל אביב יפו ",False,True,True,False,34.7825112,32.0553178
+דרך מנחם בגין 4,south,"5,500 ₪",2,3,60," נווה שאנן, תל אביב יפו ",True,True,True,False,35.009805,31.876965
+שדרות הר ציון 30,south,"4,500 ₪",3,2,70," נווה שאנן, תל אביב יפו ",False,True,True,True,34.7779829,32.0591688
+דרך מנחם בגין ,south,"3,900 ₪",2,3,40," נווה שאנן, תל אביב יפו ",False,True,True,True,35.009805,31.876965
+ראש פינה 24,south,"5,400 ₪",3,1,69," נווה שאנן, תל אביב יפו ",True,True,False,True,34.782354,32.058523
+דרך קיבוץ גלויות 83,south,"1,300 ₪",1,קרקע,18," שפירא, תל אביב יפו ",False,True,False,True,34.767987,32.05183
+נווה שאנן 35,south,"4,500 ₪",2,5,55," נווה שאנן, תל אביב יפו ",True,True,True,True,34.780453,32.057874
+נתן הנביא ,south,"2,900 ₪",2,2,45," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,35.2255227,31.7824108
+"יש""ר מקנדיאה 27",south,"4,500 ₪",2.5,קרקע,80," שפירא, תל אביב יפו ",False,True,True,False,,
+מסילת ישרים 71,south,"4,200 ₪",2,קרקע,50," שפירא, תל אביב יפו ",False,True,False,False,34.777079,32.052649
+כוכבי יצחק 5,south,"6,000 ₪",4,4,80," שפירא, תל אביב יפו ",True,True,True,True,34.783048,32.048186
+הרב יצחק ידידיה פרנקל 75,south,"3,500 ₪",1.5,4,65," נווה שאנן, תל אביב יפו ",False,True,False,False,34.774046,32.056484
+י.ל. פרץ ,south,"5,000 ₪",4,3,100," נווה שאנן, תל אביב יפו ",False,True,True,False,34.853651,32.193343
+לבנדה ,south,"1,500 ₪",2,2,30," שפירא, תל אביב יפו ",False,True,True,True,34.7825112,32.0553178
+חזקיהו המלך 47,south,"3,000 ₪",1,קרקע,20," שפירא, תל אביב יפו ",False,True,False,True,35.2079862,31.7611094
+הקונגרס 10,south,"4,500 ₪",2.5,קרקע,62," נווה שאנן, תל אביב יפו ",False,True,True,False,34.773929,32.056957
+לבנדה 23,south,"2,500 ₪",1,2,24," נווה שאנן, תל אביב יפו ",False,True,False,True,34.7825,32.055902
+יסוד המעלה 35,south,"5,900 ₪",4,קרקע,130," נווה שאנן, תל אביב יפו ",True,True,True,True,34.780867,32.058649
+דרך שלמה 107,south,"3,500 ₪",2,1,50," נווה שאנן, תל אביב יפו ",False,True,False,False,34.763532,32.054536
+יקותיאל 28,south,"5,200 ₪",3,קרקע,120," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,34.788229,32.050915
+מטלון 75,south,"3,000 ₪",2,3,35," נווה שאנן, תל אביב יפו ",False,True,True,False,34.776091,32.057758
+עבאס 33,south,"2,900 ₪",2,2,35," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,False,True,True,34.789102,32.052212
+עין הקורא 13,south,"4,000 ₪",2,1,58," נווה שאנן, תל אביב יפו ",True,True,True,True,34.782383,32.057414
+לסקר 15,south,לא צוין מחיר,5,1,120," שפירא, תל אביב יפו ",False,True,True,False,34.778301,32.048401
+ידעיה הפניני ,south,"2,900 ₪",1,1,20," שפירא, תל אביב יפו ",False,True,True,True,34.7753879,32.0521109
+מקור חיים ,south,"3,800 ₪",2,קרקע,40," שפירא, תל אביב יפו ",False,True,True,False,35.2126203,31.7555555
+מטלון 75,south,"2,400 ₪",1,1,15," נווה שאנן, תל אביב יפו ",False,False,True,True,34.776091,32.057758
+האקליפטוס ,south,"3,600 ₪",2,1,40," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,34.8758944,32.0637919
+כוכבי יצחק ,south,"6,200 ₪",4,4,78," שפירא, תל אביב יפו ",True,True,True,False,34.7827827,32.0478947
+י.ל. פרץ ,south,"5,800 ₪",3,1,70," נווה שאנן, תל אביב יפו ",True,True,True,True,34.853651,32.193343
+נווה שאנן ,south,"5,200 ₪",2.5,4,55," נווה שאנן, תל אביב יפו ",True,True,True,False,35.0189029,32.7873956
+צ'לנוב ,south,"6,000 ₪",3,5,70," נווה שאנן, תל אביב יפו ",True,True,True,False,34.774871,32.0573707
+סמטת חכמי ישראל 10,south,"2,700 ₪",1.5,קרקע,25," שפירא, תל אביב יפו ",False,True,True,True,,
+ידעיה הפניני 26,south,"2,900 ₪",1,1,27," שפירא, תל אביב יפו ",False,True,True,True,34.775149,32.051515
+ישראל מסלנט 21,south,"4,350 ₪",3,3,55," שפירא, תל אביב יפו ",False,True,False,False,34.780994,32.049428
+מטלון 75,south,"4,000 ₪",1.5,4,45," נווה שאנן, תל אביב יפו ",False,True,False,False,34.776091,32.057758
+חזנוביץ' ,south,"9,000 ₪",4,3,117," נווה שאנן, תל אביב יפו ",True,True,False,True,35.220183,31.7857513
+דרך מנחם בגין 12,south,"2,400 ₪",1,2,36," נווה שאנן, תל אביב יפו ",False,True,True,False,35.009805,31.876965
+בר יוחאי 47,south,"3,500 ₪",1,קרקע,31," שפירא, תל אביב יפו ",False,True,False,True,34.776472,32.052541
+י.ל. פרץ 40,south,"6,500 ₪",3.5,5,84," נווה שאנן, תל אביב יפו ",True,True,True,True,34.776687,32.058611
+שפירא ,south,"8,000 ₪",3,קרקע,140,  תל אביב יפו ,False,True,True,False,34.7766626,32.0509463
+חזקיהו המלך 19,south,"4,700 ₪",3,2,50," שפירא, תל אביב יפו ",False,True,True,False,35.2120173,31.7621642
+הגדוד העברי 31,south,"2,750 ₪",1,2,20," נווה שאנן, תל אביב יפו ",False,True,True,True,34.778279,32.059018
+מסילת ישרים ,south,"4,700 ₪",2.5,קרקע,85," שפירא, תל אביב יפו ",False,True,False,False,35.2149396,31.7819444
+שפירא ,south,"10,000 ₪",5,קרקע,170,  תל אביב יפו ,False,True,True,False,34.7766626,32.0509463
+קמואל 54,south,"2,300 ₪",1,קרקע,20," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.791122,32.048918
+הקונגרס ,south,"7,200 ₪",3.5,3,80," נווה שאנן, תל אביב יפו ",True,True,True,False,34.7746302,32.0567724
+הרב יצחק ידידיה פרנקל 69,south,"4,100 ₪",2,3,35," נווה שאנן, תל אביב יפו ",True,True,True,False,34.773819,32.056601
+הונא ,south,"3,000 ₪",1,קרקע,20," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.7922094,32.0513152
+סמטת עובד 30,south,"3,800 ₪",3,קרקע,70," שפירא, תל אביב יפו ",False,True,True,True,34.7759258,32.0543217
+ישראל מסלנט ,south,"6,800 ₪",4,קרקע,100," שפירא, תל אביב יפו ",False,True,True,False,34.7814661,32.0506968
+נווה שאנן ,south,"10,500 ₪",3,5,97," נווה שאנן, תל אביב יפו ",True,True,True,False,35.0189029,32.7873956
+ישראל מסלנט ,south,"4,700 ₪",3,3,70," שפירא, תל אביב יפו ",False,False,False,False,34.7814661,32.0506968
+לוינסקי 61,south,"5,000 ₪",2,3,50," נווה שאנן, תל אביב יפו ",True,True,True,True,34.773853,32.059459
+"ראב""ד 31",south,"5,000 ₪",2.5,קרקע,70," נווה שאנן, תל אביב יפו ",False,True,False,True,34.781142,32.054163
+בעל העקידה ,south,"4,400 ₪",2.5,-1,46," שפירא, תל אביב יפו ",True,True,True,False,34.7785742,32.0524563
+מבשר 53,south,"3,600 ₪",2,3,40," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.79038,32.050967
+ישראל מסלנט 30,south,"7,000 ₪",4,1,90," שפירא, תל אביב יפו ",False,True,True,False,34.781703,32.050783
+שיבת ציון 20,south,"3,900 ₪",2.5,3,63," נווה שאנן, תל אביב יפו ",False,True,False,False,34.776715,32.055105
+מאור הגולה 37,south,"3,000 ₪",1,קרקע,28," שפירא, תל אביב יפו ",False,True,True,False,34.776639,32.049831
+קמואל ,south,"3,500 ₪",2,1,35," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,34.7914337,32.0504461
+י.ל. פרץ ,south,"6,000 ₪",4,2,95," נווה שאנן, תל אביב יפו ",False,True,True,False,34.853651,32.193343
+שלמון 28,south,"3,000 ₪",1,1,30," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,True,34.791745,32.052737
+גבעת בן יהודה 10,south,לא צוין מחיר,7,קרקע,300," שפירא, תל אביב יפו ",False,True,True,False,34.779395,32.050864
+"ראב""ד ",south,"3,000 ₪",1,קרקע,30," שפירא, תל אביב יפו ",False,True,False,False,43.307004,16.15258
+לבנדה ,south,"1,500 ₪",1,2,30," שפירא, תל אביב יפו ",False,True,True,True,34.7825112,32.0553178
+י.ל. פרץ ,south,"5,600 ₪",3,3,60," נווה שאנן, תל אביב יפו ",True,True,True,False,34.853651,32.193343
+אחימעץ 4,south,לא צוין מחיר,4,1,100," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,True,False,34.794953,32.048293
+מסילת העולים 11,south,"2,800 ₪",1,קרקע,30," נווה שאנן, תל אביב יפו ",False,True,True,True,34.7651879,32.0016737
+לבנדה ,south,"1,500 ₪",1,2,30," שפירא, תל אביב יפו ",False,True,True,True,34.7825112,32.0553178
+העלייה 33,south,"3,700 ₪",2,1,60," נווה שאנן, תל אביב יפו ",False,True,True,False,34.773311,32.057614
+ישראל מסלנט 45,south,"3,100 ₪",2,1,36," שפירא, תל אביב יפו ",True,True,False,False,34.781639,32.052393
+דרך קיבוץ גלויות 79,south,"3,000 ₪",1,3,30," שפירא, תל אביב יפו ",False,True,True,True,34.785068,32.046798
+נתן הנביא ,south,"1,500 ₪",1,קרקע,30," התקוה, בית יעקב, נווה צה""ל, תל אביב יפו ",False,True,False,False,35.2255227,31.7824108
+כרם חמד 6,south,"5,000 ₪",4,2,75," שפירא, תל אביב יפו ",False,True,False,True,34.782763,32.049443
+ידעיה הפניני ,south,"22,000 ₪",7,קרקע,190," שפירא, תל אביב יפו ",False,True,True,False,34.7753879,32.0521109
+לבנדה 32,south,980 ₪,1,קרקע,20," נווה שאנן, תל אביב יפו ",False,False,False,True,34.783049,32.056658
+לוינסקי 63,south,"4,000 ₪",1,קרקע,20," נווה שאנן, תל אביב יפו ",False,True,True,True,34.774126,32.059352
+ראש פינה 24,south,"5,400 ₪",3,1,71," נווה שאנן, תל אביב יפו ",True,True,False,True,34.782354,32.058523
+בעל העקידה ,south,"14,000 ₪",6,קרקע,330," שפירא, תל אביב יפו ",False,True,True,False,34.7785742,32.0524563
+שדרות סמאטס 24,north,"5,300 ₪",2,3,60," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.789773,32.09335
+בלוך 1,north,"10,000 ₪",4.5,2,120," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True,34.8120064,32.0764358
+וורמייזה ,north,"12,000 ₪",3,5,102," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,34.779281,32.0875902
+יוחנן הורקנוס ,north,"5,800 ₪",2,1,65," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True,34.7935893,31.2651167
+שלומציון המלכה ,north,"6,400 ₪",3,3,60," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.2219742,31.7796838
+ארלוזורוב 75,north,"7,200 ₪",3,2,75," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.7901807,32.0834214
+דיזנגוף 190,north,"5,500 ₪",2,2,40," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.774791,32.085701
+אנטיגונוס ,north,"5,800 ₪",2,1,65," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.2094123,31.7577847
+קצנלסון ,north,"7,250 ₪",3,2,80," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False,34.766087,32.0083967
+יהודה המכבי 13,north,"4,800 ₪",2,2,50," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False,35.2095204,31.7896467
+יהודה המכבי 63,north,"4,500 ₪",1,1,20," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.791405,32.093987
+נהרדעא ,north,"7,400 ₪",3,2,70," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.7872771,32.082557
+לסר אורי 8,north,"10,500 ₪",4,10,115," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.785872,32.081172
+מרים החשמונאית ,north,"8,300 ₪",3,2,82," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True,35.2243749,31.7608923
+צייטלין 27,north,"5,200 ₪",2,קרקע,40," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True,34.785005,32.079336
+הילדסהיימר ,north,"28,000 ₪",6,קרקע,250," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,35.2190448,31.7648589
+הירקון 258,north,"7,200 ₪",3.5,3,85," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.773758,32.093362
+גרץ ,north,"9,500 ₪",4,3,100," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.8646273,31.9344243
+שדרות היוצר 9,north,"6,800 ₪",2.5,3,62," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,34.77942,32.089291
+נמל תל אביב ,north,"4,500 ₪",2,קרקע,45," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.7751960801384,32.09886
+מרים החשמונאית 4,north,"9,500 ₪",4,3,100," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,35.2233769,31.7609572
+שדרות שאול המלך 1,north,"43,000 ₪",2,7,220," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False,,
+יהודה המכבי 32,north,"5,700 ₪",2.5,1,64," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.789756,32.093673
+"מהר""ל ",north,"9,500 ₪",3.5,1,115," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False,34.919536,32.4433546
+אבן גבירול ,north,"6,500 ₪",2,2,60," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.773398,31.8958781
+שטריקר 36,north,"2,900 ₪",1,קרקע,30," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.788104,32.093072
+בארי 38,north,"10,500 ₪",4,4,90," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True,34.790224,32.082379
+הדסה ,north,"11,000 ₪",4,1,110," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,57.7541596,23.1273203
+באר טוביה ,north,"6,600 ₪",3,1,75," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False,34.7262903,31.7338758
+אלחריזי 7,north,"4,600 ₪",2,קרקע,40," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,35.2158578,31.7757552
+דרך נמיר 11,north,"7,000 ₪",4.5,1,96," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False,34.798587,32.136871
+בצלאל 29,north,"7,500 ₪",3,קרקע,65," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True,35.2107104,31.781811
+הצפון החדש - צפון ,north,"13,500 ₪",3,2,100,  תל אביב יפו ,True,True,False,False,,
+פקיעין 10,north,"29,000 ₪",5,3,180," הצפון הישן - צפון, תל אביב יפו ",True,True,False,False,34.777199,32.089536
+ארלוזורוב 132,north,"4,900 ₪",3,3,85," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False,34.785087,32.084405
+יהודה המכבי 70,north,"5,300 ₪",2,3,50," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True,34.793909,32.094204
+לסר אורי ,north,"9,500 ₪",3,12,100," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.7852415,32.08068
+אבן גבירול 178,north,"7,000 ₪",3.5,3,85," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True,35.2151673,31.7755969
+פנקס ,north,800 ₪,לא צוין,קרקע,18," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False,34.8661272,31.933102
+שלומציון המלכה 5,north,"5,500 ₪",2.5,1,50," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,35.2220833,31.7796077
+שטריקר 34,north,"4,700 ₪",1.5,קרקע,35," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.788117,32.093
+זלטופולסקי 17,north,"9,500 ₪",4,2,114," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False,34.772459,32.088799
+יהודה המכבי 30,north,"6,900 ₪",3,3,75," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.789156,32.093655
+הצפון החדש - צפון ,north,"8,700 ₪",4,קרקע,95,  תל אביב יפו ,False,True,True,False,,
+עין גדי ,north,"7,500 ₪",3,1,60," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,35.3848241,31.4523959
+הלפרין 5,north,"6,700 ₪",3,1,80," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True,34.772828,32.088081
+מאנה 18,north,"10,550 ₪",3,2,70," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.781836,32.078237
+פנקס 67,north,"9,000 ₪",4,5,100," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,34.793924,32.091453
+ארלוזורוב 17,north,"11,000 ₪",3,2,80," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.7901807,32.0834214
+הרב צירלסון 24,north,"7,500 ₪",2.5,4,65," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True,34.793512,32.095048
+בלוך 11,north,"7,900 ₪",3,קרקע,75," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False,34.7857291,32.0845097
+הבשן 7,north,"7,000 ₪",3,קרקע,60," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.782062,32.091066
+זנגביל ,north,"8,000 ₪",3,1,75," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.7772836,32.0908836
+אבן גבירול 137,north,"6,500 ₪",3,3,70," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,35.2151673,31.7755969
+דיזנגוף 216,north,"12,500 ₪",3,2,95," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.775291,32.087723
+אבן גבירול 88,north,"13,000 ₪",5,1,102," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False,35.2151673,31.7755969
+בזל 27,north,"6,700 ₪",3,3,60," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,34.778351,32.090144
+מודיליאני 6,north,"8,500 ₪",4.5,1,110," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.782801,32.080761
+שדרות בן גוריון ,north,"3,500 ₪",1,קרקע,30," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.8599063,31.92426
+יהודה המכבי 47,north,"4,800 ₪",3,1,70," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.78951,32.093926
+צידון ,north,"4,000 ₪",1,קרקע,40," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,35.3780338,33.5618345
+יהודה המכבי 37,north,"6,000 ₪",2,1,50," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.78787,32.093905
+בן יהודה 165,north,"6,000 ₪",3,2,87," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False,35.2140947,31.7807304
+ברנדייס ,north,"9,500 ₪",2,3,95," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True,34.9221828,32.4245037
+אנטוקולסקי 3,north,לא צוין מחיר,3.5,3,100," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True,34.78216,32.084476
+דה האז 18,north,"7,500 ₪",3,2,56," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.785475,32.092618
+שלומציון המלכה 17,north,"4,500 ₪",2,קרקע,40," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.786064,32.094941
+פינלס 6,north,"2,500 ₪",1,קרקע,15," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.789325,32.09436
+שדרות שאול המלך 9,north,"7,800 ₪",3,2,80," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False,34.770477,31.259431
+הצפון החדש - צפון ,north,"23,000 ₪",4.5,קרקע,270,  תל אביב יפו ,True,True,True,False,,
+וייצמן 123,north,"7,500 ₪",3,2,98," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.7889922,32.0828125
+יוחנן הגדי 5,north,"7,500 ₪",3,3,70," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.785623,32.094405
+וייצמן 133,north,"6,000 ₪",2.5,2,75," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.7889922,32.0828125
+לסר אורי 5,north,750 ₪,לא צוין,קרקע,15," הצפון החדש - דרום, תל אביב יפו ",False,False,False,False,34.785158,32.081415
+אבן גבירול 90,north,"7,000 ₪",3,4,66," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True,35.2151673,31.7755969
+שטריקר ,north,"8,200 ₪",2.5,קרקע,70," הצפון החדש - צפון, תל אביב יפו ",False,False,False,True,34.7880121,32.0910235
+בן יהודה 117,north,"5,200 ₪",2,2,48," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,35.2140947,31.7807304
+פקיעין ,north,"25,000 ₪",4.5,6,180," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,35.3339889,32.9772377
+בזל ,north,"7,000 ₪",2.5,4,60," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,88.3170788,22.6612335
+בני דן ,north,"8,000 ₪",3,3,80," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.2808505,32.6053671
+שדרות דוד המלך 25,north,"7,000 ₪",3.5,3,120," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False,34.784114,32.080258
+זכריה ,north,"10,000 ₪",3,1,110," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,34.944079,31.7097914
+דיזנגוף 240,north,"3,500 ₪",1,2,25," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False,34.775874,32.08977
+בארי 36,north,"7,500 ₪",3,6,104," הצפון החדש - דרום, תל אביב יפו ",True,True,True,True,34.789806,32.082293
+שדרות נורדאו 25,north,"3,200 ₪",1,קרקע,25," הצפון הישן - צפון, תל אביב יפו ",False,True,False,False,34.775914,32.092614
+הרב פרידמן ,north,730 ₪,לא צוין,קרקע,18," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False,34.7929864,32.0941002
+בצלאל ,north,"7,900 ₪",3,2,75," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False,34.8007768,32.0861425
+דה האז ,north,"7,250 ₪",3.5,1,85," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.785953,32.0922928
+אבן גבירול 172,north,"6,200 ₪",3,1,70," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,35.2151673,31.7755969
+שלומציון המלכה 11,north,"6,300 ₪",2.5,1,50," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,35.2224925,31.7789698
+בצלאל 31,north,"7,400 ₪",4,קרקע,82," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False,35.2107012,31.7817005
+פינלס 11,north,"5,600 ₪",2,2,53," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.790043,32.094572
+שלומציון המלכה ,north,"6,400 ₪",3,3,60," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.2219742,31.7796838
+מנדלשטם ,north,"29,000 ₪",5,3,165," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,34.7761665,32.0916222
+לואי מרשל ,north,"10,000 ₪",2,3,100," הצפון החדש - צפון, תל אביב יפו ",True,True,True,True,34.7879885,32.0925181
+ז'בוטינסקי ,north,"7,800 ₪",3,4,110," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.8381149,31.9358058
+ברנדייס ,north,"1,800 ₪",לא צוין,קרקע,15," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False,34.9221828,32.4245037
+יהושע בן נון 85,north,"1,150 ₪",לא צוין,קרקע,5," הצפון הישן - צפון, תל אביב יפו ",False,False,False,False,34.781333,32.093541
+הרב צירלסון ,north,"6,700 ₪",3.5,3,80," הצפון החדש - צפון, תל אביב יפו ",True,True,False,True,34.7935704,32.0942677
+הירקון 196,north,"14,000 ₪",3,3,98," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,34.771625,32.088159
+פנקס 19,north,"8,000 ₪",4,2,90," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,34.785567,32.091095
+עמוס 8,north,"11,500 ₪",3,3,90," הצפון הישן - צפון, תל אביב יפו ",True,True,True,False,35.2157805,31.78948
+וייצמן ,north,"6,500 ₪",2.5,1,70," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,34.7738864,31.8188402
+שדרות נורדאו ,north,"8,000 ₪",3,1,70," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.782979,32.0917533
+רב צעיר ,north,"4,400 ₪",1,3,31," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.193592,31.7837282
+הילדסהיימר ,north,"28,000 ₪",6,קרקע,250," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,35.2190448,31.7648589
+הצפון החדש - צפון ,north,"4,500 ₪",2,קרקע,לא צוין ,  תל אביב יפו ,False,True,True,False,,
+הצפון החדש - צפון ,north,"5,300 ₪",2,1,לא צוין ,  תל אביב יפו ,False,True,True,False,,
+בצלאל ,north,"7,400 ₪",3,2,70," הצפון החדש - דרום, תל אביב יפו ",True,True,False,False,34.8007768,32.0861425
+בצלאל 31,north,"5,500 ₪",2,2,58," הצפון החדש - דרום, תל אביב יפו ",False,True,False,False,35.2107012,31.7817005
+עמוס 4,north,"6,000 ₪",2,3,45," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,35.2156751,31.7892958
+שמעון התרסי 12,north,"7,000 ₪",3,2,80," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.780362,32.094364
+צייטלין 33,north,"9,000 ₪",4,3,100," הצפון החדש - דרום, תל אביב יפו ",True,True,True,False,34.786161,32.079302
+בצלאל ,north,"2,500 ₪",1,קרקע,14," הצפון החדש - דרום, תל אביב יפו ",False,True,True,True,34.8007768,32.0861425
+אריסטובולוס 6,north,"5,650 ₪",2.5,1,54," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.786582,32.092908
+שילה 5,north,"6,000 ₪",2.5,1,50," הצפון החדש - דרום, תל אביב יפו ",False,True,True,False,35.2120935,31.7837114
+שדרות נורדאו ,north,"5,800 ₪",2,1,40," הצפון הישן - צפון, תל אביב יפו ",True,True,True,True,34.782979,32.0917533
+אשתורי הפרחי 4,north,"6,500 ₪",2,3,60," הצפון הישן - צפון, תל אביב יפו ",False,True,False,True,35.2169175,31.7883722
+אנטיגונוס ,north,"9,000 ₪",3,2,90," הצפון החדש - צפון, תל אביב יפו ",True,True,True,False,35.2094123,31.7577847
+שלומציון המלכה ,north,"8,500 ₪",2,קרקע,67," הצפון החדש - צפון, תל אביב יפו ",False,True,True,True,35.2219742,31.7796838
+גרץ 8,north,"3,500 ₪",1,קרקע,23," הצפון הישן - צפון, תל אביב יפו ",False,True,True,True,34.773862,32.085306
+דיזנגוף 280,north,"4,800 ₪",2,קרקע,40," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.776512,32.092653
+יונתן הופסי 4,north,"3,900 ₪",1.5,קרקע,27," הצפון החדש - צפון, תל אביב יפו ",False,False,False,False,34.784955,32.094223
+אבן גבירול ,north,"5,500 ₪",2,2,60," הצפון החדש - צפון, תל אביב יפו ",False,True,False,False,34.773398,31.8958781
+פנקס 53,north,"5,500 ₪",2.5,3,65," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.790131,32.091201
+אנטיגונוס 9,north,"5,800 ₪",2,1,60," הצפון החדש - צפון, תל אביב יפו ",False,True,False,True,35.2089886,31.7577159
+יהודה המכבי ,north,"5,000 ₪",2,1,50," הצפון החדש - צפון, תל אביב יפו ",False,True,True,False,34.9891876,31.8947337
+אהרון דוד גורדון 1,north,"4,400 ₪",2,1,34," הצפון הישן - צפון, תל אביב יפו ",False,False,False,False,34.771043,32.086062
+ארלוזורוב ,north,"5,500 ₪",3,1,75," הצפון הישן - צפון, תל אביב יפו ",False,True,True,False,34.8112931,32.0712815
+יצחק שדה 38,center-east,"6,900 ₪",4,4,100," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True,34.7880029,32.0647757
+דרך מנחם בגין 78,center-east,"5,000 ₪",1,קרקע,92," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False,35.0864265,32.9540654
+הגיבור האלמוני 6,center-east,"5,500 ₪",4,4,110," יד אליהו, תל אביב יפו ",False,True,False,False,34.799431,32.054611
+"ד""ר שמעון ברנפלד 10",center-east,"5,000 ₪",3,2,70," תל חיים, תל אביב יפו ",False,True,True,False,34.802614,32.059611
+בן אביגדור ,center-east,"4,500 ₪",3,2,50," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7888839,32.067265
+המסגר 8,center-east,"3,100 ₪",2,3,35," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True,34.784696,32.060508
+עמישב 20,center-east,"4,200 ₪",2.5,2,60," תל חיים, תל אביב יפו ",False,True,False,False,34.804394,32.063496
+דרך מנחם בגין 150,center-east,"8,500 ₪",3,15,80," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.594738,31.522919
+דרך מנחם בגין 144,center-east,"11,000 ₪",4,42,134," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+דרך מנחם בגין 144,center-east,"7,000 ₪",3,20,12," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,35.013111,31.881689
+דרך מנחם בגין 72,center-east,"3,200 ₪",1,1,22," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,True,35.0864265,32.9540654
+שלמה בובר 12,center-east,"4,200 ₪",2,קרקע,45," תל חיים, תל אביב יפו ",False,False,False,False,34.802089,32.060537
+פרזון 15,center-east,"4,600 ₪",3,1,55," יד אליהו, תל אביב יפו ",False,True,True,True,34.797628,32.055564
+שלמה בובר ,center-east,"4,200 ₪",2,קרקע,48," תל חיים, תל אביב יפו ",False,True,False,False,34.8018343,32.0611687
+לה גווארדיה 28,center-east,"4,500 ₪",3.5,4,74," יד אליהו, תל אביב יפו ",False,True,True,True,34.79054,32.059052
+הגיבור האלמוני 74,center-east,"6,000 ₪",4,2,105," יד אליהו, תל אביב יפו ",False,True,True,True,34.798631,32.063023
+דרך השלום 99,center-east,"4,300 ₪",2,3,50," תל חיים, תל אביב יפו ",False,True,False,False,35.2625835,30.6654169
+דרך מנחם בגין 144,center-east,לא צוין מחיר,3,24,80," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+"ד""ר אברהם אליהו הרכבי 30",center-east,"4,200 ₪",2,3,35," תל חיים, תל אביב יפו ",False,True,True,False,,
+דרך מנחם בגין 150,center-east,"6,000 ₪",2,20,53," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.594738,31.522919
+דרך השלום 91,center-east,"4,000 ₪",2.5,4,55," תל חיים, תל אביב יפו ",False,True,False,False,35.2625835,30.6654169
+לה גווארדיה 24,center-east,"4,000 ₪",2,4,65," יד אליהו, תל אביב יפו ",False,True,True,True,34.7898519,32.0591548
+יצחק שדה 36,center-east,"3,300 ₪",1,3,30," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True,34.787852,32.064879
+גונן 16,center-east,"4,000 ₪",3.5,1,95," תל חיים, תל אביב יפו ",False,True,False,False,34.804936,32.063893
+בן אביגדור ,center-east,"4,500 ₪",3,2,55," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7888839,32.067265
+דרך השלום 101,center-east,"6,380 ₪",4,2,90," תל חיים, תל אביב יפו ",False,True,True,False,35.2625835,30.6654169
+המערכה 22,center-east,"4,800 ₪",3,3,64," יד אליהו, תל אביב יפו ",False,True,True,True,34.795277,32.06148
+שונצינו ,center-east,"3,900 ₪",2,3,40," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7871457,32.0652085
+הגיבור האלמוני 36,center-east,"5,500 ₪",3,4,80," יד אליהו, תל אביב יפו ",False,True,False,True,34.799635,32.057952
+"ד""ר אברהם אליהו הרכבי ",center-east,"3,000 ₪",2,קרקע,40," תל חיים, תל אביב יפו ",False,True,False,True,,
+בנימין זאב באכר 10,center-east,"6,200 ₪",4,2,100," תל חיים, תל אביב יפו ",False,True,True,True,,
+דרך השלום 85,center-east,"4,400 ₪",2.5,3,57," תל חיים, תל אביב יפו ",False,True,True,False,35.2625835,30.6654169
+דרך השלום 99,center-east,"4,000 ₪",2,2,60," תל חיים, תל אביב יפו ",False,True,False,True,35.2625835,30.6654169
+עמישב 30,center-east,"4,300 ₪",2.5,2,60," תל חיים, תל אביב יפו ",False,True,True,True,34.805129,32.062391
+דרך מנחם בגין 144,center-east,"7,900 ₪",3,28,72," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+עמישב 32,center-east,"3,700 ₪",2,3,45," תל חיים, תל אביב יפו ",False,True,True,False,34.805305,32.062202
+בנימין זאב באכר 8,center-east,430 ₪,לא צוין,2,1," תל חיים, תל אביב יפו ",False,False,False,False,,
+דרך משה דיין 61,center-east,"5,700 ₪",4,7,80," יד אליהו, תל אביב יפו ",True,True,True,True,35.241198,31.810168
+שדרות יהודית ,center-east,"5,500 ₪",2,3,43," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7902434,32.0701276
+דרך מנחם בגין 144,center-east,"7,500 ₪",2,16,68," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+דרך מנחם בגין 144,center-east,"18,000 ₪",4,40,148," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+"ד""ר אברהם אליהו הרכבי 40",center-east,"6,850 ₪",4,1,120," תל חיים, תל אביב יפו ",True,True,False,True,,
+דרך מנחם בגין 144,center-east,"11,250 ₪",4,41,133," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+דרך השלום 89,center-east,"4,700 ₪",3,2,55," תל חיים, תל אביב יפו ",False,True,True,False,35.2625835,30.6654169
+דרך מנחם בגין 144,center-east,"8,500 ₪",3,30,73," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,35.013111,31.881689
+"ד""ר אברהם אליהו הרכבי ",center-east,"6,200 ₪",4,5,95," תל חיים, תל אביב יפו ",True,True,True,False,,
+בן אביגדור ,center-east,"4,200 ₪",2,2,55," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7888839,32.067265
+נתן ילין מור ,center-east,"7,700 ₪",4,4,90," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False,34.8231774,31.2745722
+טברסקי ,center-east,"12,000 ₪",8,2,140," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True,34.9912701,32.7730606
+דרך השלום 91,center-east,"3,000 ₪",1.5,3,25," תל חיים, תל אביב יפו ",False,True,True,True,35.2625835,30.6654169
+עמישב 4,center-east,"4,000 ₪",2.5,2,55," תל חיים, תל אביב יפו ",False,True,False,False,34.803666,32.065646
+שלמה בובר 22,center-east,"8,000 ₪",4,קרקע,185," תל חיים, תל אביב יפו ",False,True,False,False,34.801964,32.061516
+דרך משה דיין 51,center-east,"4,500 ₪",4,3,80," יד אליהו, תל אביב יפו ",False,True,False,False,34.79878,32.068221
+נתן ילין מור 18,center-east,"6,500 ₪",3,1,60," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,34.8231774,31.2745722
+עמישב 10,center-east,"4,400 ₪",2,3,50," תל חיים, תל אביב יפו ",False,True,False,False,34.803856,32.064832
+דרך השלום 93,center-east,"4,300 ₪",2.5,3,60," תל חיים, תל אביב יפו ",False,True,True,True,35.2625835,30.6654169
+דרך מנחם בגין 144,center-east,"7,800 ₪",3,17,71," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+דרך מנחם בגין 144,center-east,"6,000 ₪",3,11,70," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+דרך מנחם בגין 144,center-east,"6,500 ₪",3,12,70," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,35.013111,31.881689
+דרך הטייסים 10,center-east,"5,700 ₪",3,3,78," תל חיים, תל אביב יפו ",False,True,True,False,34.805644,32.060687
+יצחק שדה 38,center-east,"7,000 ₪",4,3,170," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,True,True,34.7880029,32.0647757
+דרך מנחם בגין 144,center-east,"7,500 ₪",3.5,18,76," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+דרך מנחם בגין 144,center-east,"18,000 ₪",3.5,40,147," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+דרך השלום 95,center-east,"3,800 ₪",2,3,55," תל חיים, תל אביב יפו ",False,True,False,False,35.2625835,30.6654169
+דרך מנחם בגין 144,center-east,"9,000 ₪",3,20,70," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+יצחק שדה 68,center-east,"5,400 ₪",3,2,70," יד אליהו, תל אביב יפו ",False,True,True,True,34.7846427,32.0657798
+דרך מנחם בגין 144,center-east,"7,800 ₪",3,16,70," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+יוסף קארו ,center-east,"8,000 ₪",4,4,88," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False,35.222464,31.7915385
+דרך מנחם בגין 150,center-east,"7,500 ₪",3,21,81," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False,34.594738,31.522919
+"ד""ר שמעון ברנפלד 20",center-east,"4,400 ₪",3,4,65," תל חיים, תל אביב יפו ",False,True,False,False,34.803656,32.062054
+דרך מנחם בגין 144,center-east,"11,000 ₪",5,40,136," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+נגבה 24,center-east,"5,000 ₪",3,4,68," יד אליהו, תל אביב יפו ",True,True,True,False,34.796899,32.053978
+בית הלל 27,center-east,"7,000 ₪",3,6,75," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,34.791538,32.069325
+דרך מנחם בגין 144,center-east,"6,500 ₪",3,11,70," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False,35.013111,31.881689
+לה גווארדיה 62,center-east,"5,100 ₪",3,1,70," יד אליהו, תל אביב יפו ",False,False,False,False,34.797867,32.058899
+דרך מנחם בגין 150,center-east,"9,000 ₪",3,27,100," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False,34.594738,31.522919
+דרך מנחם בגין 144,center-east,"8,500 ₪",3,15,71," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,35.013111,31.881689
+שדרות יהודית 34,center-east,"5,500 ₪",2,2,46," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,False,34.791803,32.069697
+דרך מנחם בגין 144,center-east,300 ₪,לא צוין,-1,10," מונטיפיורי, הרכבת, תל אביב יפו ",False,False,False,False,35.013111,31.881689
+"ד""ר אברהם אליהו הרכבי 10",center-east,"3,200 ₪",2.5,קרקע,32," תל חיים, תל אביב יפו ",False,True,True,True,,
+"הנצי""ב 12",center-east,"6,500 ₪",3,5,75," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,34.790053,32.068478
+בן אביגדור 2,center-east,"4,200 ₪",2,2,50," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.787312,32.06741
+"ד""ר אברהם אליהו הרכבי 13",center-east,"6,200 ₪",4,3,96," תל חיים, תל אביב יפו ",True,True,True,False,,
+יוסף קארו 21,center-east,"4,000 ₪",2,1,48," מונטיפיורי, הרכבת, תל אביב יפו ",False,True,False,False,35.2231141,31.7911289
+סר ג'ון מונש 9,center-east,"4,200 ₪",3,4,75," יד אליהו, תל אביב יפו ",False,True,False,False,34.79324,32.055899
+המסגר 44,center-east,"2,850 ₪",1,3,20," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,34.786473,32.06515
+"ד""ר אברהם אליהו הרכבי ",center-east,"6,000 ₪",4,3,100," תל חיים, תל אביב יפו ",False,True,False,False,,
+שונצינו ,center-east,"3,400 ₪",1,4,35," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,34.7871457,32.0652085
+דרך מנחם בגין 144,center-east,"7,000 ₪",3,17,70," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,35.013111,31.881689
+בנימין זאב באכר 39,center-east,"5,200 ₪",3,1,75," תל חיים, תל אביב יפו ",False,True,False,True,,
+גונן 12,center-east,"3,500 ₪",3,1,80," תל חיים, תל אביב יפו ",False,True,False,False,34.804765,32.06433
+"ד""ר שמעון ברנפלד 11",center-east,"6,000 ₪",4,1,85," תל חיים, תל אביב יפו ",False,False,False,False,34.802865,32.059972
+דרך השלום 93,center-east,"4,000 ₪",2,1,49," תל חיים, תל אביב יפו ",False,True,False,True,35.2625835,30.6654169
+רבניצקי 4,center-east,"2,400 ₪",1,2,40," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,False,True,34.789831,32.065693
+רחבת הגייסות 6,center-east,"4,400 ₪",2.5,3,60," יד אליהו, תל אביב יפו ",False,True,False,True,,
+המסגר 60,center-east,"4,400 ₪",2,3,60," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,34.787052,32.067033
+עמישב 30,center-east,"4,450 ₪",2.5,3,53," תל חיים, תל אביב יפו ",False,True,False,True,34.805129,32.062391
+דרך מנחם בגין 144,center-east,"11,000 ₪",4,41,150," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,True,35.013111,31.881689
+"ד""ר שמעון ברנפלד ",center-east,"4,300 ₪",3,קרקע,75," תל חיים, תל אביב יפו ",False,True,True,False,34.803518,32.0609764
+יפתח 16,center-east,"9,500 ₪",4,6,115," יד אליהו, תל אביב יפו ",True,True,True,False,34.797654,32.057844
+דרך מנחם בגין 144,center-east,"9,800 ₪",4,41,120," מונטיפיורי, הרכבת, תל אביב יפו ",True,True,True,False,35.013111,31.881689
+יצחק אלחנן 3,center-lev-tlv,לא צוין מחיר,2,3,50," נווה צדק, תל אביב יפו ",False,True,False,False,34.765749,32.065597
+אלנבי 136,center-lev-tlv,"3,300 ₪",1,קרקע,23," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.77349,32.061297
+מקווה ישראל 5,center-lev-tlv,"4,000 ₪",2,2,40," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.223702,31.7983744
+שלוש ,center-lev-tlv,"12,500 ₪",5,2,160," נווה צדק, תל אביב יפו ",False,True,True,True,34.7659011,32.0596769
+יבנאל 31,center-lev-tlv,"16,000 ₪",4,2,140," נווה צדק, תל אביב יפו ",False,True,False,True,34.768276,32.064002
+מקווה ישראל 10,center-lev-tlv,"4,200 ₪",2,5,45," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.223702,31.7983744
+נווה צדק ,center-lev-tlv,"30,000 $",לא צוין,קרקע,1000,  תל אביב יפו ,False,True,True,False,34.76412884,32.063251
+נחלת בנימין 10,center-lev-tlv,"16,000 ₪",4,5,140," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,34.7699,32.068599
+החשמונאים 3,center-lev-tlv,"4,200 ₪",1,4,25," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.7823624,32.0696183
+אמזלג 10,center-lev-tlv,"4,500 ₪",1.5,-1,36," נווה צדק, תל אביב יפו ",True,True,True,True,34.7659945,32.0604208
+חברון 12,center-lev-tlv,"18,000 ₪",5,4,140," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2259817,31.7689133
+מחנה יוסף 25,center-lev-tlv,"9,000 ₪",3,קרקע,80," נווה צדק, תל אביב יפו ",False,True,True,True,34.766583,32.064257
+אידלסון 7,center-lev-tlv,"8,000 ₪",5.5,קרקע,125," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.76768,32.074066
+נווה צדק ,center-lev-tlv,"16,000 ₪",4,קרקע,200,  תל אביב יפו ,True,True,True,False,34.76412884,32.063251
+נווה צדק ,center-lev-tlv,"27,000 ₪",5.5,2,260,  תל אביב יפו ,True,True,True,False,34.76412884,32.063251
+בורוכוב 12,center-lev-tlv,"6,500 ₪",2.5,3,75," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True,34.775253,32.071834
+שדרות בן ציון 4,center-lev-tlv,"8,500 ₪",3,1,70," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.7769473,32.0731004
+הירקון 78,center-lev-tlv,"15,000 ₪",3,29,98," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2098768,31.7842301
+שבזי 12,center-lev-tlv,"9,000 ₪",4.5,2,108," נווה צדק, תל אביב יפו ",True,False,False,False,34.763686,32.06123
+החרמון 37,center-lev-tlv,"3,500 ₪",1,1,21," נווה צדק, תל אביב יפו ",False,True,True,True,34.7883742,31.9615575
+פרץ חיות 3,center-lev-tlv,"6,500 ₪",3,1,70," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True,34.774259,32.070758
+יהודה הלוי 20,center-lev-tlv,850 ₪,לא צוין,קרקע,10," נווה צדק, תל אביב יפו ",False,False,False,False,35.0071651,32.8055757
+לילינבלום ,center-lev-tlv,"5,000 ₪",2,1,50," נווה צדק, תל אביב יפו ",False,True,True,True,35.0966603,32.8029431
+אחווה 28,center-lev-tlv,"11,200 ₪",2.5,1,80," נווה צדק, תל אביב יפו ",False,True,True,False,34.765566,32.060668
+נווה צדק ,center-lev-tlv,"16,000 ₪",4,2,150," נווה צדק, תל אביב יפו ",True,True,True,False,34.76412884,32.063251
+פינס ,center-lev-tlv,800 ₪,לא צוין,קרקע,18," נווה צדק, תל אביב יפו ",False,False,False,False,34.8639027,31.9330721
+לונץ 3,center-lev-tlv,"7,500 ₪",2.5,2,72," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,35.2187696,31.7819186
+שיינקין ,center-lev-tlv,"12,700 ₪",4,1,116," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.8104393,32.0746353
+"מזא""ה 48",center-lev-tlv,"9,200 ₪",3,3,180," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,34.777956,32.065709
+יצחק אלחנן 3,center-lev-tlv,650 ₪,לא צוין,קרקע,1," נווה צדק, תל אביב יפו ",False,False,False,False,34.765749,32.065597
+פיארברג 6,center-lev-tlv,"11,000 ₪",4,קרקע,340," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,False,True,34.776307,32.067408
+אילת 61,center-lev-tlv,"10,500 ₪",3,26,90," נווה צדק, תל אביב יפו ",True,True,True,True,34.7667410527376,32.0597437
+שבזי ,center-lev-tlv,"10,000 ₪",3.5,2,85," נווה צדק, תל אביב יפו ",False,True,True,True,34.7646198,32.0628382
+נווה צדק ,center-lev-tlv,"11,000 ₪",3,2,85,  תל אביב יפו ,True,True,True,True,34.76412884,32.063251
+שדרות רוטשילד ,center-lev-tlv,"8,500 ₪",3,2,90," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,34.92016,32.4343742
+בלפור ,center-lev-tlv,"9,800 ₪",4,2,100," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,35.2169905,31.7714577
+יצחק אלחנן 15,center-lev-tlv,"18,100 ₪",3.5,14,130," נווה צדק, תל אביב יפו ",True,True,True,True,34.767154,32.064873
+סמטת שבזי 6,center-lev-tlv,"2,500 ₪",1,1,14," נווה צדק, תל אביב יפו ",False,False,False,False,34.767085,32.0634405
+"לב תל אביב, לב העיר צפון ",center-lev-tlv,"3,600 ₪",1,1,34,  תל אביב יפו ,False,True,True,True,,
+לבונטין ,center-lev-tlv,"12,000 ₪",3,5,80," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.7760857,32.0621785
+נווה צדק ,center-lev-tlv,"8,800 ₪",3,2,72,  תל אביב יפו ,True,True,True,False,34.76412884,32.063251
+המלך ג'ורג' 2,center-lev-tlv,"4,000 ₪",2,2,45," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,35.2176507,31.7830428
+מולכו 7,center-lev-tlv,"6,200 ₪",3,1,50," נווה צדק, תל אביב יפו ",False,True,True,False,35.2154361,31.7715443
+עין יעקב 22,center-lev-tlv,"6,000 ₪",2.5,1,60," נווה צדק, תל אביב יפו ",False,True,False,False,34.764549,32.062993
+"מזא""ה 56",center-lev-tlv,לא צוין מחיר,לא צוין,קרקע,9," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,False,False,False,34.779359,32.065361
+אילת 61,center-lev-tlv,"11,000 ₪",3,28,87," נווה צדק, תל אביב יפו ",True,True,True,True,34.7667410527376,32.0597437
+"מיכ""ל ",center-lev-tlv,"9,500 ₪",4,1,95," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,35.2213899,31.7977453
+אחווה 2,center-lev-tlv,"20,000 ₪",4,3,150," נווה צדק, תל אביב יפו ",False,True,False,True,34.763641,32.06292
+המגיד 5,center-lev-tlv,"7,200 ₪",2.5,4,50," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,35.2199759,31.7654739
+הירקון 47,center-lev-tlv,"13,900 ₪",3,12,105," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.8292497,32.0973011
+בר אילן ,center-lev-tlv,"16,000 ₪",5,3,165," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.8434153852937,32.0696385
+"רש""י 39",center-lev-tlv,"15,000 ₪",5,1,145," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,35.2137585,31.7876267
+אחווה 28,center-lev-tlv,"12,800 ₪",2.5,1,80," נווה צדק, תל אביב יפו ",False,True,True,False,34.765566,32.060668
+יהודה הלוי 10,center-lev-tlv,"12,000 ₪",4,קרקע,110," נווה צדק, תל אביב יפו ",True,True,False,False,35.0071651,32.8055757
+פינס ,center-lev-tlv,"9,500 ₪",3,3,80," נווה צדק, תל אביב יפו ",True,True,True,True,34.8639027,31.9330721
+צבי ברוק ,center-lev-tlv,"6,500 ₪",3,1,66," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,34.7719159,32.0739963
+שביל האטד 4,center-lev-tlv,"4,800 ₪",2.5,קרקע,55," נווה צדק, תל אביב יפו ",False,True,True,False,34.767286,32.060148
+עין ורד ,center-lev-tlv,"6,000 ₪",2,1,53," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.9317604,32.2653177
+אילת 61,center-lev-tlv,900 ₪,לא צוין,קרקע,4," נווה צדק, תל אביב יפו ",False,False,False,False,34.7667410527376,32.0597437
+מנחם שטיין 6,center-lev-tlv,"10,000 ₪",4,קרקע,100," נווה צדק, תל אביב יפו ",False,True,False,True,34.8606543,31.9263644
+גרוזנברג ,center-lev-tlv,"9,500 ₪",3,קרקע,75," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2236344,31.782503
+יוסף הנשיא 9,center-lev-tlv,"8,000 ₪",3.5,3,71," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,34.773643,32.068463
+נווה צדק ,center-lev-tlv,"48,000 ₪",4,5,340,  תל אביב יפו ,True,True,False,False,34.76412884,32.063251
+פינס ,center-lev-tlv,"8,000 ₪",3,קרקע,65," נווה צדק, תל אביב יפו ",False,True,False,True,34.8639027,31.9330721
+פינס 25,center-lev-tlv,"7,100 ₪",3,1,65," נווה צדק, תל אביב יפו ",False,True,True,False,34.766783,32.062332
+שביל האטד ,center-lev-tlv,"3,800 ₪",2,קרקע,38," נווה צדק, תל אביב יפו ",False,True,True,False,34.7671865,32.0600978
+אילת 61,center-lev-tlv,"8,500 ₪",3,1,85," נווה צדק, תל אביב יפו ",True,True,True,True,34.7667410527376,32.0597437
+שבזי 8,center-lev-tlv,"5,800 ₪",2,קרקע,55," נווה צדק, תל אביב יפו ",False,True,False,True,34.763312,32.061038
+שדרות רוטשילד ,center-lev-tlv,"8,000 ₪",3,1,90," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.92016,32.4343742
+מולכו 7,center-lev-tlv,"7,200 ₪",3.5,1,80," נווה צדק, תל אביב יפו ",False,True,True,False,35.2154361,31.7715443
+נווה צדק ,center-lev-tlv,"11,500 ₪",5,2,104,  תל אביב יפו ,True,True,False,False,34.76412884,32.063251
+נווה צדק ,center-lev-tlv,"24,500 ₪",4,3,130,  תל אביב יפו ,False,True,True,False,34.76412884,32.063251
+יבנה ,center-lev-tlv,"10,500 ₪",3,4,75," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.7382974,31.8768863
+דרך מנחם בגין 19,center-lev-tlv,"3,300 ₪",1,3,25," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.009805,31.876965
+יצחק אלחנן ,center-lev-tlv,"12,000 ₪",2,20,63," נווה צדק, תל אביב יפו ",True,True,True,True,35.2211753,31.7694857
+מחנה יוסף 32,center-lev-tlv,"4,400 ₪",2,קרקע,37," נווה צדק, תל אביב יפו ",False,True,True,True,34.766738,32.064329
+נס ציונה 5,center-lev-tlv,"7,500 ₪",2.5,4,55," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.767541,32.074984
+חברון 12,center-lev-tlv,"8,600 ₪",3,4,78," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2259817,31.7689133
+חובבי ציון 6,center-lev-tlv,"9,000 ₪",3,2,75," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,35.2177398,31.770337
+בלפור ,center-lev-tlv,"8,500 ₪",4,3,105," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,35.2169905,31.7714577
+נחמני ,center-lev-tlv,"6,000 ₪",2,1,55," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,35.5349892,32.7975861
+אלנבי 95,center-lev-tlv,"7,200 ₪",3,4,90," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.772536,32.064971
+נווה צדק 30,center-lev-tlv,"9,000 ₪",3,קרקע,70," נווה צדק, תל אביב יפו ",False,True,True,True,34.7663,32.06104
+נווה צדק ,center-lev-tlv,"16,000 ₪",4,3,130," נווה צדק, תל אביב יפו ",True,True,False,False,34.76412884,32.063251
+כינרת 5,center-lev-tlv,"7,700 ₪",2,1,70," נווה צדק, תל אביב יפו ",False,True,True,False,34.766288,32.064135
+ברנט 22,center-lev-tlv,"6,000 ₪",4,קרקע,10," נווה צדק, תל אביב יפו ",False,True,True,True,34.76313,32.060053
+מקווה ישראל ,center-lev-tlv,"2,650 ₪",1,1,27," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2236899,31.797368
+המגיד 6,center-lev-tlv,"10,500 ₪",4,4,120," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,False,35.2205228,31.7656634
+בלפור 50,center-lev-tlv,"6,900 ₪",2.5,1,60," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,35.1977421,31.7793115
+שדרות רוטשילד 84,center-lev-tlv,"10,000 ₪",2,קרקע,52," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.777619,32.066077
+שדרות רוטשילד 62,center-lev-tlv,"14,000 ₪",3.5,2,120," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.776149,32.064487
+הס 7,center-lev-tlv,"9,000 ₪",4,קרקע,100," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,False,8.2455502,49.9947907
+קלישר 23,center-lev-tlv,"11,000 ₪",3,קרקע,140," לב תל אביב, לב העיר צפון, תל אביב יפו ",False,True,True,True,34.769711,32.065464
+בר אילן 8,center-lev-tlv,"19,500 ₪",5,קרקע,260," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,35.2189105,31.7953636
+שביל האטד 4,center-lev-tlv,"4,900 ₪",3,1,53," נווה צדק, תל אביב יפו ",False,True,True,False,34.767286,32.060148
+נווה צדק 23,center-lev-tlv,"4,500 ₪",1,1,25," נווה צדק, תל אביב יפו ",False,True,True,True,34.765805,32.062064
+שיינקין ,center-lev-tlv,"10,900 ₪",4,3,95," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.8104393,32.0746353
+נס ציונה 5,center-lev-tlv,"10,000 ₪",3,2,80," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.767541,32.074984
+יצחק אלחנן 15,center-lev-tlv,"70,000 ₪",5.5,7,330," נווה צדק, תל אביב יפו ",True,True,True,True,34.767154,32.064873
+גרוזנברג ,center-lev-tlv,"9,500 ₪",2,3,63," נווה צדק, תל אביב יפו ",True,True,True,True,35.2236344,31.782503
+שיינקין ,center-lev-tlv,"20,000 ₪",5,6,150," לב תל אביב, לב העיר צפון, תל אביב יפו ",True,True,True,True,34.8104393,32.0746353
+רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100," כרם התימנים, תל אביב יפו ",True,True,True,True,,
+גדרה 6,center-kerem,"1,000 ₪",1,קרקע,6," כרם התימנים, תל אביב יפו ",False,False,False,False,35.1992439,31.7941579
+רציף הרברט סמואל 36,center-kerem,לא צוין מחיר,5.5,3,320," כרם התימנים, תל אביב יפו ",True,True,True,True,,
+גדרה 13,center-kerem,700 ₪,לא צוין,קרקע,10," כרם התימנים, תל אביב יפו ",False,False,False,False,34.769342,32.069667
+ישכון 17,center-kerem,"3,000 ₪",1,קרקע,25," כרם התימנים, תל אביב יפו ",True,True,False,True,34.76702,32.069326
+גאולה 5,center-kerem,לא צוין מחיר,2,קרקע,40," כרם התימנים, תל אביב יפו ",False,True,True,True,34.765206,32.072445
+גאולה 39,center-kerem,"3,490 ₪",1,קרקע,18," כרם התימנים, תל אביב יפו ",False,True,True,True,34.768378,32.071543
+גאולה ,center-kerem,לא צוין מחיר,2,6,60," כרם התימנים, תל אביב יפו ",True,True,True,True,35.216052,31.7883192
+גדרה 6,center-kerem,"2,000 ₪",1,קרקע,12," כרם התימנים, תל אביב יפו ",False,True,False,False,35.1992439,31.7941579
+אלשיך ,center-kerem,"3,550 ₪",1,1,26," כרם התימנים, תל אביב יפו ",False,True,True,True,34.7688274,32.0704936
+הכובשים ,center-kerem,"5,300 ₪",2.5,1,50," כרם התימנים, תל אביב יפו ",False,True,True,False,34.9482796,32.5671689
+הכובשים 33,center-kerem,"5,000 ₪",2,1,50," כרם התימנים, תל אביב יפו ",False,True,True,False,34.766803,32.070278
+הירקון 23,center-kerem,"7,400 ₪",3,2,75," כרם התימנים, תל אביב יפו ",False,True,False,True,35.2094186,31.7843459
+גדרה ,center-kerem,"17,000 ₪",4,קרקע,180," כרם התימנים, תל אביב יפו ",False,True,True,True,34.7803882,31.8117747
+הירקון 19,center-kerem,"25,000 $",4,20,220," כרם התימנים, תל אביב יפו ",True,True,True,True,34.984599193401,32.79416065
+יונה הנביא ,center-kerem,"2,900 ₪",1,-1,35," כרם התימנים, תל אביב יפו ",True,True,True,False,34.861665,32.2986236
+כרמלית ,center-kerem,"12,000 ₪",4,3,110," כרם התימנים, תל אביב יפו ",True,True,True,True,34.9923834,32.8096602
+הכובשים ,center-kerem,"5,000 ₪",2,3,40," כרם התימנים, תל אביב יפו ",True,False,False,False,34.9482796,32.5671689
+אלישיב 24,center-kerem,"6,000 ₪",3,קרקע,70," כרם התימנים, תל אביב יפו ",False,True,True,True,34.767766,32.069628
+גאולה 31,center-kerem,"8,000 ₪",3,1,66," כרם התימנים, תל אביב יפו ",True,True,True,False,34.767771,32.07174
+בית יוסף 23,center-kerem,"5,200 ₪",2.5,קרקע,70," כרם התימנים, תל אביב יפו ",False,True,False,False,34.76934,32.07048
+גאולה ,center-kerem,"7,500 ₪",3,3,80," כרם התימנים, תל אביב יפו ",False,True,True,False,35.216052,31.7883192
+"תרמ""ב 25",center-kerem,"3,650 ₪",1,1,24," כרם התימנים, תל אביב יפו ",False,True,True,True,34.767222,32.068362
+אלשיך ,center-kerem,"2,850 ₪",1,קרקע,20," כרם התימנים, תל אביב יפו ",False,True,True,True,34.7688274,32.0704936
+גאולה 39,center-kerem,"7,200 ₪",3,1,65," כרם התימנים, תל אביב יפו ",False,True,True,False,34.768378,32.071543
+אלנבי 20,center-kerem,"5,500 ₪",2,4,42," כרם התימנים, תל אביב יפו ",True,True,False,True,34.766931,32.073024
+הכובשים ,center-kerem,"8,250 ₪",4,4,100," כרם התימנים, תל אביב יפו ",True,True,True,False,34.9482796,32.5671689
+רציף הרברט סמואל 42,center-kerem,"15,000 ₪",2,6,60," כרם התימנים, תל אביב יפו ",True,True,True,True,,
+יונה הנביא ,center-kerem,"7,500 ₪",4,קרקע,100," כרם התימנים, תל אביב יפו ",False,True,False,False,34.861665,32.2986236
+"מל""ן 3",center-kerem,"3,650 ₪",1,קרקע,30," כרם התימנים, תל אביב יפו ",False,True,True,False,34.766784,32.069875
+דניאל ,center-kerem,"11,500 ₪",4,5,90," כרם התימנים, תל אביב יפו ",True,True,True,False,35.2257044,31.7816683
+עזרא הסופר 11,center-kerem,"14,000 ₪",4,4,115," כרם התימנים, תל אביב יפו ",True,True,True,False,34.765378,32.069922
+רציף הרברט סמואל 46,center-kerem,"10,000 ₪",3,4,100," כרם התימנים, תל אביב יפו ",True,True,True,True,,
+רציף הרברט סמואל ,center-kerem,"22,000 ₪",2,20,94," כרם התימנים, תל אביב יפו ",True,True,True,True,,
+יחיא קאפח 3,center-kerem,"4,700 ₪",2,קרקע,47," כרם התימנים, תל אביב יפו ",False,True,True,True,34.767135,32.068107
+הכובשים 60,center-kerem,"10,000 ₪",4,1,120," כרם התימנים, תל אביב יפו ",False,True,False,False,34.764891,32.068024
+יונה הנביא ,center-kerem,"7,900 ₪",4,2,85," כרם התימנים, תל אביב יפו ",True,True,True,False,34.861665,32.2986236
+אלנבי 38,center-kerem,"9,500 ₪",4,1,100," כרם התימנים, תל אביב יפו ",False,True,True,True,34.76864,32.072555
+יונה הנביא ,center-kerem,"2,500 ₪",1,4,22," כרם התימנים, תל אביב יפו ",False,False,False,False,34.861665,32.2986236
+רבי מאיר 36,center-kerem,"4,700 ₪",1,קרקע,35," כרם התימנים, תל אביב יפו ",False,True,True,True,34.7686,32.069128
+אלישיב 26,center-kerem,"3,200 ₪",1,קרקע,20," כרם התימנים, תל אביב יפו ",False,True,False,False,34.767895,32.069463
+בית יוסף ,center-kerem,"13,000 ₪",4,1,100," כרם התימנים, תל אביב יפו ",True,True,True,True,35.5523146,32.5588132
+גאולה 21,center-kerem,800 ₪,לא צוין,קרקע,5," כרם התימנים, תל אביב יפו ",False,False,False,False,34.766708,32.072037
+יונה הנביא ,center-kerem,"3,550 ₪",1.5,2,27," כרם התימנים, תל אביב יפו ",False,True,False,True,34.861665,32.2986236
+הכובשים 45,center-kerem,"6,000 ₪",3,2,60," כרם התימנים, תל אביב יפו ",False,True,True,True,34.766213,32.069472
