@@ -38,7 +38,7 @@ def extract_apartment_info(folder_path):
             soup = BeautifulSoup(html_file, 'html.parser')
             if can_extract(soup):
                 apartment = {}
-                apartment['Title'] = soup.find('h4', attrs={'class': 'main_title'}).text
+                apartment['Address'] = soup.find('h4', attrs={'class': 'main_title'}).text
                 apartment['Area'] = folder_path[5:]
                 apartment['Price'] = soup.find('strong', attrs={'class': 'price'}).text
                 apartment['Rooms'] = soup.findAll('dd', attrs={'class': 'value'})[ROOM].text
