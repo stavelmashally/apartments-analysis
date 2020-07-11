@@ -57,7 +57,7 @@ CSV_FILE = 'apartments.csv'
 
 NEIGBORHOODS = {
     # 'ramatAviv': [],
-     'north': [ 1461]#204, 1516, 1519, 1483,
+    'north': [ 1461]#204, 1516, 1519, 1483,
     # 'centerLevTlv': [1520, 848],
     # 'centerKerem': [1521],
     #'centerEast': [485, 486, 206, 317, 318],

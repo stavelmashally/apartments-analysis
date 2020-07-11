@@ -109,10 +109,18 @@ def scrape_apartments():
     for area, codes in config.NEIGBORHOODS.items():
         for code in codes:
             url = config.URL.format(area_code=code)
-            res = requests.get(url, headers=generate_headers())
+            browser = initialize_selenium()
+            # Open website
+            browser.get(url)
+            # Wait until page has loaded
+            WebDriverWait(browser, 30)
+            time.sleep(5)
+            # Get the content
+            html = browser.page_source
+            # res = requests.get(url, headers=generate_headers())
             filename = f'{area}{code}'
-            to_html_file(res.text, filename, config.SEARCH_RESULTS_PATH)
-            time.sleep(3)
+            to_html_file(html, filename, config.SEARCH_RESULTS_PATH)
+            # time.sleep(3)
 
 
 def get_coordinates():
@@ -131,12 +139,12 @@ def get_coordinates():
 
 def main():
     # scrape_apartments()
-    # apt_ids = extract_apartments_ids()
-    # scrape_items(apt_ids)
+    apt_ids = extract_apartments_ids()
+    scrape_items(apt_ids)
     # folder = NORTH_PATH
     # for folder in ALL:
     #     extract_apartment_info(folder)
-    get_coordinates()
+    #get_coordinates()
 
 
 if __name__ == "__main__":
