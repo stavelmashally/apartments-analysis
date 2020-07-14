@@ -7,6 +7,7 @@ import random
 import os
 import pandas as pd
 from geopy.geocoders import Nominatim
+from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium import webdriver
@@ -72,6 +73,7 @@ def generate_headers():
 
 def initialize_selenium():
     chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument(f'user-agent={random.choice(config.AGENTS)}')
     chrome_options.add_argument("--headless")
     browser = webdriver.Chrome(options=chrome_options)
     return browser
@@ -79,8 +81,8 @@ def initialize_selenium():
 
 # Last call was: [65:80]
 def scrape_items(id_list):
-    browser = initialize_selenium()
-    for item_id in id_list[0:60]:
+    for item_id in id_list[0:50]:
+        browser = initialize_selenium()
         url = config.ITEM_URL.format(item_id=item_id)
         print('scraping: ', url)
         # Open website
@@ -92,7 +94,7 @@ def scrape_items(id_list):
         html = browser.page_source
         print(html)
         to_html_file(html, item_id, config.ITEMS_PATH)
-    browser.close()
+        browser.close()
 
 
 def extract_apartments_ids():
@@ -124,27 +126,28 @@ def scrape_apartments():
 
 
 def get_coordinates():
-    apartments = pd.read_csv(CSV_FILE)
+    apartments = pd.read_csv('c.csv')
     geolocator = Nominatim(user_agent="apartments")
     for index, apartment in apartments.iterrows():
-        location = geolocator.geocode(f"תל אביב יפו {apartment['Title']}")
+        location = geolocator.geocode(f"תל אביב יפו {apartment['Address']}")
         if location:
+            print(location.longitude)
             apartments.loc[index, 'lon'] = location.longitude
             apartments.loc[index, 'lat'] = location.latitude
         else:
             apartments.loc[index, 'lon'] = None
             apartments.loc[index, 'lat'] = None
     # print(apartments['lat'].head())
-    apartments.to_csv(CSV_FILE)
+    apartments.to_csv('c.csv')
 
 def main():
     # scrape_apartments()
-    apt_ids = extract_apartments_ids()
-    scrape_items(apt_ids)
+    # apt_ids = extract_apartments_ids()
+    # scrape_items(apt_ids)
     # folder = NORTH_PATH
     # for folder in ALL:
-    #     extract_apartment_info(folder)
-    #get_coordinates()
+    # extract_apartment_info(config.ITEMS_PATH)
+    get_coordinates()
 
 
 if __name__ == "__main__":
